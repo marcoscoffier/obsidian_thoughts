@@ -1,0 +1,34 @@
+# Ignore everything at the root by default...
+/*
+!/.gitignore
+
+# ...except these vaults
+!/personal_history/
+!/thoughts/
+!/papa_slides/
+
+# Images / binaries (not tracked yet)
+*.jpg
+*.jpeg
+*.JPG
+*.png
+*.PNG
+*.gif
+*.webp
+*.heic
+*.pdf
+
+# Symlinks to image folders in ~/Pictures (machine-specific)
+/papa_slides/media/
+
+# Obsidian per-device UI state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.trash/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS cruft
+.DS_Store

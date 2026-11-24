@@ -1,0 +1,162 @@
+# Settings for build_vault.py. Edit, then re-run the script.
+
+source = "~/Pictures/Papa"        # slide rolls (Papa_-_*) and Super8_clips live here
+skip = ["Super8", "Super8_quire", "photo-matching"]
+
+# Words that mark a caption sentence as describing the background (see [[themes]]).
+background = 'background|distance|distant|horizon|behind|beyond|far|further off'
+# Phrases removed before matching themes: the dog is not a shepherd, pigeons
+# taking flight are not a plane, a portrait of the Shah on the wall is not a
+# portrait theme, a town under a snowy peak (sommet enneigé) is not an expedition.
+ignore = ['German shepherd', 'German shepherds', 'taking flight', 'takes flight', 'take flight',
+          'flight of steps', 'construction camp', 'portrait of the Shah', "Shah's portrait",
+          'framed portrait', 'portrait chah', 'mollah portrait', 'sommet enneige',
+          'Speedboat on a lake']
+
+# Rolls where another version of each slide should be shown instead of the scan.
+# {stem} is the slide's file name without .jpg, as listed in the README.
+[variants]
+"Papa_-_1962_Q4_Ekta" = "colorized/{stem}_semantic.jpg"
+
+# Periods: long stretches of time. A roll or reel gets the first period whose
+# years include its year, unless `rolls` names it explicitly.
+[[periods]]
+name = "Afghanistan 1951–52"
+years = [1951, 1952]
+match = "Afghanistan"             # regex on the folder name
+
+[[periods]]
+name = "Rome and Paris 1952"
+years = [1952, 1952]
+match = "Rome|Paris"
+
+[[periods]]
+name = "Iran 1955–65"
+years = [1955, 1965]
+
+[[periods]]
+name = "Later years"
+years = [1966, 1999]
+
+# Themes cut across rolls. They are kept strict on purpose: a slide only gets a
+# theme when its caption or file name is clearly about it. Better to add a tag
+# by hand than to wade through wrong ones.
+#
+# A slide or clip gets a theme when:
+#   - one of `words` is in its file name (the names describe the main subject), or
+#   - one of `words` is in a sentence of its English caption that doesn't also
+#     contain `background` words (so "mountains in the distance" doesn't count), or
+#   - all the words of one `together` group are in the caption, or
+#   - the English caption starts with `starts` (a regex), e.g. "A man in…".
+# ...unless one of `unless` appears anywhere (water skiing isn't mountains).
+# Matching is case-insensitive and on whole words.
+#
+# Removing a theme tag from a note sticks: the script won't put it back. Adding
+# one by hand sticks too. `themes_status: reviewed` freezes a note's themes.
+
+[[themes]]
+name = "Road trips"
+words = ['road trip', 'convoy', 'ferry', 'ferried', 'citroën', 'citroen', 'ds', 'beetle', 'mercedes', 'jeep', 'bac', 'col', 'voiture', 'camion']
+together = [['car', 'road'], ['car', 'track'], ['truck', 'road'], ['car', 'parked', 'pass']]
+
+[[themes]]
+name = "Mountains"
+words = ['summit', 'peak', 'glacier', 'damavand', 'demavend', 'alam kuh', 'tochal', 'ski', 'skiing', 'skier', 'skiers', 'ski tow', 'climbing', 'climber', 'climbers', 'mountain pass', 'mountain road', 'mountain walk', 'montagne', 'montagnes', 'sommet', 'col']
+unless = ['waterski', 'water ski', 'water-ski', 'water skiing', 'water-skiing', 'water skier', 'ski nautique', 'nautique']
+
+[[themes]]
+name = "Markets"
+words = ['market', 'markets', 'bazaar', 'bazaars', 'souk', 'market stall', 'market stalls', 'shopkeeper', 'merchant', 'merchants', 'vendor', 'vendors', 'carpet seller', 'marche', 'bazar', 'boutique', 'marchand']
+
+[[themes]]
+name = "Locals"
+words = ['turban', 'turbans', 'turbaned', 'traditional robes', 'traditional dress', 'traditional clothing', 'traditional clothes', 'villager', 'villagers', 'nomad', 'nomads', 'nomadic', 'chador', 'chadors', 'locals', 'local men', 'local women', 'porter', 'porters', 'tribesmen', 'peasant', 'peasants', 'shepherd', 'camel driver', 'kuchi', 'turkomans', 'villageois', 'paysan', 'paysans']
+
+[[themes]]
+name = "Sheep herders"
+words = ['sheep', 'shepherd', 'shepherds', 'moutons', 'mouton', 'berger', 'bergers']
+
+[[themes]]
+name = "Airplanes"
+words = ['plane', 'planes', 'airplane', 'aeroplane', 'aircraft', 'airliner', 'airport', 'airfield', 'aerodrome',
+         'runway', 'tarmac', 'apron', 'cockpit', 'wing', 'wing tip', 'wing strut', 'flight', 'flying over',
+         'from the air', 'constellation', 'dc-3', 'dc 3', 'convair', 'finnair', 'iran air',
+         'avion', 'aeroport', 'aéroport', 'vue aerienne', 'aile']
+
+# Being on the mountain or the trek (camps, climbs, summits, mule caravans),
+# not looking at one from the road; that's "Mountains".
+[[themes]]
+name = "Expeditions"
+words = ['expedition', 'trek', 'trekking', 'hike', 'hiking', 'hiker', 'hikers', 'climber', 'climbers',
+         'mountaineer', 'mountaineers', 'ascent', 'base camp', 'camp', 'campsite', 'camp site', 'summit',
+         'summit ridge', 'crater', 'glacier', 'moraine', 'ice axe', 'penitentes', 'mule caravan', 'pack mule',
+         'pack mules', 'rucksack', 'rucksacks', 'backpack', 'cairn', 'scramble', 'trails',
+         'expédition', 'randonneur', 'randonneurs', 'randonnee', 'marcheurs', 'alpiniste', 'alpinistes',
+         'escalade', 'sommet', 'sommital', 'sommitale', 'eboulis', 'cratere', 'penitents', 'mulets',
+         'muletier', 'sac a dos', 'bivouac', 'refuge', 'skieur', 'skis']
+together = [['mules', 'gorge']]
+unless = ['mast', 'pylone', 'waterski', 'water ski', 'nautique', 'lift', 'chairlift', 'ski lift', 'ski tow',
+          'téléski', 'teleski']
+
+# One person or a few as the subject: a caption that starts with them, or says
+# portrait / posing / smiling, or names Svetlana, Marcel or Nina. Not crowds.
+[[themes]]
+name = "Portraits"
+words = ['portrait', 'portraits', 'poses', 'posing', 'posed', 'smiling', 'smiles', 'facing the camera',
+         'to the camera', 'to camera', 'into the camera', 'couple', 'svetlana', 'marcel', 'nina']
+starts = '(an? |the |the same )?(smiling |young |old |bearded |blonde |local )*(man|woman|boy|girl|child|couple|family|shepherd|farmer|cleric|(two|three|four) (men|women|people|children|boys|girls)|group portrait|svetlana|marcel|nina)'
+unless = ['crowd', 'crowds', 'foule']
+
+# Work projects: radio stations and antennas (Zahedan, Kermanshah, Kam), microwave
+# relays, the Karaj dam, the Trans-Iranian railway works, a power station, harbour
+# and road works, the Rasht telephone exchange. Not leisure at the Karaj reservoir.
+[[themes]]
+name = "Infrastructure"
+words = ['antenna', 'antennas', 'antennae', 'antenne', 'lattice mast', 'antenna mast', 'pylone', 'guy wires', 'haubans',
+         'transmitter', 'transmitters', 'emetteurs', 'emetteur', 'radio station', 'radio site', 'station radio', 'site radio',
+         'microwave relay', 'relay', 'control room', 'salle controle', 'telephone exchange', 'central telephonique',
+         'dam', 'dams', 'barrage', 'power station', 'power plant', 'centrale electrique',
+         'railway construction', 'railway works', 'railway viaduct', 'track-laying', 'track laying', 'laying railway',
+         'pose voie', 'sleepers', 'viaduct', 'viaduc', 'rail welding', 'soudure rail',
+         'road works', 'under construction', 'chantier', 'construction']
+unless = ['ski lift', 'ski tow', 'lift', 'waterski', 'water-skiing', 'water skiing', 'pedal boats', 'bathers',
+          'construction crane', 'band-e amir', 'band e amir']
+
+# Beaches, swimming (sea, rivers, pools), water skiing and the speedboat at Karaj. A pool alone (a garden
+# basin, a mosque courtyard, the Zahedan station's pool) doesn't count.
+[[themes]]
+name = "Beaches and swimming"
+words = ['beach', 'beaches', 'plage', 'plages', 
+         'swim', 'swims', 'swimming', 'swimmer', 'swimmers', 'bather', 'bathers', 'bathing', 'baigneur', 'baigneurs',
+         'baigneuse', 'baignade', 'swimsuit', 'swimsuits', 'swimwear', 'bikini', 'bathing suit', 'maillot',
+         'swimming pool', 'swimming pools', 'open-air pool', 'poolside', 'pedal boats', 'pedalo', 'diving', 'plongeon',
+         'waterski', 'water ski', 'water-ski', 'water skiing', 'water-skiing', 'water skier', 'water skiers',
+         'ski nautique', 'kite skiing', 'speedboat', 'speedboats', 'motorboat', 'outboard motor', 'onboard views']
+unless = ['antenna', 'antenne', 'mast', 'pylone', 'transmitter', 'engineering', 'radio']
+
+# Being on a boat: ferries, the 1959 sea voyage, the SS France, sightseeing boats
+# in New York, the Norwegian cruise, sailing in Lebanon. Not boats seen from the shore.
+[[themes]]
+name = "Boat rides"
+words = ['aboard', 'on board', 'on deck', 'deck rail', 'sun deck', 'car deck', 'deck chairs', 'at the rail',
+         'from the boat', 'from a boat', 'from the ferry', 'from the deck', 'from the ship', 'from the sea',
+         'from the river', 'onboard', 'outboard motor', 'sightseeing boat', 'boat tour', 'boat trip', 'cruise', 'at sea', 'underway', 'bow', 'funnel', 'funnels',
+         'ferry', 'ss france', 'liner', 'sailboat',
+         'depuis mer', 'bastingage', 'proue', 'sillage', 'transats', 'ferry pont', 'pont voitures', 'voilier equipage', 'voilier mouillage']
+unless = ['waiting for the ferry', 'ferry crossing in the distance', 'ferry lointain', 'bridge deck', "ship's bow", 'a man aboard']
+
+# Ancient sites: Persepolis and Naqsh-e Rustam, Bisotun and Taq-e Bostan, Giza,
+# Saqqara and Memphis, Baalbek, Roman Rome, the Acropolis, Bamiyan, the Kidron
+# tombs, the Istanbul hippodrome. Not modern mausoleums (Atatürk, Lenin, Avicenna),
+# the 19th-century Fath Ali Shah relief above the carpets, or the medieval Band-e Amir dam.
+[[themes]]
+name = "Ancient sites"
+words = ['ancient', 'antiquity', 'archaeology', 'archaeological', 'excavation', 'excavations', 'fouilles',
+         'ruins', 'ruined', 'ruines', 'relief', 'reliefs', 'rock relief', 'rock reliefs', 'bas relief', 'sassanid', 'achaemenid',
+         'persepolis', 'persépolis', 'naqsh-e rustam', 'naqsh e rustam', 'pasargadae', 'bisotun', 'behistun', 'taq-e bostan',
+         'pyramid', 'pyramids', 'pyramide', 'pyramides', 'sphinx', 'saqqara', 'memphis', 'colossus', 'giza', 'gizeh',
+         'baalbek', 'temple', 'acropolis', 'parthenon', 'agora',
+         'forum', 'colosseum', 'colisee', 'caracalla', 'thermes', 'colonne trajane', 'marc aurele', 'temple hadrien',
+         'chapiteaux', "sant'angelo", 'castel sant angelo',
+         'bamiyan', 'buddha', 'bouddha', 'kidron', 'tombeaux roche', 'hippodrome', 'serpent column', 'colonne serpent']
+unless = ['waterski', 'carpets', 'tapis', 'lenin', 'atatürk', 'ataturk', 'anitkabir', 'avicenna', 'band-e amir', 'band e amir', 'reservoir']

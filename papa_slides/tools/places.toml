@@ -1,0 +1,159 @@
+# Places that build_vault.py looks for. Edit, then re-run the script.
+#
+# A slide gets a place when one of its `aliases` appears in its English caption,
+# its box caption or its file name (clips: description, title, tags). A name
+# followed by "?" or "(?)", or after "possibly"/"perhaps"/"probably", goes in
+# `places_maybe` instead of `places`. A place found only in a file name is
+# uncertain too when the roll's README only ever names it with a "?".
+# A slide that names no place takes its roll's place, when the roll's title,
+# box text or folder name names exactly one place (`place_source: roll`).
+#
+# Captions are matched case-sensitively; file names and clip tags in lower case,
+# except for aliases listed in `exact` (words that are also ordinary words).
+# A place with `country = ""` is left without a country; Jerusalem and
+# Bethlehem are like that because who held them changed over the years.
+
+exact = ["Nice", "Nil", "Rey", "Seine"]
+
+[countries]
+Afghanistan = ["Afghanistan"]
+Iran = ["Iran", "Persia", "Perse"]
+Turkey = ["Turkey", "Turquie", "Anatolia", "Anatolie"]
+Greece = ["Greece", "Grèce", "Grece"]
+Italy = ["Italy", "Italie"]
+France = ["France"]
+Egypt = ["Egypt", "Egypte", "Égypte"]
+Lebanon = ["Lebanon", "Liban"]
+Iraq = ["Iraq", "Irak"]
+Norway = ["Norway", "Norvège", "Norvege"]
+Finland = ["Finland", "Finlande"]
+"Soviet Union" = ["USSR", "URSS"]
+"United States" = ["USA", "United States"]
+Colombia = ["Colombia", "Colombie"]
+Senegal = ["Senegal", "Sénégal"]
+Mali = ["Mali"]
+"Upper Volta" = ["Upper Volta", "Haute-Volta", "Burkina Faso"]
+"Ivory Coast" = ["Ivory Coast", "Côte d'Ivoire", "Cote d'Ivoire"]
+"Equatorial Guinea" = ["Equatorial Guinea", "Guinée équatoriale", "Fernando Po", "Fernando Poo"]
+"Central African Republic" = ["Central African Republic", "République centrafricaine", "Centrafrique"]
+Switzerland = ["Switzerland", "Suisse"]
+
+[places.Afghanistan]
+"Mazar-i-Sharif" = ["Mazar-i-Sharif", "Mazar-i-Charif", "Mazar i Sharif"]
+Kabul = ["Kabul", "Kaboul"]
+Bamiyan = ["Bamiyan", "Bamyan"]
+
+[places.Iran]
+Tehran = ["Tehran", "Teheran", "Téhéran"]
+Damavand = ["Damavand", "Demavend", "Demavand"]
+"Alam Kuh" = ["Alam Kuh", "Alamkuh"]
+Tochal = ["Tochal"]
+Abali = ["Abali", "Abe Ali", "Ab Ali", "Ab-e Ali"]
+Karaj = ["Karaj", "Karadj", "Amir Kabir dam", "Karaj dam"]
+Kamalabad = ["Kamalabad", "Kamal Abad"]
+Qom = ["Qom", "Ghum", "Qum"]
+Rasht = ["Rasht", "Recht", "Racht"]
+"Caspian Sea" = ["Caspian", "Caspienne", "Mer Caspienne"]
+"Sefid Rud" = ["Sefid Rud", "Sefidrud"]
+Gorgan = ["Gorgan"]
+Isfahan = ["Isfahan", "Ispahan", "Si-o-se-pol", "Ali Qapu", "Naqsh-e Jahan", "Sheikh Lotfollah", "Lotfollah"]
+Shiraz = ["Shiraz", "Chiraz"]
+Persepolis = ["Persepolis", "Persépolis"]
+Nain = ["Nain", "Naïn", "Narin Qaleh"]
+Kermanshah = ["Kermanshah"]
+Bisotun = ["Bisotun", "Behistun", "Bisitun"]
+Zahedan = ["Zahedan"]
+Bushehr = ["Bushehr", "Bouchire"]
+"Haraz road" = ["Haraz"]
+"Halghe Darreh" = ["Halghe Darreh"]
+# The historic dam on the Kur river near Persepolis ("Band-e Amir près Persépolis"),
+# not the lakes in Afghanistan, which no roll names.
+"Band-e Amir dam" = ["Band-e Amir"]
+
+[places.Turkey]
+Istanbul = ["Istanbul", "Constantinople", "Bosphorus", "Bosphore", "Hagia Sophia", "Rumeli Hisar", "Rumeli Hisarı"]
+Dardanelles = ["Dardanelles"]
+Ankara = ["Ankara"]
+Samsun = ["Samsun"]
+Cappadocia = ["Cappadocia", "Cappadoce", "Göreme", "Goreme"]
+"Mount Ararat" = ["Ararat"]
+
+[places.Greece]
+Kavala = ["Kavala", "Cavala"]
+Meteora = ["Meteora", "Météores", "Meteores"]
+Corfu = ["Corfu", "Corfou"]
+
+[places.Italy]
+Rome = ["Rome", "Roma", "Colosseum", "Colisée", "Palazzo Venezia", "Baths of Caracalla"]
+
+[places.France]
+Paris = ["Paris", "Les Invalides", "Saint-Germain-des-Prés"]
+Nice = ["Nice"]
+"Le Havre" = ["Le Havre"]
+Iseran = ["Iseran", "L'Iseran", "L'iseran"]
+Tignes = ["Tignes"]
+
+[places.Egypt]
+Cairo = ["Cairo", "Le Caire", "Muhammad Ali Mosque"]
+Giza = ["Giza", "Gizeh", "Great Pyramid", "Sphinx", "Khafre"]
+Saqqara = ["Saqqara", "Sakkara"]
+Memphis = ["Memphis"]
+Nile = ["Nile", "Nil"]
+
+[places.Lebanon]
+Baalbek = ["Baalbek"]
+Beirut = ["Beirut", "Beyrouth"]
+
+[places.""]
+Jerusalem = ["Jerusalem", "Jérusalem", "Via Dolorosa", "Saint-Sépulcre", "Holy Sepulchre", "Mount of Olives",
+             "mont des Oliviers", "Pater Noster", "Kidron", "Cédron", "Dome of the Rock", "Dôme du Rocher"]
+Jericho = ["Jericho", "Jéricho"]
+"Dead Sea" = ["Dead Sea", "mer Morte"]
+"Jordan River" = ["Jordan River", "Jourdain"]
+Bethlehem = ["Bethlehem", "Bethléem"]
+
+[places.Norway]
+Oslo = ["Oslo"]
+"Tromsø" = ["Tromsø", "Tromso"]
+Kirkenes = ["Kirkenes"]
+"North Cape" = ["North Cape", "Cap Nord"]
+
+[places.Finland]
+Helsinki = ["Helsinki"]
+
+[places."Soviet Union"]
+Moscow = ["Moscow", "Moscou", "Kremlin"]
+Leningrad = ["Leningrad"]
+
+[places."United States"]
+"New York" = ["New York", "Manhattan", "Hudson", "Empire State Building"]
+Florida = ["Florida", "Floride"]
+Washington = ["Washington", "Wash. DC", "Washington DC"]
+Chincoteague = ["Chincoteague"]
+
+# 1971: last trip to Africa (box: DKR, BKO, ABJ, Sta Isabel, Bangui), then Geneva,
+# Tignes, Rome, Chincoteague and home in Washington.
+[places.Senegal]
+Dakar = ["Dakar", "DKR"]
+
+[places.Mali]
+Bamako = ["Bamako", "BKO"]
+
+[places."Upper Volta"]
+Ouagadougou = ["Ouagadougou"]
+
+[places."Ivory Coast"]
+Abidjan = ["Abidjan", "ABJ"]
+
+[places."Equatorial Guinea"]
+# Santa Isabel is now Malabo, on Bioko (then Fernando Po).
+"Santa Isabel" = ["Santa Isabel", "Sta Isabel", "Malabo"]
+
+[places."Central African Republic"]
+Bangui = ["Bangui"]
+
+[places.Switzerland]
+Geneva = ["Geneva", "Genève", "Geneve"]
+
+[places.Colombia]
+"Bogotá" = ["Bogotá", "Bogota", "Monserrate"]

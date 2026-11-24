@@ -1,0 +1,1011 @@
+# What tools/build_vault.py knows about each text in metm.org/marco/thoughts.
+#
+# Per text:
+#   file     the original file (Mac Roman text, never changed)
+#   title    from the text's own title line where it has one
+#   skip     how many non-blank lines at the top are a cover sheet (name, teacher,
+#            course, date, title). They are kept, verbatim, in a "Cover sheet" box.
+#   date     only when it is written on the page; otherwise year + dated = "estimated"
+#   themes   strict: only when the theme is what the text is about (see [[theme]])
+#   group    texts that are versions or parts of the same piece link to each other
+#
+# Edit this file and rerun build_vault.py; notes you have edited in Obsidian are
+# left alone (see the script).
+
+source = "/home/marco/Projects/obsidian/metm.org/marco/thoughts"
+
+# ---------------------------------------------------------------- themes
+
+[[theme]]
+name = "Experiencing space"
+about = "How space, depth and distance are lived rather than measured: the senior essay on Merleau-Ponty, Bachelard, Camus and Saint-Exupéry, its notes and fragments, and the art texts that come out of the same question."
+not = "Pictorial space in paintings (Hopper, Diebenkorn) is left out: that is space on a canvas, not space experienced."
+
+[[theme]]
+name = "Seen from the air"
+about = "The view from a plane as a new way of seeing: Saint-Exupéry, the mountain climbed versus the mountain flown around, the ocean crossing in the senior essay notes."
+not = "The Meinel letter mentions an observer aloft only as a point in a refraction diagram."
+
+[[theme]]
+name = "Light, sky and shadow"
+about = "Sunlight, sky colour, twilight and shadow as subject matter: the 1995 installations, the quotations gathered for them, the letter on atmospheric refraction, the sunlit bathroom of the sculpture notes."
+
+[[theme]]
+name = "Installations and studio work"
+about = "Texts that belong to his own art: printed directions handed to viewers, labels, sketches for pieces, notes toward sculpture, the Beaux-Arts statement."
+not = "'Transparency' (two words) may belong here, but nothing in it says so."
+
+[[theme]]
+name = "Mirrors and reflection"
+about = "Mirrors, looking-glasses and reflections as the thing being thought about: Woolf's looking-glass, Hoffmann's glass darkly, Ashbery's convex mirror and Merrill's mirror, confession held up as a mirror, the mirrored installations."
+
+[[theme]]
+name = "Word and image"
+about = "Poetry and painting (and music, and film) set side by side: ekphrasis, the Word and Image papers, Hegel's ranking of the arts, the writer's domain against the painter's."
+
+[[theme]]
+name = "Reality and representation"
+about = "The gap between a real experience and what a poem, a story or a memory can make of it: Wordsworth's leech-gatherer, Stevens's 'poem of pure reality', Woolf's and Hoffmann's glasses, Proust's goodnight kiss, a happy morning that a poem could not convey."
+not = "Ulysses ends on 'a type of simulated reality', but the paper is about repetition; left out."
+
+[[theme]]
+name = "Avant-garde and abstraction"
+about = "Twentieth-century art against or after the avant-garde: Malevich, Duchamp and Cage, Dubuffet's radicalism, Diebenkorn leaving abstraction, Hopper and Covert against Greenberg."
+
+[[theme]]
+name = "What art is"
+about = "What makes something art, or someone an artist, and how a work is judged: the essay on the word 'artist', Balzac's unknown masterpiece, Gautier's theory, Kant's taste, Hegel's ranking, Lu Chi's poetics, Proust's artistic process, the Beaux-Arts statement of motives."
+
+[[theme]]
+name = "Icons made human"
+about = "Religious images looked at for their humanity: the ivory Christ whose lost arms make him more human, Taddeo's veiny John the Baptist against Nardo's, Giovanni da Milano's emotional Joachim and Anna."
+
+[[theme]]
+name = "Language and mind"
+about = "The Language and Mind course (Pinker, Jackendoff, Lakoff): how words, grammar and categories live in the mind."
+
+[[theme]]
+name = "Gender and desire"
+about = "Sex, gender and desire as the subject: the male feminist critic, women and the imagination in Don Quixote, Balzac's comparison of paintings and women."
+
+# ---------------------------------------------------------------- texts
+# Courses are written the same way for every paper of a course, so they group.
+
+# --- 1992, French 366b, French Modernism (Lynne Huffer)
+[[text]]
+file = "Proust.txt"
+title = "Image, Création — le Processus Artistique dans Combray"
+type = "essay"
+lang = "fr"
+skip = 5
+date = 1992-03-05
+course = "Français 366b: French Modernism (Littérature du 20e siècle)"
+teacher = "Lynne Huffer"
+people = ["Marcel Proust"]
+themes = ["Reality and representation", "What art is"]
+
+[[text]]
+file = "Purification.txt"
+title = "La Quête Impossible de Leiris et Jean-Baptiste"
+type = "essay"
+lang = "fr"
+skip = 5
+date = 1992-04-30
+course = "Français 366b: French Modernism (Littérature du 20e siècle)"
+teacher = "Lynne Huffer"
+people = ["Michel Leiris", "Albert Camus"]
+themes = ["Mirrors and reflection"]
+note = "Written for an early course on French Modernism taught by Lynne Huffer. Marco remembers it as 1993; the cover sheet says 30 April 1992, which is the date used here."
+
+# --- 1992, Lit 120 Narrative Forms
+[[text]]
+file = "A_Lady_in_the_Looking_Glass.txt"
+title = "A Search for the Truth through Reflection"
+type = "essay"
+lang = "en"
+skip = 4
+date = 1992-09-30
+course = "Lit 120: Narrative Forms"
+section = "Sandra Ferdman"
+people = ["Virginia Woolf"]
+themes = ["Mirrors and reflection", "Reality and representation"]
+
+[[text]]
+file = "Inconsistency.txt"
+title = "Reality in a Glass"
+type = "essay"
+lang = "en"
+skip = 5
+date = 1992-11-02
+course = "Lit 120: Narrative Forms"
+section = "Sandra Ferdman"
+people = ["E. T. A. Hoffmann", "Sigmund Freud"]
+themes = ["Mirrors and reflection", "Reality and representation"]
+
+# --- 1993, Shakespeare (English 201b)
+[[text]]
+file = "hamlet_passage.txt"
+title = "Favorite Passage in Hamlet"
+type = "essay"
+lang = "en"
+skip = 5
+date = 1993-02-25
+course = "English 201b: Shakespeare"
+section = "Rebecca Laroche"
+people = ["William Shakespeare"]
+
+[[text]]
+file = "Othello.txt"
+title = "Thoughts on 'Othello'"
+type = "notes"
+lang = "en"
+skip = 5
+date = 1993-04-07
+course = "English 201b: Shakespeare"
+section = "Rebecca Laroche"
+people = ["William Shakespeare"]
+
+[[text]]
+file = "Shakespeare_2.txt"
+title = "Desire vs. Action: The Inner Self vs. External Appearance in Hamlet and Macbeth"
+type = "essay"
+lang = "en"
+skip = 6
+date = 1993-04-27
+course = "English 201b: Shakespeare"
+section = "Rebecca Laroche"
+people = ["William Shakespeare"]
+
+# --- 1993, Pioneers of the Renaissance (Creighton Gilbert)
+[[text]]
+file = "GilbertPaper-1.txt"
+title = "John the Baptist by Nardo di Cione and Taddeo di Bartolo"
+type = "essay"
+lang = "en"
+skip = 5
+date = 1993-03-01
+course = "Pioneers of the Renaissance"
+teacher = "Prof. Gilbert"
+people = ["Nardo di Cione", "Taddeo di Bartolo"]
+themes = ["Icons made human"]
+
+[[text]]
+file = "Giovanni_da_Milano.txt"
+title = "Giovanni da Milano's Joachim and Anna Series in the Rinuccini Chapel"
+type = "essay"
+lang = "en"
+skip = 5
+date = 1993-04-23
+course = "Pioneers of the Renaissance"
+teacher = "Prof. Gilbert"
+people = ["Giovanni da Milano", "Giotto", "Taddeo Gaddi"]
+themes = ["Icons made human"]
+
+# --- 1993, English 129 (Sybille Reichert)
+[[text]]
+file = "Quixote-2.txt"
+title = "The Image of Sex and the Imagination in Don Quixote"
+type = "essay"
+lang = "en"
+skip = 5
+date = 1993-04-05
+course = "English 129"
+section = "Sybille Reichert"
+people = ["Miguel de Cervantes"]
+themes = ["Gender and desire"]
+
+[[text]]
+file = "Ulysses.txt"
+title = "Pebbles on a Beach: Joyce's Conglomeration of Themes in Ulysses"
+type = "essay"
+lang = "en"
+skip = 5
+date = 1993-04-19
+course = "English 129"
+section = "Sybille Reichert"
+people = ["James Joyce"]
+
+[[text]]
+file = "Letter_on_dante.txt"
+title = "Letter to Sybille on the Dante Paper"
+type = "letter"
+lang = "en"
+skip = 0
+year = 1993
+dated = "estimated"
+course = "English 129"
+section = "Sybille Reichert"
+people = ["Dante Alighieri"]
+note = "A cover note for a Dante paper that is not in the folder. The course and year are guessed from Sybille Reichert's other papers (spring 1993)."
+
+# --- 1993, 20th c. American Art (Jonathan Weinberg)
+[[text]]
+file = "Diebenkorn.txt"
+title = "Richard Diebenkorn: Painting against the Grain"
+type = "essay"
+lang = "en"
+skip = 6
+date = 1993-12-06
+group = "Diebenkorn"
+course = "20th c. American Art"
+teacher = "Jonathan Weinberg"
+section = "Michael Lobel"
+people = ["Richard Diebenkorn"]
+themes = ["Avant-garde and abstraction"]
+
+[[text]]
+file = "Diebenkorn-2nd.txt"
+title = "Richard Diebenkorn: Painting against the Grain (Second Draft)"
+type = "essay"
+lang = "en"
+skip = 6
+date = 1993-12-06
+group = "Diebenkorn"
+course = "20th c. American Art"
+teacher = "Jonathan Weinberg"
+section = "Michael Lobel"
+people = ["Richard Diebenkorn"]
+themes = ["Avant-garde and abstraction"]
+
+[[text]]
+file = "Wienberg-2nd.txt"
+title = "Hopper and Covert in the Terms of the Progression of the Modernist Movement"
+type = "essay"
+lang = "en"
+skip = 6
+year = 1993
+dated = "estimated"
+course = "20th c. American Art"
+teacher = "Jonathan Weinberg"
+section = "Michael Lobel"
+people = ["Edward Hopper", "John Covert", "Clement Greenberg"]
+themes = ["Avant-garde and abstraction"]
+
+# --- 1994, French Romanticism
+[[text]]
+file = "1st_Romance.txt"
+title = "La Subjectivité Contrôle l'Appréciation d'une Œuvre Artistique — Deux Nouvelles de Balzac"
+type = "essay"
+lang = "fr"
+skip = 6
+date = 1994-03-21
+group = "Balzac"
+course = "Français 357b: French Romanticism"
+teacher = "Susan Blood"
+people = ["Honoré de Balzac"]
+themes = ["What art is"]
+
+[[text]]
+file = "1st_Romance_extras.txt"
+title = "Romanticism — Extracts from Balzac"
+type = "extracts"
+lang = "fr"
+skip = 0
+year = 1994
+dated = "estimated"
+group = "Balzac"
+course = "Français 357b: French Romanticism"
+teacher = "Susan Blood"
+people = ["Honoré de Balzac"]
+themes = ["Gender and desire", "What art is"]
+
+[[text]]
+file = "2eme_Romance.txt"
+title = "Poids et contraintes dans la théorie de l'art de Théophile Gautier"
+type = "essay"
+lang = "fr"
+skip = 5
+year = 1994
+dated = "estimated"
+course = "Français 357b: French Romanticism"
+teacher = "Susan Blood"
+people = ["Théophile Gautier"]
+themes = ["What art is"]
+
+# --- 1994, Lit 300 (Michael Holquist)
+[[text]]
+file = "Lit_300_notes.txt"
+title = "Lit 300 — Lecture Notes"
+type = "notes"
+lang = "en"
+skip = 0
+year = 1994
+dated = "estimated"
+course = "Lit 300: Literary Theory"
+teacher = "Michael Holquist"
+section = "Leif Dahlberg"
+people = ["Friedrich Schiller"]
+
+[[text]]
+file = "Cleanth_Brooks.txt"
+title = "Cleanth Brooks: 'The Language of Paradox'"
+type = "notes"
+lang = "en"
+skip = 1
+year = 1994
+dated = "estimated"
+course = "Lit 300: Literary Theory"
+teacher = "Michael Holquist"
+section = "Leif Dahlberg"
+people = ["Cleanth Brooks"]
+note = "Notes for a section discussion. The course is a guess: Lit 300 read the New Critics."
+
+[[text]]
+file = "Lit_300_Kant_and_Stevens.txt"
+title = "Kant and Stevens: The Poems of Our Climate"
+type = "essay"
+lang = "en"
+skip = 0
+year = 1994
+dated = "estimated"
+course = "Lit 300: Literary Theory"
+teacher = "Michael Holquist"
+section = "Leif Dahlberg"
+people = ["Immanuel Kant", "Wallace Stevens"]
+themes = ["What art is"]
+
+[[text]]
+file = "Lit_300_On_Hegel.txt"
+title = "A Subversion of Hegel's Vertical Progress of Spirit: Considering How, in 1994, Film Might Best Fulfill the Role of Hegel's Universal Art Form"
+type = "essay"
+lang = "en"
+skip = 6
+date = 1994-03-21
+group = "Hegel"
+course = "Lit 300: Literary Theory"
+teacher = "Michael Holquist"
+section = "Leif Dahlberg"
+people = ["G. W. F. Hegel"]
+themes = ["Word and image", "What art is"]
+
+[[text]]
+file = "Hegel_extras.txt"
+title = "Hegel — Extracts on Music and Poetry"
+type = "extracts"
+lang = "en"
+skip = 0
+year = 1994
+dated = "estimated"
+group = "Hegel"
+course = "Lit 300: Literary Theory"
+teacher = "Michael Holquist"
+section = "Leif Dahlberg"
+people = ["G. W. F. Hegel"]
+themes = ["Word and image", "What art is"]
+
+[[text]]
+file = "Feminism.txt"
+title = "Male Feminist Critic"
+type = "essay"
+lang = "en"
+skip = 6
+year = 1994
+dated = "estimated"
+group = "Feminism"
+course = "Lit 300: Literary Theory"
+teacher = "Michael Holquist"
+section = "Leif Dahlberg"
+people = ["Julia Kristeva", "Toril Moi"]
+themes = ["Gender and desire"]
+
+[[text]]
+file = "Feminism-that_needs_fixing.txt"
+title = "Male Feminist Critic (Draft in Need of Fixing)"
+type = "draft"
+lang = "en"
+skip = 6
+year = 1994
+dated = "estimated"
+group = "Feminism"
+course = "Lit 300: Literary Theory"
+teacher = "Michael Holquist"
+section = "Leif Dahlberg"
+people = ["Julia Kristeva", "Toril Moi"]
+themes = ["Gender and desire"]
+
+# --- 1994, Word and Image (John Hollander, Andrew Forge)
+[[text]]
+file = "Ekphrastic_Passage.txt"
+title = "The YUAG's 17th Century Ivory Christ"
+type = "essay"
+lang = "en"
+skip = 5
+date = 1994-03-21
+course = "Word and Image"
+teacher = "John Hollander, Andrew Forge"
+themes = ["Word and image", "Icons made human"]
+
+[[text]]
+file = "Hollander.txt"
+title = "A Quick Study of Mirrors in Twentieth Century Poetry and Painting"
+type = "essay"
+lang = "en"
+skip = 5
+year = 1994
+dated = "estimated"
+group = "Mirrors"
+course = "Word and Image"
+teacher = "John Hollander, Andrew Forge"
+people = ["John Ashbery", "James Merrill", "M. C. Escher", "Parmigianino"]
+themes = ["Mirrors and reflection", "Word and image"]
+
+[[text]]
+file = "revision_mirrors.txt"
+title = "Mirrors in Merrill and Ashbery (Revision)"
+type = "draft"
+lang = "en"
+skip = 3
+year = 1994
+dated = "estimated"
+group = "Mirrors"
+course = "Word and Image"
+teacher = "John Hollander, Andrew Forge"
+people = ["James Merrill", "John Ashbery", "M. C. Escher"]
+themes = ["Mirrors and reflection", "Word and image"]
+
+[[text]]
+file = "Bloom_extras.txt"
+title = "Bloom — Extracts and Quotations"
+type = "extracts"
+lang = "en"
+skip = 0
+people = ["A. R. Ammons", "John Ashbery"]
+note = "Poems copied out with his comments in square brackets. 'Bloom' in the file name may be Harold Bloom; the course is unknown."
+
+[[text]]
+file = "wet_casements.txt"
+title = "Wet Casements (John Ashbery)"
+type = "transcription"
+lang = "en"
+skip = 0
+people = ["John Ashbery"]
+themes = ["Mirrors and reflection"]
+
+# --- 1994, Lit 410 The Avant Garde (Katerina Clark)
+[[text]]
+file = "avant_garde.txt"
+title = "Kazimir Malevich's New Realism (Draft)"
+type = "draft"
+lang = "en"
+skip = 6
+date = 1994-11-04
+group = "Malevich"
+course = "Lit 410: The Avant Garde"
+teacher = "Katerina Clark"
+people = ["Kazimir Malevich"]
+themes = ["Avant-garde and abstraction"]
+
+[[text]]
+file = "avant_garde_final.txt"
+title = "Kazimir Malevich's New Realism"
+type = "essay"
+lang = "en"
+skip = 6
+date = 1994-11-04
+group = "Malevich"
+course = "Lit 410: The Avant Garde"
+teacher = "Katerina Clark"
+people = ["Kazimir Malevich", "Duccio"]
+themes = ["Avant-garde and abstraction"]
+
+[[text]]
+file = "Duchamp_and_Cage.txt"
+title = "John Cage and Marcel Duchamp"
+type = "essay"
+lang = "en"
+skip = 5
+date = 1994-12-14
+course = "Lit 410: The Avant Garde"
+teacher = "Katerina Clark"
+people = ["Marcel Duchamp", "John Cage"]
+themes = ["Avant-garde and abstraction"]
+
+[[text]]
+file = "dubuffet.txt"
+title = "Dubuffet et la ville"
+type = "essay"
+lang = "fr"
+skip = 0
+year = 1998
+dated = "estimated"
+era = "Paris / Beaux-Arts"
+people = ["Jean Dubuffet", "Paul Feyerabend", "Ludwig Wittgenstein"]
+themes = ["Avant-garde and abstraction"]
+note = "Written at the École des Beaux-Arts, perhaps in 1998, 'pour une discussion de l'avant garde'."
+
+# --- 1994, Lit 410 The Interpretation of the Lyric (Roger Blood)
+[[text]]
+file = "Lyric.txt"
+title = "A Reading of Wordsworth (First Draft)"
+type = "draft"
+lang = "en"
+skip = 6
+date = 1994-10-31
+group = "Wordsworth"
+course = "Lit 410: The Interpretation of the Lyric"
+teacher = "Roger Blood"
+people = ["William Wordsworth"]
+themes = ["Reality and representation"]
+
+[[text]]
+file = "wordsworth.txt"
+title = "Wordsworth's Realism: a Reading of 'Resolution and Independence'"
+type = "essay"
+lang = "en"
+skip = 5
+date = 1994-12-13
+group = "Wordsworth"
+course = "Lit 410: The Interpretation of the Lyric"
+teacher = "Roger Blood"
+people = ["William Wordsworth"]
+themes = ["Reality and representation"]
+
+# --- Intro to Chinese Poetry (Kang-i Sun Chang)
+[[text]]
+file = "Chinese_paper.txt"
+title = "The Resonance of Lu Chi's Concept of Poetry to a Foreigner"
+type = "essay"
+lang = "en"
+skip = 5
+group = "Lu Chi"
+course = "Intro to Chinese Poetry"
+teacher = "Kang-i Sun Chang"
+section = "Mark Borer"
+people = ["Lu Chi"]
+themes = ["What art is"]
+note = "Undated; it looks back on freshman year, so sophomore year or later."
+
+[[text]]
+file = "Chinese_paper_2.txt"
+title = "The Resonance of Lu Chi's Concept of Poetry to a Foreigner (Second Draft)"
+type = "draft"
+lang = "en"
+skip = 0
+group = "Lu Chi"
+course = "Intro to Chinese Poetry"
+teacher = "Kang-i Sun Chang"
+section = "Mark Borer"
+people = ["Lu Chi", "Theodor Adorno"]
+themes = ["What art is"]
+note = "Longer than the first version and without a cover sheet; which one was handed in is not known."
+
+[[text]]
+file = "Li_Ching-Chao.txt"
+title = "Li Ch'ing-chao — Translation Note"
+type = "notes"
+lang = "en"
+skip = 0
+group = "Lu Chi"
+course = "Intro to Chinese Poetry"
+people = ["Li Ch'ing-chao", "Kenneth Rexroth"]
+note = "A three-line bibliographic footnote, probably cut from a paper for the same course."
+
+# --- 1994-95, Senior essay (Literature major, Lynne Huffer)
+[[text]]
+file = "Senior_Essay--Prospectus.txt"
+title = "Senior Essay Prospectus"
+type = "notes"
+lang = "en"
+skip = 6
+date = 1995-01-16
+group = "Senior essay"
+course = "Senior Essay (Literature)"
+teacher = "Lynne Huffer"
+people = ["Maurice Merleau-Ponty", "Gaston Bachelard"]
+themes = ["Experiencing space"]
+
+[[text]]
+file = "senior_essay_1.txt"
+title = "Experiencing Space in Merleau-Ponty, Bachelard, Camus and Saint-Exupéry"
+type = "essay"
+lang = "en"
+skip = 6
+date = 1995-04-17
+group = "Senior essay"
+course = "Senior Essay (Literature)"
+teacher = "Lynne Huffer"
+people = ["Maurice Merleau-Ponty", "Gaston Bachelard", "Albert Camus", "Antoine de Saint-Exupéry"]
+themes = ["Experiencing space", "Seen from the air"]
+note = "The cover sheet says 'October 25, 2003', probably a date field that updated itself when the file was opened in 2003. The date used here, 17 April 1995, is from the title page."
+
+[[text]]
+file = "senior_essay_copy.txt"
+title = "Experiencing Space in Merleau-Ponty, Bachelard, Camus and Saint-Exupéry (Shorter Copy)"
+type = "draft"
+lang = "en"
+skip = 6
+year = 1995
+dated = "estimated"
+group = "Senior essay"
+course = "Senior Essay (Literature)"
+teacher = "Lynne Huffer"
+people = ["Maurice Merleau-Ponty", "Gaston Bachelard", "Albert Camus", "Antoine de Saint-Exupéry"]
+themes = ["Experiencing space", "Seen from the air"]
+note = "A shorter version (7,300 words against 10,800) that starts at the mountain passage. Its cover sheet has the same self-updating 2003 date."
+
+[[text]]
+file = "senior_essay_notes.txt"
+title = "Experiencing Space — Working Notes"
+type = "notes"
+lang = "en"
+skip = 0
+year = 1995
+dated = "estimated"
+group = "Senior essay"
+course = "Senior Essay (Literature)"
+teacher = "Lynne Huffer"
+people = ["Albert Camus", "Antoine de Saint-Exupéry"]
+themes = ["Experiencing space", "Seen from the air"]
+
+[[text]]
+file = "title_page.txt"
+title = "Experiencing Space — Title Page"
+type = "title-page"
+lang = "en"
+skip = 0
+date = 1995-04-17
+group = "Senior essay"
+course = "Senior Essay (Literature)"
+teacher = "Lynne Huffer"
+themes = ["Experiencing space"]
+
+[[text]]
+file = "le_vent_a_djemila_space=man.txt"
+title = "Le vent à Djémila — Space and Man"
+type = "fragment"
+lang = "en"
+skip = 0
+year = 1995
+dated = "estimated"
+group = "Senior essay"
+course = "Senior Essay (Literature)"
+teacher = "Lynne Huffer"
+people = ["Albert Camus", "Gaston Bachelard", "Maurice Merleau-Ponty"]
+themes = ["Experiencing space"]
+note = "The folder also has le_vent_a_djemila.html, an older web page of the first half of this text whose accents were damaged beyond repair; this is the complete version."
+
+[[text]]
+file = "St.Ex.conceptual-perceptual.txt"
+title = "Saint-Exupéry — Conceptual and Perceptual Space"
+type = "fragment"
+lang = "en"
+skip = 0
+year = 1995
+dated = "estimated"
+group = "Senior essay"
+course = "Senior Essay (Literature)"
+teacher = "Lynne Huffer"
+people = ["Antoine de Saint-Exupéry"]
+themes = ["Experiencing space", "Seen from the air"]
+
+[[text]]
+file = "Continuity_of_reality.txt"
+title = "The Continuity of Reality"
+type = "fragment"
+lang = "en"
+skip = 0
+year = 1995
+dated = "estimated"
+group = "Senior essay"
+course = "Senior Essay (Literature)"
+teacher = "Lynne Huffer"
+themes = ["Experiencing space", "Seen from the air"]
+
+[[text]]
+file = "phenomenology.txt"
+title = "Phenomenology — Merleau-Ponty on Self and Space"
+type = "fragment"
+lang = "en"
+skip = 0
+year = 1995
+dated = "estimated"
+group = "Senior essay"
+course = "Senior Essay (Literature)"
+teacher = "Lynne Huffer"
+people = ["Maurice Merleau-Ponty", "Gaston Bachelard"]
+themes = ["Experiencing space"]
+
+[[text]]
+file = "Painters_and_phenomenology.txt"
+title = "Painters and Phenomenology"
+type = "fragment"
+lang = "en"
+skip = 0
+year = 1995
+dated = "estimated"
+group = "Senior essay"
+course = "Senior Essay (Literature)"
+teacher = "Lynne Huffer"
+people = ["Maurice Merleau-Ponty", "Paul Cézanne"]
+themes = ["Experiencing space", "Word and image"]
+
+# --- 1995, Language and Mind (Stephen Anderson)
+[[text]]
+file = "Discussion_notes_2.txt"
+title = "Discussion Notes #2"
+type = "notes"
+lang = "en"
+skip = 5
+date = 1995-01-24
+course = "Language and Mind"
+teacher = "Stephen Anderson"
+people = ["Steven Pinker"]
+themes = ["Language and mind"]
+
+[[text]]
+file = "Discussion_notes_3.txt"
+title = "Discussion Notes #3"
+type = "notes"
+lang = "en"
+skip = 5
+date = 1995-01-31
+course = "Language and Mind"
+teacher = "Stephen Anderson"
+people = ["Howard Lasnik", "Ray Jackendoff"]
+themes = ["Language and mind"]
+
+[[text]]
+file = "Discussion_notes_4.txt"
+title = "Discussion Notes #4"
+type = "notes"
+lang = "en"
+skip = 4
+date = 1995-02-07
+course = "Language and Mind"
+teacher = "Stephen Anderson"
+people = ["Steven Pinker"]
+themes = ["Language and mind"]
+
+[[text]]
+file = "Discussion_notes_5.txt"
+title = "Discussion Notes #5"
+type = "notes"
+lang = "en"
+skip = 4
+year = 1995
+dated = "estimated"
+course = "Language and Mind"
+teacher = "Stephen Anderson"
+people = ["Steven Pinker"]
+themes = ["Language and mind"]
+
+[[text]]
+file = "Discussion_notes_9.txt"
+title = "Discussion Notes #9"
+type = "notes"
+lang = "en"
+skip = 5
+date = 1995-03-30
+course = "Language and Mind"
+teacher = "Stephen Anderson"
+themes = ["Language and mind"]
+
+[[text]]
+file = "discussion_notes_10.txt"
+title = "Discussion Notes #10"
+type = "notes"
+lang = "en"
+skip = 4
+year = 1995
+dated = "estimated"
+course = "Language and Mind"
+teacher = "Stephen Anderson"
+people = ["Steven Pinker"]
+themes = ["Language and mind"]
+
+[[text]]
+file = "primates_and_children.txt"
+title = "Problem Set: Humans and Apes"
+type = "exam"
+lang = "en"
+skip = 4
+year = 1995
+dated = "estimated"
+course = "Language and Mind"
+teacher = "Stephen Anderson"
+people = ["Steven Pinker"]
+themes = ["Language and mind"]
+
+[[text]]
+file = "take_home.txt"
+title = "Take Home Final — Lakoff's Categories"
+type = "exam"
+lang = "en"
+skip = 5
+date = 1995-05-08
+course = "Language and Mind"
+teacher = "Stephen Anderson"
+people = ["George Lakoff", "Benjamin Lee Whorf"]
+themes = ["Language and mind"]
+
+# --- 1994-95, art: installations and sculpture
+[[text]]
+file = "Sculpture_Notes.txt"
+title = "Sculpture Notes"
+type = "notes"
+lang = "en"
+skip = 1
+date = 1994-09-03
+group = "Senior essay"
+people = ["Paul Cézanne", "Maurice Merleau-Ponty"]
+themes = ["Installations and studio work", "Light, sky and shadow", "Experiencing space", "Seen from the air", "Reality and representation"]
+note = "Starts as notes toward a sculpture (a sunlit morning in the bathroom) and turns into the mountain-and-Cézanne passage that reappears in the senior essay."
+
+[[text]]
+file = "Fleeting_Purple.txt"
+title = "Fleeting Purple — Sketch for Senior Project"
+type = "installation-text"
+lang = "en"
+skip = 0
+date = 1995-02-15
+group = "Installations 1995"
+course = "Senior Project (Art)"
+themes = ["Installations and studio work", "Light, sky and shadow"]
+
+[[text]]
+file = "Sky_Color.txt"
+title = "Sky Color"
+type = "installation-text"
+lang = "en"
+skip = 0
+date = 1995-03-29
+group = "Installations 1995"
+course = "Senior Project (Art)"
+themes = ["Installations and studio work", "Light, sky and shadow"]
+note = "Printed directions for viewers, set twice on the page (to cut in half). On view 29 March – 5 April, 5:30–7pm. The year comes from the French label."
+
+[[text]]
+file = "Sun_shadow.txt"
+title = "Sun Shadow"
+type = "installation-text"
+lang = "en"
+skip = 0
+year = 1995
+dated = "estimated"
+group = "Installations 1995"
+course = "Senior Project (Art)"
+themes = ["Installations and studio work", "Light, sky and shadow"]
+note = "Directions for viewers, on view 1–8 May, 6:30–8:30pm; printed twice on the page."
+
+[[text]]
+file = "Sky_shadow_quotes.txt"
+title = "Sky Shadow — Notes and Quotations"
+type = "extracts"
+lang = "en"
+skip = 0
+year = 1995
+dated = "estimated"
+group = "Installations 1995"
+people = ["Thomas Hardy"]
+themes = ["Light, sky and shadow"]
+
+[[text]]
+file = "sculpture_texts.txt"
+title = "Sculpture Texts"
+type = "installation-text"
+lang = "en"
+skip = 0
+year = 1995
+dated = "estimated"
+group = "Installations 1995"
+course = "Senior Project (Art)"
+people = ["Wallace Stevens", "Thomas Hardy"]
+themes = ["Installations and studio work", "Light, sky and shadow"]
+note = "The texts gathered for the installations: Stevens's 'An Ordinary Evening in New Haven' IX, the Sky Color directions, the sky-shadow lines and Hardy on twilight."
+
+[[text]]
+file = "An_ordinary_evening.txt"
+title = "An Ordinary Evening in New Haven, IX (Wallace Stevens)"
+type = "transcription"
+lang = "en"
+skip = 0
+group = "Installations 1995"
+people = ["Wallace Stevens"]
+themes = ["Reality and representation"]
+
+[[text]]
+file = "poem_with_rhythms.txt"
+title = "Poem with Rhythms (Wallace Stevens)"
+type = "transcription"
+lang = "en"
+skip = 0
+people = ["Wallace Stevens"]
+note = "Copied in two columns that ran together when the file was saved as text; left as found."
+
+[[text]]
+file = "Letter_to_the_meinels.txt"
+title = "Letter to Aden and Marjorie Meinel on Atmospheric Refraction"
+type = "letter"
+lang = "en"
+skip = 0
+people = ["Aden Meinel", "Marjorie Meinel"]
+themes = ["Light, sky and shadow"]
+note = "About their book Sunsets, Twilights, and Evening Skies (1983). Undated."
+
+# --- after Yale: Beaux-Arts application
+[[text]]
+file = "beaux_art_text.txt"
+title = "Beaux-Arts — Études et motivations artistiques"
+type = "statement"
+lang = "fr"
+skip = 0
+year = 1995
+dated = "estimated"
+group = "Beaux-Arts"
+era = "After Yale"
+themes = ["Installations and studio work", "Experiencing space", "What art is"]
+note = "Application to the École des Beaux-Arts, written after the Yale BA (so 1995 or later)."
+
+[[text]]
+file = "Balabels-4.txt"
+title = "Sky Color / Couleur du ciel — Label"
+type = "label"
+lang = "fr"
+skip = 0
+year = 1995
+dated = "estimated"
+group = "Beaux-Arts"
+era = "After Yale"
+themes = ["Installations and studio work", "Light, sky and shadow", "Mirrors and reflection"]
+note = "'Balabels' are probably Beaux-Arts labels: French captions for photographs of his work in the application. This one describes Sky Color (29 March – 5 April 1995)."
+
+[[text]]
+file = "balabels-5.txt"
+title = "Danse, Scène 3 — Label"
+type = "label"
+lang = "fr"
+skip = 0
+year = 1995
+dated = "estimated"
+group = "Beaux-Arts"
+era = "After Yale"
+themes = ["Installations and studio work", "Experiencing space", "Mirrors and reflection"]
+
+# --- undated, own
+[[text]]
+file = "artist.txt"
+title = "On the Word 'Artist'"
+type = "essay"
+lang = "en"
+skip = 0
+people = ["Jackson Pollock", "Cy Twombly", "Marcel Duchamp", "John Cage", "Viktor Shklovsky", "John Ruskin"]
+themes = ["What art is"]
+
+[[text]]
+file = "Thoughts_on_NEA.txt"
+title = "Thoughts on the NEA"
+type = "notes"
+lang = "en"
+skip = 0
+note = "Proposals for the National Endowment for the Arts' Visual Arts Program (better PR, a catalogue of grantees, a travelling grantee show). Undated."
+
+[[text]]
+file = "faustus.txt"
+title = "For the Marriage of Faustus and Helen (Hart Crane)"
+type = "transcription"
+lang = "en"
+skip = 0
+group = "Crane"
+people = ["Hart Crane"]
+
+[[text]]
+file = "faustus_doctored.txt"
+title = "For the Marriage of Faustus and Helen — Doctored"
+type = "transcription"
+lang = "en"
+skip = 0
+group = "Crane"
+people = ["Hart Crane"]
+note = "A shortened copy of the poem's first part."
+
+[[text]]
+file = "transparency.txt"
+title = "Transparency"
+type = "fragment"
+lang = "en"
+skip = 0
+note = "The whole file: two words."
+
+# Empty in the source folder, so no note is made for them:
+# Ba_labels_last.txt, Balabels-3.txt, Beaux-arts_labels.txt (blank lines only),
+# Beaux-arts_labels_2.txt, Document1.txt.

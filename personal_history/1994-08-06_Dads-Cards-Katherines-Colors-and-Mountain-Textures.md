@@ -1,0 +1,22 @@
+---
+date: 1994-08-06
+era: Mountains / Alps
+people: [Dad, Katherine]
+themes: [father, aesthetics, textures, painting-process]
+type: journal-fragment
+notebook_page: 47
+scan: scan_1994_1_p078
+---
+
+# Dad's Cards, Katherine's Colors & Mountain Textures
+
+Dad is not too artistic, but he cares so much. His constant cards break my heart when I think about how hard it is to communicate with him and how much he loves us.
+
+Katherine's card puts the reddish (earth) where one would expect the skyline, and the blue sky is reflected in the white earth of the foreground. The textures and details refine the visual impact this card has on me—I wanted to say "beauty," any more, though I don't know what that means. "Visual effect" is more precise, maybe, but does that imply how much I was moved by this image?
+
+My comment about textures rings ever more true now that I have been trying to paint up in the mountains. I have taken many pictures of texture. It is much harder to throw texture in with all the other things I have to think about when making a painting.
+
+---
+
+## Original Page
+![[attachments/pages/scan_1994_1_p078.jpg]]

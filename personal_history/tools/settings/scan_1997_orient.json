@@ -1,0 +1,167 @@
+{
+ "scan_1997_p001.jpg": {
+  "angle": 0,
+  "by": "gemma",
+  "reason": "In image 1, the handwriting is oriented normally, with the lines of text running from left to right and the page oriented vertically."
+ },
+ "scan_1997_p002.jpg": {
+  "angle": 90,
+  "by": "gemma",
+  "reason": "In image 2, the handwriting on the person's neck is oriented upright, running left to right."
+ },
+ "scan_1997_p003.jpg": {
+  "angle": 0,
+  "by": "gemma",
+  "reason": "In image 1, the majority of the handwritten labels (such as 'la mer', 'Paris', 'Normandie', and 'Gare Montpellier') are oriented upright and read from left to right."
+ },
+ "scan_1997_p004.jpg": {
+  "angle": 0,
+  "by": "gemma",
+  "reason": "In image 1, the majority of the text is oriented horizontally and reads from left to right, which is the standard upright position for this handwriting."
+ },
+ "scan_1997_p005.jpg": {
+  "angle": 90,
+  "by": "hand"
+ },
+ "scan_1997_p006.jpg": {
+  "angle": 0,
+  "by": "gemma",
+  "reason": "In image 1, the handwriting is oriented normally, with the lines of text running from left to right and the page in a standard vertical orientation."
+ },
+ "scan_1997_p007.jpg": {
+  "angle": 0,
+  "by": "hand"
+ },
+ "scan_1997_p008.jpg": {
+  "angle": 90,
+  "by": "hand"
+ },
+ "scan_1997_p009.jpg": {
+  "angle": 90,
+  "by": "gemma",
+  "reason": "In image 2, the handwriting is oriented correctly, with the lines of text running from left to right and the letters facing upwards, making it the only version that can be read normally."
+ },
+ "scan_1997_p010.jpg": {
+  "angle": 0,
+  "by": "gemma",
+  "reason": "In image 1, the text is oriented normally, with the lines running from left to right and the handwriting upright."
+ },
+ "scan_1997_p011.jpg": {
+  "angle": 90,
+  "by": "gemma",
+  "reason": "In image 2, the handwriting is oriented correctly, with the lines of text running from left to right and the letters facing upwards, making it readable."
+ },
+ "scan_1997_p012.jpg": {
+  "angle": 0,
+  "by": "gemma",
+  "reason": "In image 1, the majority of the text, including the main body of the writing and the headings, is oriented horizontally and reads from left to right."
+ },
+ "scan_1997_p013.jpg": {
+  "angle": 0,
+  "by": "gemma",
+  "reason": "In image 1, the handwriting is oriented normally, with the lines of text running from left to right and the top of the letters facing upwards."
+ },
+ "scan_1997_p014.jpg": {
+  "angle": 90,
+  "by": "gemma",
+  "reason": "In image 2, the handwriting is oriented correctly, with the lines of text running from left to right and the top of the page at the top of the frame."
+ },
+ "scan_1997_p015.jpg": {
+  "angle": 90,
+  "by": "gemma",
+  "reason": "In image 2, the handwriting is oriented correctly, with the lines of text running from left to right and the page oriented vertically, making it the only image where the text can be read normally."
+ },
+ "scan_1997_p016.jpg": {
+  "angle": 0,
+  "by": "gemma",
+  "reason": "In image 1, the majority of the handwritten text is oriented horizontally and reads from left to right, which is the standard upright position for this notebook page."
+ },
+ "scan_1997_p017.jpg": {
+  "angle": 0,
+  "by": "gemma",
+  "reason": "In image 1, the main blocks of text (the list at the top left and the notes at the bottom left) are oriented horizontally and read from left to right, which is the standard upright position for this page."
+ },
+ "scan_1997_p018.jpg": {
+  "angle": 0,
+  "by": "gemma",
+  "reason": "In image 1, the handwriting is oriented normally, with the lines of text running from left to right and the letters facing upwards."
+ },
+ "scan_1997_p019.jpg": {
+  "angle": 0,
+  "by": "gemma",
+  "reason": "In image 1, the handwritten text 'Map - system des evenements vus dans le temps' is oriented horizontally and reads from left to right, which is the standard upright position for reading."
+ },
+ "scan_1997_p020.jpg": {
+  "angle": 0,
+  "by": "gemma",
+  "reason": "In image 1, the majority of the text is oriented horizontally and reads from left to right, which is the standard upright position for this handwriting."
+ },
+ "scan_1997_p021.jpg": {
+  "angle": 90,
+  "by": "gemma",
+  "reason": "In image 2, the handwriting is oriented correctly, with the lines of text running from left to right and the top of the page at the top of the frame."
+ },
+ "scan_1997_p022.jpg": {
+  "angle": 90,
+  "by": "gemma",
+  "reason": "In image 2, the handwriting is oriented correctly, with the lines of text running horizontally from left to right, making it readable."
+ },
+ "scan_1997_p023.jpg": {
+  "angle": 90,
+  "by": "hand"
+ },
+ "scan_1997_p024.jpg": {
+  "angle": 90,
+  "by": "gemma",
+  "reason": "In image 2, the handwriting is oriented correctly, with the lines of text running from left to right and the letters facing upwards, making it readable."
+ },
+ "scan_1997_p025.jpg": {
+  "angle": 90,
+  "by": "hand"
+ },
+ "scan_1997_p026.jpg": {
+  "angle": 90,
+  "by": "gemma",
+  "reason": "In image 2, the main body of the text is oriented correctly, with the lines running from left to right and the handwriting being upright and readable."
+ },
+ "scan_1997_p027.jpg": {
+  "angle": 90,
+  "by": "gemma",
+  "reason": "In image 2, the handwriting is oriented correctly, with the lines of text running from left to right and the top of the page at the top of the frame."
+ },
+ "scan_1997_p028.jpg": {
+  "angle": 90,
+  "by": "gemma",
+  "reason": "In image 2, the handwriting is oriented correctly, with the lines of text running from left to right and the page in a standard vertical position."
+ },
+ "scan_1997_p029.jpg": {
+  "angle": 90,
+  "by": "gemma",
+  "reason": "In image 2, the text is oriented correctly, running from left to right and top to bottom, making it readable in a standard manner."
+ },
+ "scan_1997_p030.jpg": {
+  "angle": 90,
+  "by": "gemma",
+  "reason": "In image 2, the handwriting is oriented correctly, with the lines of text running from left to right and the top of the page at the top of the frame."
+ },
+ "scan_1997_p031.jpg": {
+  "angle": 90,
+  "by": "gemma",
+  "reason": "In image 2, the handwriting is oriented correctly, with the lines of text running from left to right and the writing being upright and readable."
+ },
+ "scan_1997_p032.jpg": {
+  "angle": 90,
+  "by": "gemma",
+  "reason": "In image 2, the main sentence 'This book is a note pad.' is written horizontally from left to right at the top of the page, making it the most upright orientation for the text."
+ },
+ "scan_1997_p033.jpg": {
+  "angle": 90,
+  "by": "gemma",
+  "reason": "In image 2, the handwriting is oriented correctly, with the lines of text running from left to right and the letters facing upwards, making it readable."
+ },
+ "scan_1997_p034.jpg": {
+  "angle": 90,
+  "by": "gemma",
+  "reason": "In image 2, the handwriting is oriented correctly, with the lines of text running from left to right and the letters facing upwards, making it the only version where the text can be read normally."
+ }
+}

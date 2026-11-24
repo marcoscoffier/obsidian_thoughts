@@ -1,0 +1,39 @@
+---
+type: "slide"
+roll: "[[Rolls/1958 Q2 10 Mai 1958/1958 Q2 10 Mai 1958|1958 Q2 10 Mai 1958]]"
+n: 23
+date: "1958-Q2"
+year: 1958
+period: "[[Periods/Iran 1955–65]]"
+image: "[[media/rolls/Papa_-_1958_Q2_10_Mai_1958/23_gizeh_sphinx_profil_cheops_vertical.jpg]]"
+file: "23_gizeh_sphinx_profil_cheops_vertical.jpg"
+old_file: "Papa_Iran_7_egypte_23.jpg"
+caption_source: "readme"
+places:
+  - "[[Places/Giza|Giza]]"
+country:
+  - "[[Places/Egypt|Egypt]]"
+place_source: "caption"
+themes_status: "auto"
+sort: "1958-Q2-Papa_-_1958_Q2_10_Mai_1958-023"
+tags:
+  - "slide"
+  - "period/iran-1955-65"
+  - "theme/ancient-sites"
+  - "place/giza"
+  - "place/egypt"
+---
+![[media/rolls/Papa_-_1958_Q2_10_Mai_1958/23_gizeh_sphinx_profil_cheops_vertical.jpg]]
+
+📍 Place: [[Places/Giza|Giza]] · [[Places/Egypt|Egypt]]
+
+> [!en] English
+> The Sphinx in profile in upright framing, the pyramid at the left edge, the enclosure wall at the bottom (vertical slide).
+
+> [!fr] Français
+> Le Sphinx de profil en cadrage vertical, la pyramide au bord gauche, le mur de l'enclos en bas (diapositive verticale).
+
+[[Rolls/1958 Q2 10 Mai 1958/1958 Q2 10 Mai 1958|1958 Q2 10 Mai 1958]] · slide 23 of 36 · [[Rolls/1958 Q2 10 Mai 1958/22 gizeh sphinx profil pyramide 3|← previous]] · [[Rolls/1958 Q2 10 Mai 1958/24 gizeh sphinx face pierres vertical|next →]]
+
+## Notes
+
