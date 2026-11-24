@@ -200,6 +200,112 @@ Regenerate with `python3 tools/scan_index.py`.
 | 46 |  | [[1994-08-04_Cubism-Acetate-Layers-Distance-and-Flashlight-Room]], [[1994-08-04_Giotto-Picasso-on-Resemblance-and-Drawing-a-Circle]] |
 | 47 |  | [[1994-08-04_Super-Secret-Inserted-Pages-and-Stolen-Journal]] |
 
+## scan_journal_1995.pdf
+
+99 pages; 98 have notes, 1 have none.
+
+| PDF page | Written page no. | Notes |
+|---|---|---|
+| 1 |  | [[1994-12-28_Inside-Cover-Addresses-and-Contacts]] |
+| 2 |  | [[1994-12-28_Flavors-of-Life-and-Katherine]] |
+| 3 |  | [[1994-12-28_Merleau-Ponty-on-Cezanne-and-Perceptual-Space]] |
+| 4 |  | [[1995-01-02_Fleeting-Perceptual-Moments]], [[1995-01-05_Bachelard-Space-Is-Only-What-We-Perceive]] |
+| 5 |  | [[1995-01-05_Seeing-Red]], [[1995-01-06_Sens-et-Non-sens-Preface]] |
+| 6 |  | [[1995-01-06_Emerson-Art-Life-and-Love]] |
+| 7 |  | [[1995-01-07_A-Blank-Day]], [[1995-01-08_Le-Doute-de-Cezanne]] |
+| 8 |  | [[1995-01-08_Le-Doute-de-Cezanne]], [[1995-01-09_Vol-de-Nuit-Another-Space]] |
+| 9 |  | [[1995-01-09_Vol-de-Nuit-Another-Space]] |
+| 10 |  | [[1995-01-10_Charkow-on-Carriage-and-Freshness]], [[1995-01-11_Art-Is-Not-Dead-Cezannes-Letters]] |
+| 11 |  | [[1995-01-11_Art-Is-Not-Dead-Cezannes-Letters]] |
+| 12 |  | [[1995-01-11_Room-for-Two-Viewers]], [[1995-01-11_Rothko-The-Romantics-Were-Prompted]] |
+| 13 |  | [[1995-01-12_Bachelard-La-Poetique-de-lEspace]], [[1995-01-13_Uncomfortable-in-Groups]] |
+| 14 |  | [[1995-01-13_Uncomfortable-in-Groups]] |
+| 15 |  | [[1995-01-16_Art-Major-Meeting-Essentialism]] |
+| 16 |  | [[1995-01-16_Art-Major-Meeting-Essentialism]] |
+| 17 |  | [[1995-01-16_Art-Major-Meeting-Essentialism]], [[1995-01-17_A-New-Essentialism]], [[1995-01-18_Framing-Off-a-Section-of-the-World]] |
+| 18 |  | [[1995-01-18_Framing-Off-a-Section-of-the-World]], [[1995-01-21_Art-Is-High-Stakes]] |
+| 19 |  | [[1995-01-22_Campbells-Room-and-Being-Socialized-Out]], [[1995-01-22_Cheating-in-the-Mind]], [[1995-01-22_Toilet-Paper-Mirrors-and-the-Platonic-Theory-of-Sight]] |
+| 20 |  | [[1995-01-22_Campbells-Room-and-Being-Socialized-Out]], [[1995-01-23_Games-Habits-and-Rons-Lecture-on-Wittgenstein]] |
+| 21 |  | [[1995-01-23_Games-Habits-and-Rons-Lecture-on-Wittgenstein]] |
+| 22 |  | [[1995-01-23_Games-Habits-and-Rons-Lecture-on-Wittgenstein]] |
+| 23 |  | [[1995-01-23_Games-Habits-and-Rons-Lecture-on-Wittgenstein]] |
+| 24 |  | [[1995-01-23_Box-Sketch]], [[1995-01-26_Croce-and-the-Undiscussable]], [[1995-01-27_Crary-on-Vision-and-Attention]] |
+| 25 |  | [[1995-01-27_Crary-on-Vision-and-Attention]] |
+| 26 |  | [[1995-01-29_In-Love-with-Katherine-and-the-World]], [[1995-01-29_Terre-des-Hommes-and-the-Body]] |
+| 27 |  | [[1995-01-29_Infinitely-Deep-Box-and-the-AandA-Roof-Piece]] |
+| 28 |  | [[1995-02-05_David-Pease]], [[1995-02-05_Lefebvre-Scales-of-Space-and-the-Maternal-Space]] |
+| 29 |  | [[1995-02-05_Lefebvre-Scales-of-Space-and-the-Maternal-Space]], [[1995-02-05_Roof-Top-Mirror-Floor]] |
+| 30 |  | [[1995-02-05_Lefebvre-Mental-and-Real-Space]], [[1995-02-09_Heat-Waves-and-a-Mirage]] |
+| 31 |  | [[1995-02-09_Stasis-and-Commitment]], [[1995-02-12_Fleeting-Purple]] |
+| 32 |  | [[1995-02-12_Camus-Opposites]], [[1995-02-12_Fleeting-Purple]], [[1995-02-12_Nothing-I-Can-Be-Freely-Joyous-About]] |
+| 33 |  | [[1995-02-12_A-Vehicle-to-Perceptual-Moments-Prioritize]] |
+| 34 |  | [[1995-02-12_Mirandas-Dance-Curtains-and-Pavilions]] |
+| 35 |  | [[1995-02-12_Showing-a-Work-I-Didnt-Build]], [[1995-10-01_Labeling-an-Office-Building]] |
+| 36 |  | [[1995-02-12_Dance-Space-and-Mirror-Panels]], [[1995-02-12_John-Ashbery-Reading]] |
+| 37 |  | [[1995-02-12_Idiot-and-Genius-Evasive-Poetry]], [[1995-02-15_The-Concrete-Floor-Flop-and-the-Frame]] |
+| 38 |  | [[1995-02-15_Gone-Poof]], [[1995-02-15_The-Concrete-Floor-Flop-and-the-Frame]] |
+| 39 |  | [[1995-02-21_The-Stamp-on-My-Last-Letter-to-Katherine]], [[1995-02-27_Only-Happy-When-Working-a-Portable-Viewing-Stand]] |
+| 40 |  | [[1995-02-27_Canvas-Screens-and-Light-Intensity]], [[1995-02-27_Katherine-and-the-Poetic-Potential]] |
+| 41 |  | [[1995-02-27_Rons-Last-Lecture-Danto-and-Reality]] |
+| 42 |  | [[1995-03-06_A-Way-of-Seeing-and-Missing-Katherine]], [[1995-03-06_Leonard-on-Wordsworth-Ruskin-and-Reynolds]] |
+| 43 |  | [[1995-03-06_Leonard-on-Wordsworth-Ruskin-and-Reynolds]] |
+| 44 |  | [[1995-03-09_Rooftop-AandA-Piece-Microcosm-Box]] |
+| 45 |  | [[1995-03-11_A-Map-of-New-Haven-for-the-Thesis-Show]], [[1995-03-11_Merleau-Ponty-Phenomenologie-and-Existentialism]] |
+| 46 |  | [[1995-03-11_Merleau-Ponty-Phenomenologie-and-Existentialism]] |
+| 47 |  | [[1995-03-11_Merleau-Ponty-Phenomenologie-and-Existentialism]] |
+| 48 |  | [[1995-03-11_Merleau-Ponty-Phenomenologie-and-Existentialism]] |
+| 49 |  | [[1995-03-12_Grey-Sunday-Camus-Noces-and-Quoting]] |
+| 50 |  | [[1995-03-12_Grey-Sunday-Camus-Noces-and-Quoting]] |
+| 51 |  | [[1995-03-12_Bishop-The-Unbeliever-and-Wordsworth]] |
+| 52 |  | [[1995-03-12_Asking-the-Viewer-to-Do-Things-a-Tower]], [[1995-03-12_Camus-Nudite-and-Noces]] |
+| 53 |  | [[1995-03-12_Camus-Nudite-and-Noces]] |
+| 54 |  | [[1995-03-12_A-Dictionary-Is-Amazing]], [[1995-03-12_The-Phenomenology-of-Space-Essay-Plan]], [[1995-03-12_The-Stand-and-a-Path-of-Mirrors]] |
+| 55 |  | [[1995-03-12_Box-Crate-Sketches-Solitaire-Solidaire]] |
+| 56 |  | [[1995-03-12_Crit-Notes-the-Mirror-Room-and-the-Stand]], [[1995-03-12_Intellectual-Space]] |
+| 57 |  | [[1995-03-12_Stevens-on-the-Stand]], [[1995-03-12_Vertigo]] |
+| 58 |  | [[1995-03-12_Mapping-the-Sun]] |
+| 59 |  | [[1995-03-12_Space-Is-More-Primary-Than-Light]] |
+| 60 |  | [[1995-03-12_Sunset-and-Sunrise-Pulleys]], [[1995-03-12_Your-Last-Night-and-the-Dream-of-Falling]] |
+| 61 |  | — |
+| 62 |  | [[1995-03-12_Five-Frames-Taped-In-Slips]] |
+| 63 |  | [[1995-03-12_Boring-Lecture-and-Sky-Color]] |
+| 64 |  | [[1995-03-12_Full-Cast-of-My-Body-Drawing-with-Light]], [[1995-03-12_No-Time-to-Be-Vain]], [[1995-04-11_History-Space-and-the-Now]] |
+| 65 |  | [[1995-04-11_Perceptual-and-Conceptual-Space]] |
+| 66 |  | [[1995-04-11_Scaffolding-Room-and-Wire-Rope]] |
+| 67 |  | [[1995-04-11_The-Other-Vertigo-Noces-and-Hitchcock]] |
+| 68 |  | [[1995-04-11_Bernice-Rose-on-Joseph-Beuys]] |
+| 69 |  | [[1995-04-11_Bernice-Rose-on-Joseph-Beuys]], [[1995-04-11_Rebuilding-the-Light-with-Screens-Piece]] |
+| 70 |  | [[1995-04-11_Dan-Graham-Lecture]] |
+| 71 |  | [[1995-04-11_Wahrnehmen-and-Sich-Bewegen]] |
+| 72 |  | [[1995-04-11_Chrome-Object-in-Many-Places]], [[1995-04-11_Collot-Du-Sens-de-lEspace-a-lEspace-du-Sens]] |
+| 73 |  | [[1995-06-01_Art-Is-Everywhere-Romance-with-the-Viewer]], [[1995-06-01_The-Small-of-Her-Neck]], [[1995-06-01_Things-to-Do-If-I-Return-to-New-Haven]] |
+| 74 |  | [[1995-06-01_Two-Infinities-in-the-Same-Box]] |
+| 75 |  | [[1995-06-01_Cast-Acrylic-and-Transparent-Mirror]] |
+| 76 |  | [[1995-06-01_NEA-Visual-Arts-Funding-Meeting-Notes]] |
+| 77 |  | [[1995-06-01_NEA-Visual-Arts-Funding-Meeting-Notes]] |
+| 78 |  | [[1995-06-01_NEA-Visual-Arts-Funding-Meeting-Notes]] |
+| 79 |  | [[1995-06-01_NEA-Visual-Arts-Funding-Meeting-Notes]] |
+| 80 |  | [[1995-06-01_NEA-Visual-Arts-Funding-Meeting-Notes]] |
+| 81 |  | [[1995-06-01_NEA-Visual-Arts-Funding-Meeting-Notes]] |
+| 82 |  | [[1995-06-15_Letter-Draft-to-Katherine-from-DC]] |
+| 83 |  | [[1995-06-15_Letter-Draft-to-Katherine-from-DC]] |
+| 84 |  | [[1995-07-01_On-the-Plane-Home-from-Jackson]], [[1995-07-01_Sweet-Tarts-in-Jackson-Mississippi]] |
+| 85 |  | [[1995-07-01_Pocahontas-the-Perfect-Crush]] |
+| 86 |  | [[1995-07-06_Make-Many-Models]], [[1995-07-06_Peace-and-Quiet-to-Think]] |
+| 87 |  | [[1995-07-06_Paintings-with-an-Eye-Hole-and-Slides-to-Take]] |
+| 88 |  | [[1995-07-23_Acoustic-Dome-of-Breathing]] |
+| 89 |  | [[1995-07-23_Acoustic-Dome-of-Breathing]] |
+| 90 |  | [[1995-07-23_Surprise-Flashes-Picabias-570-Spotlights]], [[1995-07-25_Rooftop-Scenes-and-Sell-Myself]] |
+| 91 |  | [[1995-08-01_Bike-Through-a-Long-Puddle]], [[1995-08-01_Garcia-Marquez-on-Poets]], [[1995-08-20_Out-of-Sensory-Deprivation-into-the-Real-World]] |
+| 92 |  | [[1995-08-20_Out-of-Sensory-Deprivation-into-the-Real-World]] |
+| 93 |  | [[1995-08-20_Blake-and-Turrell-Doors-of-Perception]], [[1995-08-27_Jono-Laughs-Without-a-Sound]], [[1995-08-27_Weathering-Series]] |
+| 94 |  | [[1995-09-01_The-Artist-Transforms-How-You-See]] |
+| 95 |  | [[1995-09-01_Audience-and-Creator-Two-Realms]], [[1995-09-01_Horizon-Notes]] |
+| 96 |  | [[1995-09-01_Building-with-a-Wraparound-Balcony-Park]], [[1995-09-01_Rhythm-Notes]] |
+| 97 |  | [[1995-09-01_Rhythm-Notes]] |
+| 98 |  | [[1995-09-24_Football-Bus-Nostalgia]], [[1995-09-28_So-Tired]], [[1995-10-01_Something-So-Easy-About-Painting]] |
+| 99 |  | [[1995-04-18_Back-Cover-Talks-and-a-Wedding-Card-Draft]] |
+
 ## scan_journal_1997.pdf
 
 34 pages; 34 have notes, 0 have none.

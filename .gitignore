@@ -32,3 +32,10 @@ __pycache__/
 
 # OS cruft
 .DS_Store
+
+# Per-device Obsidian state inside each vault (the pattern above only matched the root)
+**/.obsidian/workspace.json
+**/.obsidian/workspace-mobile.json
+
+# Journal-scan staging folders (reviewed before anything moves into the vault)
+_import_*/
