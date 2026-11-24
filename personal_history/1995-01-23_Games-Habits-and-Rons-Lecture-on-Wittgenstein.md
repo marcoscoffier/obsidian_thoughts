@@ -1,8 +1,9 @@
 ---
 date: 1995-01-23
-era: Final Semester Yale 1995
+era: "[[Final Semester Yale 1995]]"
 people: [Wittgenstein, Campbell, Prog, Lucia, Ashley, Beirbaum, Erik, Ron Jones, Morris Weitz, Chris Burden, Harold Bloom, Kosuth, George Dickie]
-themes: [art-theory, coursework, play, friendship, writing-process]
+themes: ["[[art-theory]]", "[[coursework]]", "[[play]]", "[[friendship]]", "[[writing-process]]"]
+subjects: ["[[Art Theory and the Art World]]", "[[Mind, Science and Systems]]", "[[Love and Relationships]]", "[[Language and Literature]]"]
 type: journal-fragment
 scan: [scan_1995_p020, scan_1995_p021, scan_1995_p022, scan_1995_p023]
 ---

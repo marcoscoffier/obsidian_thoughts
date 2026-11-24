@@ -1,9 +1,10 @@
 ---
 date: 1998-12-15
 dated: estimated
-era: Paris / Beaux-Arts
+era: "[[Paris, Beaux-Arts]]"
 people: []
-themes: [photography, light, writing-process, identity]
+themes: ["[[photography]]", "[[light]]", "[[writing-process]]", "[[identity]]"]
+subjects: ["[[Making Art]]", "[[Perception and Space]]", "[[Language and Literature]]", "[[Self]]"]
 type: journal-fragment
 scan: scan_1997_2_p046
 ---

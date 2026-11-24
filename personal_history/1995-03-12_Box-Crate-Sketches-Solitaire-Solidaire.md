@@ -1,9 +1,10 @@
 ---
 date: 1995-03-12
 dated: estimated
-era: Final Semester Yale 1995
+era: "[[Final Semester Yale 1995]]"
 people: [Nauman, Camus, Saint-Exupéry]
-themes: [sculpture-ideas, installation, solitude, framing]
+themes: ["[[sculpture-ideas]]", "[[installation]]", "[[solitude]]", "[[framing]]"]
+subjects: ["[[Making Art]]", "[[Self]]", "[[Perception and Space]]"]
 type: visual-record
 scan: scan_1995_p055
 ---

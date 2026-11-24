@@ -1,8 +1,9 @@
 ---
 date: 2026-10-03
-era: Present / Therapy Notes
+era: "[[Present, Therapy Notes]]"
 people: []
-themes: [dissociation, trapped, childhood-echo, marriage-crisis]
+themes: ["dissociation", "trapped", "childhood-echo", "[[marriage-crisis]]"]
+subjects: ["[[Self]]", "[[Family]]", "[[Love and Relationships]]"]
 type: journal-fragment
 ---
 

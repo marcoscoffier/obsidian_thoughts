@@ -1,8 +1,9 @@
 ---
 date: 1994-07-30
-era: The Alps / Tignes
+era: "[[Summer 1994, Travel and Alps]]"
 people: []
-themes: [alps, tignes, sound-sculpture, wind, sculpture-ideas]
+themes: ["[[alps]]", "[[tignes]]", "sound-sculpture", "wind", "[[sculpture-ideas]]"]
+subjects: ["[[Places and Cities]]", "[[Making Art]]"]
 type: journal-fragment
 scan: scan_1994_2_p025
 ---

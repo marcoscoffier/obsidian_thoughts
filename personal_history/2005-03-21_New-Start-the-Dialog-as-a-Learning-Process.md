@@ -1,8 +1,9 @@
 ---
 date: 2005-03-21
-era: New York / 2005
+era: "[[New York 2005]]"
 people: []
-themes: [language, writing-process, technology, project-list]
+themes: ["[[language]]", "[[writing-process]]", "[[technology]]", "[[project-list]]"]
+subjects: ["[[Language and Literature]]", "[[Mind, Science and Systems]]", "[[Making Art]]"]
 type: journal-fragment
 scan: scan_1997_2_p084
 ---

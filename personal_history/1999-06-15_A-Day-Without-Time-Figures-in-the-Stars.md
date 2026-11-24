@@ -1,9 +1,10 @@
 ---
 date: 1999-06-15
 dated: estimated
-era: Paris / Beaux-Arts
+era: "[[Paris, Beaux-Arts]]"
 people: []
-themes: [time, sky, history]
+themes: ["[[time]]", "[[sky]]", "[[history]]"]
+subjects: ["[[Perception and Space]]", "[[Art Theory and the Art World]]"]
 type: journal-fragment
 scan: scan_1997_2_p077
 ---

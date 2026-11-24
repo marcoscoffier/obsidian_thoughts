@@ -1,8 +1,9 @@
 ---
 date: 1995-01-27
-era: Final Semester Yale 1995
+era: "[[Final Semester Yale 1995]]"
 people: [Jonathan Crary, Foucault, Benjamin, Kant, Bergson, Jameson]
-themes: [perception, coursework, television, technology]
+themes: ["[[perception]]", "[[coursework]]", "[[television]]", "[[technology]]"]
+subjects: ["[[Perception and Space]]", "[[Art Theory and the Art World]]", "[[Mind, Science and Systems]]"]
 type: class-notes
 scan: [scan_1995_p024, scan_1995_p025]
 ---

@@ -1,8 +1,9 @@
 ---
 date: 1997
-era: Paris / Beaux-Arts
+era: "[[Paris, Beaux-Arts]]"
 people: []
-themes: [poetry, city, music, sky, verticality]
+themes: ["[[poetry]]", "[[city]]", "[[music]]", "[[sky]]", "verticality"]
+subjects: ["[[Language and Literature]]", "[[Places and Cities]]", "[[Sound and Music]]", "[[Perception and Space]]"]
 type: journal-fragment
 scan: scan_1997_p012
 ---

@@ -1,8 +1,9 @@
 ---
 date: 1994-12-28
-era: Final Semester Yale 1995
+era: "[[Final Semester Yale 1995]]"
 people: [Katherine, Dvorak, Mario]
-themes: [love, music, katherine]
+themes: ["[[love]]", "[[music]]", "[[katherine]]"]
+subjects: ["[[Love and Relationships]]", "[[Sound and Music]]"]
 type: journal-fragment
 scan: scan_1995_p002
 ---

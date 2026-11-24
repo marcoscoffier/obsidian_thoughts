@@ -1,8 +1,9 @@
 ---
 date: 1994-07-28
-era: New Haven
+era: "[[Yale, New Haven]]"
 people: [Umberto Eco, James Joyce, Pablo Picasso, Dante Alighieri, Galileo Galilei, Stanislav Grof]
-themes: [semiotics, metaphor, metonymy, finnegans-wake, note-taking]
+themes: ["[[semiotics]]", "[[metaphor]]", "metonymy", "[[finnegans-wake]]", "note-taking"]
+subjects: ["[[Language and Literature]]"]
 type: journal-fragment
 notebook_page: 83
 scan: [scan_1994_2_p010, scan_1994_2_p011, scan_1994_2_p012]

@@ -1,9 +1,10 @@
 ---
 date: 1995-02-12
 dated: estimated
-era: Final Semester Yale 1995
+era: "[[Final Semester Yale 1995]]"
 people: [John Ashbery]
-themes: [poetry, reading-list]
+themes: ["[[poetry]]", "[[reading-list]]"]
+subjects: ["[[Language and Literature]]"]
 type: journal-fragment
 scan: scan_1995_p036
 ---

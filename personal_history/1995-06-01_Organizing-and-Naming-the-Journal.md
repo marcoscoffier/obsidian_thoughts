@@ -1,8 +1,9 @@
 ---
 date: 1995-06-01
-era: New Haven / Post-College
+era: "[[DC, Post-College]]"
 people: []
-themes: [writing-process, indexing, memory, raw-thoughts]
+themes: ["[[writing-process]]", "indexing", "[[memory]]", "raw-thoughts"]
+subjects: ["[[Language and Literature]]", "[[Self]]"]
 type: journal-fragment
 scan: scan_1994_1_p002
 ---

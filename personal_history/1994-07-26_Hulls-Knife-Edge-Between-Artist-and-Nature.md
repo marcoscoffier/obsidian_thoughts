@@ -1,8 +1,9 @@
 ---
 date: 1994-07-26
-era: New Haven
+era: "[[Yale, New Haven]]"
 people: [John Hull]
-themes: [painting-theory, nature, gesture, observation, abstract-expressionism]
+themes: ["[[painting-theory]]", "[[nature]]", "[[gesture]]", "[[observation]]", "abstract-expressionism"]
+subjects: ["[[Art Theory and the Art World]]", "[[Places and Cities]]", "[[Making Art]]", "[[Perception and Space]]"]
 type: journal-fragment
 scan: scan_1994_2_p004
 ---

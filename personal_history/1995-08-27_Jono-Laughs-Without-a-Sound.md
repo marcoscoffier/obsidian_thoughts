@@ -1,8 +1,9 @@
 ---
 date: 1995-08-27
-era: DC / Post-College
+era: "[[DC, Post-College]]"
 people: [Jono, Dave, Schwartz]
-themes: [friendship, childhood-memory]
+themes: ["[[friendship]]", "[[childhood-memory]]"]
+subjects: ["[[Love and Relationships]]", "[[Family]]"]
 type: journal-fragment
 scan: scan_1995_p093
 ---

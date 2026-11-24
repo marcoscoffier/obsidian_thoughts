@@ -1,9 +1,10 @@
 ---
 date: 1995-02-09
 dated: estimated
-era: Final Semester Yale 1995
+era: "[[Final Semester Yale 1995]]"
 people: [Alison, Katherine]
-themes: [katherine, love, commitment, risk-taking]
+themes: ["[[katherine]]", "[[love]]", "[[commitment]]", "risk-taking"]
+subjects: ["[[Love and Relationships]]", "[[Self]]"]
 type: journal-fragment
 scan: scan_1995_p031
 ---

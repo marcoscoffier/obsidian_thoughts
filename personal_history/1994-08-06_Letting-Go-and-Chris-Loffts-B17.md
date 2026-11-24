@@ -1,8 +1,9 @@
 ---
 date: 1994-08-06
-era: Mountains / Alps
+era: "[[Summer 1994, Travel and Alps]]"
 people: [Chris Lofft]
-themes: [painting-process, play, childhood-models]
+themes: ["[[painting-process]]", "[[play]]", "childhood-models"]
+subjects: ["[[Making Art]]", "[[Mind, Science and Systems]]", "[[Family]]"]
 type: journal-fragment
 scan: scan_1994_1_p076
 ---

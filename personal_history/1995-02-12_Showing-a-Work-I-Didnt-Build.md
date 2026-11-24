@@ -1,9 +1,10 @@
 ---
 date: 1995-02-12
 dated: estimated
-era: Final Semester Yale 1995
+era: "[[Final Semester Yale 1995]]"
 people: [Harold Bloom, A. R. Ammons, Goldsworthy]
-themes: [art-theory, installation, land-art, poetry]
+themes: ["[[art-theory]]", "[[installation]]", "[[land-art]]", "[[poetry]]"]
+subjects: ["[[Art Theory and the Art World]]", "[[Making Art]]", "[[Language and Literature]]"]
 type: journal-fragment
 scan: scan_1995_p035
 ---

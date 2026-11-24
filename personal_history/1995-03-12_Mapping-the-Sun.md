@@ -1,9 +1,10 @@
 ---
 date: 1995-03-12
 dated: estimated
-era: Final Semester Yale 1995
+era: "[[Final Semester Yale 1995]]"
 people: [Turrell, Robert Gordon, Saint-Exupéry]
-themes: [light, sky, installation, maps, mirrors]
+themes: ["[[light]]", "[[sky]]", "[[installation]]", "[[maps]]", "[[mirrors]]"]
+subjects: ["[[Perception and Space]]", "[[Making Art]]", "[[Places and Cities]]"]
 type: visual-record
 scan: scan_1995_p058
 ---

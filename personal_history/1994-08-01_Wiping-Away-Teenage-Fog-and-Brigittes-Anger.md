@@ -1,8 +1,9 @@
 ---
 date: 1994-08-01
-era: The Alps / Tignes
+era: "[[Summer 1994, Travel and Alps]]"
 people: [Mr. Extrasiuz, André, Brigitte, Papa]
-themes: [self-clarity, family, sexism, sisterhood, french, coffee]
+themes: ["self-clarity", "[[family]]", "sexism", "sisterhood", "[[french]]", "coffee"]
+subjects: ["[[Self]]", "[[Family]]", "[[Language and Literature]]"]
 type: journal-fragment
 scan: scan_1994_2_p038
 ---

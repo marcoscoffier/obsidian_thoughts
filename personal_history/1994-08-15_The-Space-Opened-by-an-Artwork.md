@@ -1,8 +1,9 @@
 ---
 date: 1994-08-15
-era: New Haven
+era: "[[Yale, New Haven]]"
 people: []
-themes: [aesthetic-space, literature-vs-music]
+themes: ["aesthetic-space", "literature-vs-music"]
+subjects: ["[[Perception and Space]]", "[[Sound and Music]]"]
 type: journal-fragment
 scan: scan_1994_1_p134
 ---

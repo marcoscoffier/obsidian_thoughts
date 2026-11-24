@@ -1,8 +1,9 @@
 ---
 date: 1994-10-05
-era: New Haven
+era: "[[Yale, New Haven]]"
 people: [Harold Bloom]
-themes: [poetry, self-revelation, observation]
+themes: ["[[poetry]]", "self-revelation", "[[observation]]"]
+subjects: ["[[Language and Literature]]", "[[Love and Relationships]]", "[[Perception and Space]]"]
 type: journal-fragment
 notebook_page: 10
 scan: scan_1994_1_p016

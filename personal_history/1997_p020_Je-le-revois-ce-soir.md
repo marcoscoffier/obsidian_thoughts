@@ -1,8 +1,9 @@
 ---
 date: 1997
-era: Paris / Beaux-Arts
+era: "[[Paris, Beaux-Arts]]"
 people: []
-themes: [speech, sound, french, fragments]
+themes: ["speech", "[[sound]]", "[[french]]", "fragments"]
+subjects: ["[[Sound and Music]]", "[[Language and Literature]]"]
 type: journal-fragment
 scan: scan_1997_p020
 ---

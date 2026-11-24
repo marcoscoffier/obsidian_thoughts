@@ -1,9 +1,10 @@
 ---
 date: 1995-08-01
 dated: estimated
-era: DC / Post-College
+era: "[[DC, Post-College]]"
 people: []
-themes: [poetry, writing-process, mountain-biking]
+themes: ["[[poetry]]", "[[writing-process]]", "[[mountain-biking]]"]
+subjects: ["[[Language and Literature]]", "[[Self]]"]
 type: journal-fragment
 scan: scan_1995_p091
 ---

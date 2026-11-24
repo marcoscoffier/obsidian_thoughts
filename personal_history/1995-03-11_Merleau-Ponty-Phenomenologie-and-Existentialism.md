@@ -1,9 +1,10 @@
 ---
 date: 1995-03-11
 dated: estimated
-era: Final Semester Yale 1995
+era: "[[Final Semester Yale 1995]]"
 people: [Merleau-Ponty, Camus, Saint-Exupéry, Cézanne, Heraclitus, Plato, Ruskin, Karl Jaspers, Monika M. Langer, Feyerabend, Von Staden]
-themes: [french, reading, perception, literature, writing-process]
+themes: ["[[french]]", "[[reading]]", "[[perception]]", "[[literature]]", "[[writing-process]]"]
+subjects: ["[[Language and Literature]]", "[[Perception and Space]]"]
 type: journal-fragment
 scan: [scan_1995_p045, scan_1995_p046, scan_1995_p047, scan_1995_p048]
 ---

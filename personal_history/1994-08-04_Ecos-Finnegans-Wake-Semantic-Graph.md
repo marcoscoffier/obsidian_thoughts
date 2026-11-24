@@ -1,8 +1,9 @@
 ---
 date: 1994-08-04
-era: France / Retrospective Notes
+era: "[[Summer 1994, Travel and Alps]]"
 people: [Umberto Eco, James Joyce]
-themes: [semiotics, finnegans-wake, metaphor-and-metonymy]
+themes: ["[[semiotics]]", "[[finnegans-wake]]", "metaphor-and-metonymy"]
+subjects: ["[[Language and Literature]]"]
 type: journal-fragment
 notebook_page: 104
 scan: photo-Screenshot_2026-11-18_at_10.27.46_AM

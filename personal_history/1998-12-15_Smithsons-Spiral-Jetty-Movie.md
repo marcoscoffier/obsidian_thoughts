@@ -1,9 +1,10 @@
 ---
 date: 1998-12-15
 dated: estimated
-era: Paris / Beaux-Arts
+era: "[[Paris, Beaux-Arts]]"
 people: [Robert Smithson, Akemi]
-themes: [land-art, film, video, japan]
+themes: ["[[land-art]]", "[[film]]", "[[video]]", "[[japan]]"]
+subjects: ["[[Making Art]]", "[[Art Theory and the Art World]]", "[[Places and Cities]]"]
 type: journal-fragment
 scan: scan_1997_2_p066
 ---

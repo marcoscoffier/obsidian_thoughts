@@ -1,9 +1,10 @@
 ---
 date: 1998-12-15
 dated: estimated
-era: Paris / Beaux-Arts
+era: "[[Paris, Beaux-Arts]]"
 people: []
-themes: [sound, sky, clouds, observation]
+themes: ["[[sound]]", "[[sky]]", "[[clouds]]", "[[observation]]"]
+subjects: ["[[Sound and Music]]", "[[Perception and Space]]"]
 type: journal-fragment
 scan: [scan_1997_2_p059, scan_1997_2_p060]
 ---

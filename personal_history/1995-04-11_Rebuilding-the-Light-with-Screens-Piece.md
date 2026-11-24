@@ -1,9 +1,10 @@
 ---
 date: 1995-04-11
 dated: estimated
-era: Final Semester Yale 1995
+era: "[[Final Semester Yale 1995]]"
 people: []
-themes: [installation, sculpture-ideas, light]
+themes: ["[[installation]]", "[[sculpture-ideas]]", "[[light]]"]
+subjects: ["[[Making Art]]", "[[Perception and Space]]"]
 type: visual-record
 scan: scan_1995_p069
 ---

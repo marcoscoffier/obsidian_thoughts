@@ -1,8 +1,9 @@
 ---
 date: 1994-07-29
-era: New Haven / Summer Travel
+era: "[[Summer 1994, Travel and Alps]]"
 people: [John Hollander, Richard Diebenkorn, Katherine, James Turrell, Frank Stella, Anselm Kiefer, Mark Rothko, Clyfford Still, Barnett Newman, Robert Wilson]
-themes: [flight, clouds, diebenkorn, turrell, flatness, abstraction]
+themes: ["[[flight]]", "[[clouds]]", "diebenkorn", "[[turrell]]", "flatness", "abstraction"]
+subjects: ["[[Places and Cities]]", "[[Perception and Space]]", "[[Art Theory and the Art World]]"]
 type: journal-fragment
 notebook_page: 88
 scan: [scan_1994_2_p019, scan_1994_2_p020, scan_1994_2_p021]

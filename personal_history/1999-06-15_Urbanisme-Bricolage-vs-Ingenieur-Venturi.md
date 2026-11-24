@@ -1,9 +1,10 @@
 ---
 date: 1999-06-15
 dated: estimated
-era: Paris / Beaux-Arts
+era: "[[Paris, Beaux-Arts]]"
 people: [Colin Rowe, Robert Venturi, Panerai]
-themes: [french, urbanism, coursework, bricolage, architecture]
+themes: ["[[french]]", "[[urbanism]]", "[[coursework]]", "[[bricolage]]", "[[architecture]]"]
+subjects: ["[[Language and Literature]]", "[[Places and Cities]]", "[[Art Theory and the Art World]]", "[[Making Art]]"]
 type: class-notes
 scan: scan_1997_2_p068
 ---
@@ -27,7 +28,7 @@ Olympe - av. N↕S 7m large `[to the right:]` 1 îlot 35m
 gue au 18eme → av. = 10m large.
 
 > [!note] Transcription notes
-> Undated; probably more notes from the history-of-the-city course ([[1998-12-15_Histoire-de-la-Ville-Premier-Cours]]). "Pan-ray" is probably Philippe Panerai, author with Castex and Depaule of *Formes urbaines: de l'îlot à la barre* (1977); "Roukau" is unclear. Colin Rowe (Cornell) wrote *Collage City* with Fred Koetter (1978), which contrasts the bricoleur and the engineer, after Lévi-Strauss (compare [[1997-09-01_Bricoleur-Levi-Strauss]]). Venturi, Scott Brown and Izenour, *Learning from Las Vegas* (1972). "bettler" and "Olympe" are as written.
+> Undated; probably more notes from the history-of-the-city course ([[1998-12-15_Histoire-de-la-Ville-Premier-Cours]]). "Pan-ray" is probably Philippe Panerai, author with Castex and Depaule of *Formes urbaines: de l'îlot à la barre* (1977); "Roukau" is unclear. Colin Rowe (Cornell) wrote *Collage City* with Fred Koetter (1978), which contrasts the bricoleur and the engineer, after Lévi-Strauss (compare [[1998-08-01_Bricoleur-Levi-Strauss]]). Venturi, Scott Brown and Izenour, *Learning from Las Vegas* (1972). "bettler" and "Olympe" are as written.
 
 ---
 

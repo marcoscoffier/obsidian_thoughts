@@ -1,8 +1,9 @@
 ---
 date: 1997
-era: Paris / Beaux-Arts
+era: "[[Paris, Beaux-Arts]]"
 people: [Edmund Spenser, William Shakespeare]
-themes: [dance, montage, sound, mythology]
+themes: ["[[dance]]", "montage", "[[sound]]", "mythology"]
+subjects: ["[[Making Art]]", "[[Sound and Music]]", "[[Language and Literature]]"]
 type: journal-fragment
 scan: scan_1997_p030
 ---

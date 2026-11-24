@@ -1,8 +1,9 @@
 ---
 date: 1994-08-01
-era: The Alps / Tignes
+era: "[[Summer 1994, Travel and Alps]]"
 people: [John Hull]
-themes: [dream, acceptance, secret-work, painting, vocation]
+themes: ["dream", "acceptance", "secret-work", "[[painting]]", "[[vocation]]"]
+subjects: ["[[Self]]", "[[Love and Relationships]]", "[[Making Art]]"]
 type: journal-fragment
 notebook_page: 95
 scan: scan_1994_2_p033

@@ -1,8 +1,9 @@
 ---
 date: 1995-07-23
-era: DC / Post-College
+era: "[[DC, Post-College]]"
 people: [Doug Hall, Susan Blood, Lynne Huffer, Kang-i Sun Chang, Susanna Jacobsen, Mr. Sturdevant, Jean Kaspar, Alison, Jen Dowley, Sandy Crary]
-themes: [installation, sound-installation, light, project-list]
+themes: ["[[installation]]", "sound-installation", "[[light]]", "[[project-list]]"]
+subjects: ["[[Making Art]]", "[[Sound and Music]]", "[[Perception and Space]]"]
 type: journal-fragment
 scan: [scan_1995_p088, scan_1995_p089]
 ---

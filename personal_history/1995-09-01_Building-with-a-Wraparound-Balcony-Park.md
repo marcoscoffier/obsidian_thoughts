@@ -1,9 +1,10 @@
 ---
 date: 1995-09-01
 dated: estimated
-era: DC / Post-College
+era: "[[DC, Post-College]]"
 people: []
-themes: [architecture, urbanism]
+themes: ["[[architecture]]", "[[urbanism]]"]
+subjects: ["[[Places and Cities]]"]
 type: journal-fragment
 scan: scan_1995_p096
 ---

@@ -1,8 +1,9 @@
 ---
 date: 1994-08-03
-era: France / Retrospective Notes
+era: "[[Summer 1994, Travel and Alps]]"
 people: [Rudolf Arnheim, Michelangelo, Eduardo Torroja]
-themes: [arnheim, gestalt, simplicity, form-and-meaning, writing-style]
+themes: ["[[arnheim]]", "[[gestalt]]", "simplicity", "form-and-meaning", "[[writing-style]]"]
+subjects: ["[[Perception and Space]]", "[[Mind, Science and Systems]]", "[[Art Theory and the Art World]]", "[[Language and Literature]]"]
 type: journal-fragment
 notebook_page: 101
 scan: [scan_1994_2_p041, scan_1994_2_p042]

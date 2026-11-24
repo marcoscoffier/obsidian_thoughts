@@ -1,9 +1,10 @@
 ---
 date: 1995-01-22
 dated: estimated
-era: Final Semester Yale 1995
+era: "[[Final Semester Yale 1995]]"
 people: []
-themes: [religion, intimacy, commitment]
+themes: ["[[religion]]", "[[intimacy]]", "[[commitment]]"]
+subjects: ["[[Self]]", "[[Love and Relationships]]"]
 type: journal-fragment
 scan: scan_1995_p019
 ---

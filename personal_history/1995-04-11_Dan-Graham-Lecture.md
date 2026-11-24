@@ -1,9 +1,10 @@
 ---
 date: 1995-04-11
 dated: estimated
-era: Final Semester Yale 1995
+era: "[[Final Semester Yale 1995]]"
 people: [Dan Graham, Judd, Nauman, Sartre, Lacan, Venturi]
-themes: [art-history, coursework, architecture, video]
+themes: ["[[art-history]]", "[[coursework]]", "[[architecture]]", "[[video]]"]
+subjects: ["[[Art Theory and the Art World]]", "[[Places and Cities]]", "[[Making Art]]"]
 type: class-notes
 scan: scan_1995_p070
 ---

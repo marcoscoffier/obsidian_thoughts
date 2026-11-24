@@ -1,9 +1,10 @@
 ---
 date: 1999-06-15
 dated: estimated
-era: Paris / Beaux-Arts
+era: "[[Paris, Beaux-Arts]]"
 people: []
-themes: [technology, cognition, maps]
+themes: ["[[technology]]", "[[cognition]]", "[[maps]]"]
+subjects: ["[[Mind, Science and Systems]]", "[[Places and Cities]]"]
 type: journal-fragment
 scan: scan_1997_2_p068
 ---

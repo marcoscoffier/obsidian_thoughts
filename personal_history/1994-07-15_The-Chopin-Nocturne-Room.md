@@ -1,8 +1,9 @@
 ---
 date: 1994-07-15
-era: New Haven
+era: "[[Yale, New Haven]]"
 people: [Frédéric Chopin, Mom]
-themes: [installation, sensory-space, childhood-memory, music]
+themes: ["[[installation]]", "sensory-space", "[[childhood-memory]]", "[[music]]"]
+subjects: ["[[Making Art]]", "[[Perception and Space]]", "[[Family]]", "[[Sound and Music]]"]
 type: journal-fragment
 notebook_page: 65
 scan: [scan_1994_1_p110, scan_1994_1_p112]

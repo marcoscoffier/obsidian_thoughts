@@ -1,8 +1,9 @@
 ---
 date: 1994-07-28
-era: New Haven
+era: "[[Yale, New Haven]]"
 people: [Antonio López García, Robert Frost]
-themes: [time, painting-theory, poetry, reading, imagination]
+themes: ["[[time]]", "[[painting-theory]]", "[[poetry]]", "[[reading]]", "[[imagination]]"]
+subjects: ["[[Perception and Space]]", "[[Art Theory and the Art World]]", "[[Language and Literature]]"]
 type: journal-fragment
 notebook_page: 82
 scan: scan_1994_2_p009

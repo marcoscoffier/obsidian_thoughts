@@ -1,9 +1,10 @@
 ---
 date: 1995-09-01
 dated: estimated
-era: DC / Post-College
+era: "[[DC, Post-College]]"
 people: []
-themes: [sky, observation, color-theory]
+themes: ["[[sky]]", "[[observation]]", "[[color-theory]]"]
+subjects: ["[[Perception and Space]]"]
 type: journal-fragment
 scan: scan_1995_p095
 ---

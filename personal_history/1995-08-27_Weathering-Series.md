@@ -1,9 +1,10 @@
 ---
 date: 1995-08-27
 dated: estimated
-era: DC / Post-College
+era: "[[DC, Post-College]]"
 people: [Duchamp, Hans Haacke, Pollock]
-themes: [painting-concepts, project-list, materiality]
+themes: ["[[painting-concepts]]", "[[project-list]]", "[[materiality]]"]
+subjects: ["[[Making Art]]"]
 type: journal-fragment
 scan: scan_1995_p093
 ---

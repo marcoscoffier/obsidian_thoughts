@@ -1,8 +1,9 @@
 ---
 date: 1995-01-10
-era: Final Semester Yale 1995
+era: "[[Final Semester Yale 1995]]"
 people: [Natalie Charkow, Paul, Katherine, Susannah, Auerbach, Matisse]
-themes: [sculpture, painting-process, mountain-biking, athleticism]
+themes: ["[[sculpture]]", "[[painting-process]]", "[[mountain-biking]]", "athleticism"]
+subjects: ["[[Making Art]]", "[[Self]]"]
 type: journal-fragment
 scan: scan_1995_p010
 ---

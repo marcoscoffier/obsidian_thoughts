@@ -1,9 +1,10 @@
 ---
 date: 1995-09-01
 dated: estimated
-era: DC / Post-College
+era: "[[DC, Post-College]]"
 people: [Shklovsky]
-themes: [art-theory, observation, perception, communication]
+themes: ["[[art-theory]]", "[[observation]]", "[[perception]]", "[[communication]]"]
+subjects: ["[[Art Theory and the Art World]]", "[[Perception and Space]]", "[[Language and Literature]]"]
 type: journal-fragment
 scan: scan_1995_p094
 ---

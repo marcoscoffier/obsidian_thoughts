@@ -1,8 +1,9 @@
 ---
 date: 1994-07-09
-era: New Haven
+era: "[[Yale, New Haven]]"
 people: [Harold Bloom, A.R. Ammons]
-themes: [painting-process, ekphrasis, space-vs-poetry]
+themes: ["[[painting-process]]", "[[ekphrasis]]", "space-vs-poetry"]
+subjects: ["[[Making Art]]", "[[Language and Literature]]"]
 type: journal-fragment
 notebook_page: 58
 scan: [scan_1994_1_p100, scan_1994_1_p102]

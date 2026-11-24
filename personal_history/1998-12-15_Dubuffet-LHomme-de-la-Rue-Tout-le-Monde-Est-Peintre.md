@@ -1,9 +1,10 @@
 ---
 date: 1998-12-15
 dated: estimated
-era: Paris / Beaux-Arts
+era: "[[Paris, Beaux-Arts]]"
 people: [Jean Dubuffet, Françoise Choay]
-themes: [french, reading, art-theory]
+themes: ["[[french]]", "[[reading]]", "[[art-theory]]"]
+subjects: ["[[Language and Literature]]", "[[Art Theory and the Art World]]"]
 type: journal-fragment
 scan: [scan_1997_2_p040, scan_1997_2_p041, scan_1997_2_p042, scan_1997_2_p043]
 ---

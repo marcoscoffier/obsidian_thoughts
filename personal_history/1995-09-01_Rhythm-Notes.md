@@ -1,9 +1,10 @@
 ---
 date: 1995-09-01
 dated: estimated
-era: DC / Post-College
+era: "[[DC, Post-College]]"
 people: []
-themes: [music, notation, learning]
+themes: ["[[music]]", "notation", "learning"]
+subjects: ["[[Sound and Music]]", "[[Mind, Science and Systems]]"]
 type: class-notes
 scan: [scan_1995_p096, scan_1995_p097]
 ---

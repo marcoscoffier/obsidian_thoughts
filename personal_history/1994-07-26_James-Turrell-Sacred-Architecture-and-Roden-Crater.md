@@ -1,8 +1,9 @@
 ---
 date: 1994-07-26
-era: New Haven
+era: "[[Yale, New Haven]]"
 people: [James Turrell, Marcel Proust, Roberto Crippa]
-themes: [architecture, land-art, roden-crater, sky, space, solitude]
+themes: ["[[architecture]]", "[[land-art]]", "roden-crater", "[[sky]]", "[[space]]", "[[solitude]]"]
+subjects: ["[[Places and Cities]]", "[[Making Art]]", "[[Art Theory and the Art World]]", "[[Perception and Space]]", "[[Self]]"]
 type: journal-fragment
 notebook_page: 78
 scan: [scan_1994_2_p002, scan_1994_2_p003]

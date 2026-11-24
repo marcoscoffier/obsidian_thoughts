@@ -1,8 +1,9 @@
 ---
 date: 1994-07-28
-era: New Haven / Summer Travel
+era: "[[Summer 1994, Travel and Alps]]"
 people: [Papa, Dominique Aury (Pauline Réage)]
-themes: [class-guilt, yale, privilege, fairhaven, france, cross-cultural]
+themes: ["class-guilt", "[[yale]]", "privilege", "fairhaven", "france", "cross-cultural"]
+subjects: ["[[Self]]", "[[Places and Cities]]"]
 type: journal-fragment
 notebook_page: 86
 scan: [scan_1994_2_p015, scan_1994_2_p016]

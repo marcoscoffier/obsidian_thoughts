@@ -1,9 +1,10 @@
 ---
 date: 1998-12-15
 dated: estimated
-era: Paris / Beaux-Arts
+era: "[[Paris, Beaux-Arts]]"
 people: []
-themes: [light, city, maps, photography]
+themes: ["[[light]]", "[[city]]", "[[maps]]", "[[photography]]"]
+subjects: ["[[Perception and Space]]", "[[Places and Cities]]", "[[Making Art]]"]
 type: journal-fragment
 scan: scan_1997_2_p056
 ---

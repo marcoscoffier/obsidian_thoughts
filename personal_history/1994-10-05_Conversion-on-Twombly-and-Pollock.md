@@ -1,8 +1,9 @@
 ---
 date: 1994-10-05
-era: New Haven
+era: "[[Yale, New Haven]]"
 people: [Cy Twombly, Jackson Pollock]
-themes: [modernism, calligraphy, painting]
+themes: ["[[modernism]]", "calligraphy", "[[painting]]"]
+subjects: ["[[Art Theory and the Art World]]", "[[Making Art]]"]
 type: journal-fragment
 notebook_page: 52
 scan: scan_1994_1_p088

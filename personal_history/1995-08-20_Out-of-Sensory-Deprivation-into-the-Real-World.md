@@ -1,8 +1,9 @@
 ---
 date: 1995-08-20
-era: DC / Post-College
+era: "[[DC, Post-College]]"
 people: [Robert Irwin, Turrell, Hyon In-Sung, Tina, Aden Meinel, Marjorie Meinel]
-themes: [installation, perception, turrell, photography, sky]
+themes: ["[[installation]]", "[[perception]]", "[[turrell]]", "[[photography]]", "[[sky]]"]
+subjects: ["[[Making Art]]", "[[Perception and Space]]"]
 type: journal-fragment
 scan: [scan_1995_p091, scan_1995_p092]
 ---

@@ -1,9 +1,10 @@
 ---
 date: 1995-07-06
 dated: estimated
-era: DC / Post-College
+era: "[[DC, Post-College]]"
 people: []
-themes: [sculpture-ideas, light, studio-practice]
+themes: ["[[sculpture-ideas]]", "[[light]]", "[[studio-practice]]"]
+subjects: ["[[Making Art]]", "[[Perception and Space]]"]
 type: visual-record
 scan: scan_1995_p086
 ---

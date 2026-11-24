@@ -1,8 +1,9 @@
 ---
 date: 1994-07-29
-era: New Haven / Summer Travel
+era: "[[Summer 1994, Travel and Alps]]"
 people: [Amy, Virginia Woolf, Joseph Conrad]
-themes: [friendship, sea, literature, memory, ekphrasis]
+themes: ["[[friendship]]", "sea", "[[literature]]", "[[memory]]", "[[ekphrasis]]"]
+subjects: ["[[Love and Relationships]]", "[[Perception and Space]]", "[[Language and Literature]]", "[[Self]]"]
 type: journal-fragment
 notebook_page: 89
 scan: scan_1994_2_p018

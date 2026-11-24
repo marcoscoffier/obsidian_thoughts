@@ -1,8 +1,9 @@
 ---
 date: 1994-08-04
-era: France / Retrospective Notes
+era: "[[Summer 1994, Travel and Alps]]"
 people: [Giovanni Boccaccio, Giotto, Zeuxis, Pliny, Rudolf Arnheim, Pablo Picasso, Hans Holbein]
-themes: [arnheim, picasso, illusion, anamorphosis, personality, signs]
+themes: ["[[arnheim]]", "picasso", "[[illusion]]", "anamorphosis", "personality", "signs"]
+subjects: ["[[Perception and Space]]", "[[Art Theory and the Art World]]", "[[Self]]", "[[Language and Literature]]"]
 type: journal-fragment
 scan: scan_1994_2_p046
 ---

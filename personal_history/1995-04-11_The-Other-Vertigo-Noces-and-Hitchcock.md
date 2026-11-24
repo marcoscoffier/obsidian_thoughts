@@ -1,9 +1,10 @@
 ---
 date: 1995-04-11
 dated: estimated
-era: Final Semester Yale 1995
+era: "[[Final Semester Yale 1995]]"
 people: [Camus, Genet, Hitchcock, Jimmy Stewart, Kirk J. Schneider]
-themes: [fear, literature, writing-process, film, french]
+themes: ["[[fear]]", "[[literature]]", "[[writing-process]]", "[[film]]", "[[french]]"]
+subjects: ["[[Self]]", "[[Language and Literature]]", "[[Art Theory and the Art World]]"]
 type: journal-fragment
 scan: scan_1995_p067
 ---

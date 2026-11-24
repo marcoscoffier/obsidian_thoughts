@@ -1,9 +1,10 @@
 ---
 date: 1998-12-15
 dated: estimated
-era: Paris / Beaux-Arts
+era: "[[Paris, Beaux-Arts]]"
 people: []
-themes: [cognition, nature]
+themes: ["[[cognition]]", "[[nature]]"]
+subjects: ["[[Mind, Science and Systems]]", "[[Places and Cities]]"]
 type: journal-fragment
 scan: scan_1997_2_p046
 ---

@@ -1,8 +1,9 @@
 ---
 date: 2026-11-11
-era: Present / Therapy Notes
+era: "[[Present, Therapy Notes]]"
 people: [Miwa, Bret Kavanaugh, Chris Cuomo]
-themes: [yale-culture, social-alienation, stereotypes, marriage-distance]
+themes: ["[[yale-culture]]", "[[social-alienation]]", "[[stereotypes]]", "[[marriage-distance]]"]
+subjects: ["[[Places and Cities]]", "[[Self]]", "[[Love and Relationships]]"]
 type: journal-fragment
 ---
 

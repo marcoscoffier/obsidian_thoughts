@@ -353,36 +353,36 @@ Regenerate with `python3 tools/scan_index.py`.
 
 | PDF page | Written page no. | Notes |
 |---|---|---|
-| 1 |  | [[1997-09-01_Drawing-as-a-Method-of-Understanding]] |
-| 2 |  | [[1997-09-01_Bricoleur-Levi-Strauss]] |
-| 3 |  | [[1997-09-01_Bricoleur-Levi-Strauss]] |
-| 4 |  | [[1997-09-01_Hofstadters-Copycat]], [[1997-09-01_Play-Until-Equality-the-Chaos-Question]] |
-| 5 |  | [[1997-09-01_Images-of-Other-Materials]] |
-| 6 |  | [[1997-09-01_Write-Essays-Offerings-Vacuum-Cube]] |
-| 7 |  | [[1997-09-01_Hong-Kong-and-First-Thoughts-of-Japan]], [[1997-09-01_Make-Your-Own-Telescope]] |
-| 8 |  | [[1997-09-01_Hong-Kong-and-First-Thoughts-of-Japan]] |
-| 9 |  | [[1997-09-01_Dreams-Are-Like-Saga-Video-Games]], [[1997-09-01_Orbit-Sketches]] |
-| 10 |  | [[1997-09-01_Dreams-Are-Like-Saga-Video-Games]], [[1997-09-01_Pulley-and-Frame-Sketches]] |
-| 11 |  | [[1997-09-01_Musicians-Free-Without-Becoming-Foolish]] |
-| 12 |  | [[1997-09-01_Pretentious-and-Boring-Things-to-Remember]], [[1997-10-15_Akemis-John-Cage-Video-and-Nobel-Triplets]] |
-| 13 |  | [[1997-10-15_Medium-and-Dream-Coincide]], [[1997-10-15_Places-Remembered-Houston-Ecoles-Skye]], [[1997-10-15_Terrible-Depressions-Spinning-My-Wheels]] |
-| 14 |  | [[1997-10-15_Do-Do-Do-Records-and-Roaratorio]], [[1997-10-15_Places-Remembered-Houston-Ecoles-Skye]] |
-| 15 |  | [[1997-10-15_I-Want-to-Go-to-MIT]] |
-| 16 |  | [[1997-10-15_Experiencing-Place-Public-Art-To-Do-in-Japan]] |
-| 17 |  | [[1997-10-15_Track-and-Pulley-Machine-Sketches]] |
-| 18 |  | [[1997-10-15_Video-Synch-Circuit-for-Three-Tapes]] |
-| 19 |  | [[1997-10-15_Pasted-Photographs-Fences-and-Rooftops]] |
-| 20 |  | [[1997-10-15_Pasted-Photographs-Fences-and-Rooftops]] |
-| 21 |  | [[1997-10-15_Pasted-Photographs-Fences-and-Rooftops]] |
-| 22 |  | [[1997-10-15_Pasted-Photographs-Fences-and-Rooftops]] |
-| 23 |  | [[1997-10-15_Bricoleur-Pidgin-and-Creole-Languages]], [[1997-10-15_Photographs-Foreground-Material]] |
-| 24 |  | [[1997-10-15_Photographs-Foreground-Material]] |
-| 25 |  | [[1997-10-15_Photographs-Foreground-Material]] |
-| 26 |  | [[1997-10-15_First-DAT-Max-Compositions-and-Video]], [[1997-10-15_Smithsons-Non-Sites-and-Photography]] |
-| 27 |  | [[1997-10-15_An-Artist-Can-Be]], [[1997-10-15_Photo-Day-Electric-Poles-and-Shinagawa]], [[1997-10-15_Transparence-and-Binaural-Sound]] |
-| 28 |  | [[1997-10-15_Recursive-Loop-Speaker-Sketch]] |
-| 29 |  | [[1997-10-15_Philosophy-of-A-Life-Boden-and-Langton]] |
-| 30 |  | [[1997-10-15_Geese-in-V-Formation-Simple-Rules]] |
+| 1 |  | [[1998-08-01_Drawing-as-a-Method-of-Understanding]] |
+| 2 |  | [[1998-08-01_Bricoleur-Levi-Strauss]] |
+| 3 |  | [[1998-08-01_Bricoleur-Levi-Strauss]] |
+| 4 |  | [[1998-08-01_Hofstadters-Copycat]], [[1998-08-01_Play-Until-Equality-the-Chaos-Question]] |
+| 5 |  | [[1998-08-01_Images-of-Other-Materials]] |
+| 6 |  | [[1998-08-01_Write-Essays-Offerings-Vacuum-Cube]] |
+| 7 |  | [[1998-10-15_Hong-Kong-and-First-Thoughts-of-Japan]], [[1998-10-15_Make-Your-Own-Telescope]] |
+| 8 |  | [[1998-10-15_Hong-Kong-and-First-Thoughts-of-Japan]] |
+| 9 |  | [[1998-10-15_Dreams-Are-Like-Saga-Video-Games]], [[1998-10-15_Orbit-Sketches]] |
+| 10 |  | [[1998-10-15_Dreams-Are-Like-Saga-Video-Games]], [[1998-10-15_Pulley-and-Frame-Sketches]] |
+| 11 |  | [[1998-10-15_Musicians-Free-Without-Becoming-Foolish]] |
+| 12 |  | [[1998-10-15_Akemis-John-Cage-Video-and-Nobel-Triplets]], [[1998-10-15_Pretentious-and-Boring-Things-to-Remember]] |
+| 13 |  | [[1998-10-15_Medium-and-Dream-Coincide]], [[1998-10-15_Places-Remembered-Houston-Ecoles-Skye]], [[1998-10-15_Terrible-Depressions-Spinning-My-Wheels]] |
+| 14 |  | [[1998-10-15_Do-Do-Do-Records-and-Roaratorio]], [[1998-10-15_Places-Remembered-Houston-Ecoles-Skye]] |
+| 15 |  | [[1998-10-15_I-Want-to-Go-to-MIT]] |
+| 16 |  | [[1998-10-15_Experiencing-Place-Public-Art-To-Do-in-Japan]] |
+| 17 |  | [[1998-10-15_Track-and-Pulley-Machine-Sketches]] |
+| 18 |  | [[1998-10-15_Video-Synch-Circuit-for-Three-Tapes]] |
+| 19 |  | [[1998-10-15_Pasted-Photographs-Fences-and-Rooftops]] |
+| 20 |  | [[1998-10-15_Pasted-Photographs-Fences-and-Rooftops]] |
+| 21 |  | [[1998-10-15_Pasted-Photographs-Fences-and-Rooftops]] |
+| 22 |  | [[1998-10-15_Pasted-Photographs-Fences-and-Rooftops]] |
+| 23 |  | [[1998-10-15_Bricoleur-Pidgin-and-Creole-Languages]], [[1998-10-15_Photographs-Foreground-Material]] |
+| 24 |  | [[1998-10-15_Photographs-Foreground-Material]] |
+| 25 |  | [[1998-10-15_Photographs-Foreground-Material]] |
+| 26 |  | [[1998-10-15_First-DAT-Max-Compositions-and-Video]], [[1998-10-15_Smithsons-Non-Sites-and-Photography]] |
+| 27 |  | [[1998-10-15_An-Artist-Can-Be]], [[1998-10-15_Photo-Day-Electric-Poles-and-Shinagawa]], [[1998-10-15_Transparence-and-Binaural-Sound]] |
+| 28 |  | [[1998-10-15_Recursive-Loop-Speaker-Sketch]] |
+| 29 |  | [[1998-10-15_Philosophy-of-A-Life-Boden-and-Langton]] |
+| 30 |  | [[1998-10-15_Geese-in-V-Formation-Simple-Rules]] |
 | 31 |  | [[1998-12-15_Boorstin-Paine-and-No-Finality]] |
 | 32 |  | [[1998-12-15_Dubuffet-on-Childrens-Drawings-Graffiti-and-Invention]] |
 | 33 |  | [[1998-12-15_Dubuffet-on-Childrens-Drawings-Graffiti-and-Invention]] |

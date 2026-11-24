@@ -1,8 +1,9 @@
 ---
 date: 1994-07-31
-era: The Alps / Tignes
+era: "[[Summer 1994, Travel and Alps]]"
 people: [Authier, Michel Butor]
-themes: [alps, video-art, stream-of-consciousness, skiing, literature, image-placement]
+themes: ["[[alps]]", "video-art", "stream-of-consciousness", "skiing", "[[literature]]", "image-placement"]
+subjects: ["[[Places and Cities]]", "[[Making Art]]", "[[Language and Literature]]", "[[Self]]", "[[Perception and Space]]"]
 type: journal-fragment
 notebook_page: 91
 scan: [scan_1994_2_p026, scan_1994_2_p027]

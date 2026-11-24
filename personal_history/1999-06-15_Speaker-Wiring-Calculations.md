@@ -1,9 +1,10 @@
 ---
 date: 1999-06-15
 dated: estimated
-era: Paris / Beaux-Arts
+era: "[[Paris, Beaux-Arts]]"
 people: []
-themes: [sound, engineering, technology]
+themes: ["[[sound]]", "[[engineering]]", "[[technology]]"]
+subjects: ["[[Sound and Music]]", "[[Mind, Science and Systems]]"]
 type: visual-record
 scan: scan_1997_2_p082
 ---

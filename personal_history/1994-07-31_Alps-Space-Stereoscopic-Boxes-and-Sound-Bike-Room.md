@@ -1,8 +1,9 @@
 ---
 date: 1994-07-31
-era: The Alps / Tignes
+era: "[[Summer 1994, Travel and Alps]]"
 people: []
-themes: [alps, space, ekphrasis, stereoscopy, sculpture-ideas, sound-installation, geometry]
+themes: ["[[alps]]", "[[space]]", "[[ekphrasis]]", "stereoscopy", "[[sculpture-ideas]]", "sound-installation", "geometry"]
+subjects: ["[[Places and Cities]]", "[[Perception and Space]]", "[[Language and Literature]]", "[[Making Art]]", "[[Sound and Music]]", "[[Mind, Science and Systems]]"]
 type: journal-fragment
 notebook_page: 93
 scan: [scan_1994_2_p029, scan_1994_2_p030]

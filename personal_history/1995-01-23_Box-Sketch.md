@@ -1,9 +1,10 @@
 ---
 date: 1995-01-23
 dated: estimated
-era: Final Semester Yale 1995
+era: "[[Final Semester Yale 1995]]"
 people: []
-themes: [sculpture-ideas, drawing]
+themes: ["[[sculpture-ideas]]", "[[drawing]]"]
+subjects: ["[[Making Art]]"]
 type: visual-record
 scan: scan_1995_p024
 ---

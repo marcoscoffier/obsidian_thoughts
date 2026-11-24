@@ -1,8 +1,9 @@
 ---
 date: 1994-07-13
-era: New Haven
+era: "[[Yale, New Haven]]"
 people: [John Ashbery, James Turrell]
-themes: [perception, light, running, awe]
+themes: ["[[perception]]", "[[light]]", "running", "awe"]
+subjects: ["[[Perception and Space]]", "[[Self]]"]
 type: journal-fragment
 notebook_page: 60
 scan: [scan_1994_1_p103, scan_1994_1_p104]

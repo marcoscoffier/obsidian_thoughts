@@ -1,9 +1,10 @@
 ---
 date: 1994-12-28
 dated: estimated
-era: Final Semester Yale 1995
+era: "[[Final Semester Yale 1995]]"
 people: [Merleau-Ponty, Cézanne, Plato, Leonardo, Galileo, Descartes, Turrel]
-themes: [perception, space, painting-process, turrell]
+themes: ["[[perception]]", "[[space]]", "[[painting-process]]", "[[turrell]]"]
+subjects: ["[[Perception and Space]]", "[[Making Art]]"]
 type: journal-fragment
 scan: scan_1995_p003
 ---

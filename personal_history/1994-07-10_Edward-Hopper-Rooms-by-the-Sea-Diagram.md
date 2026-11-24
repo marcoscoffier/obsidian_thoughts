@@ -1,8 +1,9 @@
 ---
 date: 1994-07-10
-era: New Haven
+era: "[[Yale, New Haven]]"
 people: [Edward Hopper, Childe Hassam]
-themes: [color-theory, sunlight, tonal-painting, yuag-study]
+themes: ["[[color-theory]]", "sunlight", "tonal-painting", "yuag-study"]
+subjects: ["[[Perception and Space]]", "[[Making Art]]", "[[Art Theory and the Art World]]"]
 type: visual-record
 notebook_page: 11
 scan: scan_1994_1_p019

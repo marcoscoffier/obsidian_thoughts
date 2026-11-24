@@ -1,8 +1,9 @@
 ---
 date: 1995-01-17
-era: Final Semester Yale 1995
+era: "[[Final Semester Yale 1995]]"
 people: [Diebenkorn, Turrell]
-themes: [art-theory, light, observation]
+themes: ["[[art-theory]]", "[[light]]", "[[observation]]"]
+subjects: ["[[Art Theory and the Art World]]", "[[Perception and Space]]"]
 type: journal-fragment
 scan: scan_1995_p017
 ---

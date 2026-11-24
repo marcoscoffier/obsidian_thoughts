@@ -1,8 +1,9 @@
 ---
 date: 1995-02-12
-era: Final Semester Yale 1995
+era: "[[Final Semester Yale 1995]]"
 people: [Ron Jones, Van Altima]
-themes: [installation, light, observation, perception]
+themes: ["[[installation]]", "[[light]]", "[[observation]]", "[[perception]]"]
+subjects: ["[[Making Art]]", "[[Perception and Space]]"]
 type: journal-fragment
 scan: [scan_1995_p031, scan_1995_p032]
 ---

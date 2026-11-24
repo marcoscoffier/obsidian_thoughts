@@ -1,8 +1,9 @@
 ---
 date: 1995-01-13
-era: Final Semester Yale 1995
+era: "[[Final Semester Yale 1995]]"
 people: [Daria, Sarah, Miranda, Katherine, Cézanne, Amy, Susan, Lucia, Ashley, Mora, Campbell, Beirbaum]
-themes: [self-criticism, friendship, katherine, social-alienation, insecurity]
+themes: ["[[self-criticism]]", "[[friendship]]", "[[katherine]]", "[[social-alienation]]", "insecurity"]
+subjects: ["[[Self]]", "[[Love and Relationships]]"]
 type: journal-fragment
 scan: [scan_1995_p013, scan_1995_p014]
 ---

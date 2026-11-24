@@ -1,8 +1,9 @@
 ---
 date: 1994-07-22
-era: New Haven
+era: "[[Yale, New Haven]]"
 people: [Katherine]
-themes: [intimacy, commitment]
+themes: ["[[intimacy]]", "[[commitment]]"]
+subjects: ["[[Love and Relationships]]"]
 type: journal-fragment
 notebook_page: 74
 scan: scan_1994_1_p129

@@ -1,8 +1,9 @@
 ---
 date: 1997
-era: Paris / Beaux-Arts
+era: "[[Paris, Beaux-Arts]]"
 people: [Miwa]
-themes: [project-list, photography, pixels, sound, installation]
+themes: ["[[project-list]]", "[[photography]]", "[[pixels]]", "[[sound]]", "[[installation]]"]
+subjects: ["[[Making Art]]", "[[Sound and Music]]"]
 type: journal-fragment
 scan: scan_1997_p008
 ---

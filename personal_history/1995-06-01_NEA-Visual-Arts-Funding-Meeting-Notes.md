@@ -1,9 +1,10 @@
 ---
 date: 1995-06-01
 dated: estimated
-era: DC / Post-College
+era: "[[DC, Post-College]]"
 people: [E. L. Doctorow, Ned Cohn, Cézanne, Philip Johnson, Nayland Blake]
-themes: [politics, economics, public-space, museums]
+themes: ["[[politics]]", "economics", "[[public-space]]", "museums"]
+subjects: ["[[Art Theory and the Art World]]", "[[Places and Cities]]"]
 type: class-notes
 scan: [scan_1995_p076, scan_1995_p077, scan_1995_p078, scan_1995_p079, scan_1995_p080, scan_1995_p081]
 ---

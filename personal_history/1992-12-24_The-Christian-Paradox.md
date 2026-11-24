@@ -1,8 +1,9 @@
 ---
 date: 1992-12-24
-era: College / New Haven
+era: "[[Yale, New Haven]]"
 people: []
-themes: [religion, ritual, western-canon, mass-culture]
+themes: ["[[religion]]", "ritual", "western-canon", "[[mass-culture]]"]
+subjects: ["[[Self]]", "[[Language and Literature]]", "[[Art Theory and the Art World]]"]
 type: journal-fragment
 notebook_page: 1
 scan: scan_1994_1_p003

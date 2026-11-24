@@ -1,8 +1,9 @@
 ---
 date: 1994-07-21
-era: New Haven
+era: "[[Yale, New Haven]]"
 people: [Katherine, Ilyon]
-themes: [acoustics, sound-art, architecture]
+themes: ["acoustics", "[[sound-art]]", "[[architecture]]"]
+subjects: ["[[Sound and Music]]", "[[Places and Cities]]"]
 type: journal-fragment
 notebook_page: 67
 scan: [scan_1994_1_p118, scan_1994_1_p119]

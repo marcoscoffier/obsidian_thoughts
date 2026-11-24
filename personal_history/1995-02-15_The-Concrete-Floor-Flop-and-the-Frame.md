@@ -1,8 +1,9 @@
 ---
 date: 1995-02-15
-era: Final Semester Yale 1995
+era: "[[Final Semester Yale 1995]]"
 people: [Rachel, Jason]
-themes: [studio-practice, framing, installation, self-criticism]
+themes: ["[[studio-practice]]", "[[framing]]", "[[installation]]", "[[self-criticism]]"]
+subjects: ["[[Making Art]]", "[[Perception and Space]]", "[[Self]]"]
 type: journal-fragment
 scan: [scan_1995_p037, scan_1995_p038]
 ---

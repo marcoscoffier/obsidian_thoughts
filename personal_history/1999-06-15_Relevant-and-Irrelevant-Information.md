@@ -1,9 +1,10 @@
 ---
 date: 1999-06-15
 dated: estimated
-era: Paris / Beaux-Arts
+era: "[[Paris, Beaux-Arts]]"
 people: [John R. Pierce]
-themes: [knowledge, epistemology, perception]
+themes: ["[[knowledge]]", "[[epistemology]]", "[[perception]]"]
+subjects: ["[[Mind, Science and Systems]]", "[[Perception and Space]]"]
 type: journal-fragment
 scan: scan_1997_2_p081
 ---

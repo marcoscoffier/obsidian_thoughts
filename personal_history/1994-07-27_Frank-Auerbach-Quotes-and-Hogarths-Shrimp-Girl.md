@@ -1,8 +1,9 @@
 ---
 date: 1994-07-27
-era: New Haven
+era: "[[Yale, New Haven]]"
 people: [Frank Auerbach, Rembrandt, Pablo Picasso, Henri Matisse, Albrecht Dürer, Philips Koninck, T.S. Eliot, William Hogarth]
-themes: [painting-theory, ambition, gesture, crowd-drawings, reworking]
+themes: ["[[painting-theory]]", "[[ambition]]", "[[gesture]]", "crowd-drawings", "reworking"]
+subjects: ["[[Art Theory and the Art World]]", "[[Self]]", "[[Making Art]]"]
 type: journal-fragment
 notebook_page: 81
 scan: [scan_1994_2_p006, scan_1994_2_p007, scan_1994_2_p008]

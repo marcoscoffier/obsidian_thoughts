@@ -1,9 +1,10 @@
 ---
 date: 1999-06-15
 dated: estimated
-era: Paris / Beaux-Arts
+era: "[[Paris, Beaux-Arts]]"
 people: [Abraham Pais, Paul Dirac]
-themes: [epistemology, reading, knowledge, privilege]
+themes: ["[[epistemology]]", "[[reading]]", "[[knowledge]]", "privilege"]
+subjects: ["[[Mind, Science and Systems]]", "[[Language and Literature]]", "[[Self]]"]
 type: journal-fragment
 scan: scan_1997_2_p075
 ---

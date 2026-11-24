@@ -1,9 +1,10 @@
 ---
 date: 1998-12-15
 dated: estimated
-era: Paris / Beaux-Arts
+era: "[[Paris, Beaux-Arts]]"
 people: [Douglas Hofstadter, Wallace Stevens, Clément Marot]
-themes: [poetry, craft, cognition]
+themes: ["[[poetry]]", "[[craft]]", "[[cognition]]"]
+subjects: ["[[Language and Literature]]", "[[Making Art]]", "[[Mind, Science and Systems]]"]
 type: journal-fragment
 scan: scan_1997_2_p056
 ---

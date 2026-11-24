@@ -1,8 +1,9 @@
 ---
 date: 1994-06-07
-era: New Haven
+era: "[[Yale, New Haven]]"
 people: []
-themes: [optics, mirrors, painting-concepts, stereoscopic-vision]
+themes: ["[[optics]]", "[[mirrors]]", "[[painting-concepts]]", "stereoscopic-vision"]
+subjects: ["[[Perception and Space]]", "[[Making Art]]"]
 type: journal-fragment
 notebook_page: 31
 scan: [scan_1994_1_p050, scan_1994_1_p052]

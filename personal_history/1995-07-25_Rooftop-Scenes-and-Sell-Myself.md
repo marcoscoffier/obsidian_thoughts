@@ -1,8 +1,9 @@
 ---
 date: 1995-07-25
-era: DC / Post-College
+era: "[[DC, Post-College]]"
 people: []
-themes: [painting, ambition, studio-practice, writing-process]
+themes: ["[[painting]]", "[[ambition]]", "[[studio-practice]]", "[[writing-process]]"]
+subjects: ["[[Making Art]]", "[[Self]]", "[[Language and Literature]]"]
 type: journal-fragment
 scan: scan_1995_p090
 ---

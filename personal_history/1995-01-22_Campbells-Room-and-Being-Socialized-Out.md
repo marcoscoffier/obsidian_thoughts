@@ -1,9 +1,10 @@
 ---
 date: 1995-01-22
 dated: estimated
-era: Final Semester Yale 1995
+era: "[[Final Semester Yale 1995]]"
 people: [Campbell, Katherine]
-themes: [language, friendship, yale-culture, identity, painting-practice]
+themes: ["[[language]]", "[[friendship]]", "[[yale-culture]]", "[[identity]]", "painting-practice"]
+subjects: ["[[Language and Literature]]", "[[Love and Relationships]]", "[[Places and Cities]]", "[[Self]]", "[[Making Art]]"]
 type: journal-fragment
 scan: [scan_1995_p019, scan_1995_p020]
 ---

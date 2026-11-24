@@ -1,9 +1,10 @@
 ---
 date: 1995-03-12
 dated: estimated
-era: Final Semester Yale 1995
+era: "[[Final Semester Yale 1995]]"
 people: [John Cage, Robert Wilson, John Ruskin]
-themes: [art-theory, framing, poetry, collage]
+themes: ["[[art-theory]]", "[[framing]]", "[[poetry]]", "[[collage]]"]
+subjects: ["[[Art Theory and the Art World]]", "[[Perception and Space]]", "[[Language and Literature]]", "[[Making Art]]"]
 type: journal-fragment
 scan: scan_1995_p062
 ---

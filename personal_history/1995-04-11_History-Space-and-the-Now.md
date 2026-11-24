@@ -1,8 +1,9 @@
 ---
 date: 1995-04-11
-era: Final Semester Yale 1995
+era: "[[Final Semester Yale 1995]]"
 people: [Giacometti, Max Ernst]
-themes: [space, time, language]
+themes: ["[[space]]", "[[time]]", "[[language]]"]
+subjects: ["[[Perception and Space]]", "[[Language and Literature]]"]
 type: journal-fragment
 scan: scan_1995_p064
 ---

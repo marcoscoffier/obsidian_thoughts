@@ -1,8 +1,9 @@
 ---
 date: 1994-07-30
-era: New Haven / Summer Travel
+era: "[[Summer 1994, Travel and Alps]]"
 people: [Gregory Bateson, Dia Moore, Antoine de Saint-Exupéry]
-themes: [semiotics, bateson, play, metacommunication, framing, perfume]
+themes: ["[[semiotics]]", "bateson", "[[play]]", "metacommunication", "[[framing]]", "perfume"]
+subjects: ["[[Language and Literature]]", "[[Mind, Science and Systems]]", "[[Perception and Space]]", "[[Self]]"]
 type: journal-fragment
 notebook_page: 90
 scan: [scan_1994_2_p024, scan_1994_2_p025]

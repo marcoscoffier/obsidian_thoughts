@@ -1,8 +1,9 @@
 ---
 date: 1995-01-06
-era: Final Semester Yale 1995
+era: "[[Final Semester Yale 1995]]"
 people: [Merleau-Ponty, Cézanne]
-themes: [french, reading, painting-theory]
+themes: ["[[french]]", "[[reading]]", "[[painting-theory]]"]
+subjects: ["[[Language and Literature]]", "[[Art Theory and the Art World]]"]
 type: journal-fragment
 scan: scan_1995_p005
 ---

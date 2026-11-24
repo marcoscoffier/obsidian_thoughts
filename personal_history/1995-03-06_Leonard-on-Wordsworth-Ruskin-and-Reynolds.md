@@ -1,9 +1,10 @@
 ---
 date: 1995-03-06
 dated: estimated
-era: Final Semester Yale 1995
+era: "[[Final Semester Yale 1995]]"
 people: [Wordsworth, Ruskin, Zeuxis, George J. Leonard, Reynolds, Pericles, Coleridge, Kant, Archibald Alison, John Muir, Leonardo]
-themes: [reading, art-history, perception, aesthetics]
+themes: ["[[reading]]", "[[art-history]]", "[[perception]]", "[[aesthetics]]"]
+subjects: ["[[Language and Literature]]", "[[Art Theory and the Art World]]", "[[Perception and Space]]"]
 type: journal-fragment
 scan: [scan_1995_p042, scan_1995_p043]
 ---

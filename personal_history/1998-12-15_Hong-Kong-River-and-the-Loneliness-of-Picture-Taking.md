@@ -1,9 +1,10 @@
 ---
 date: 1998-12-15
 dated: estimated
-era: Paris / Beaux-Arts
+era: "[[Paris, Beaux-Arts]]"
 people: []
-themes: [photography, memory, solitude, city]
+themes: ["[[photography]]", "[[memory]]", "[[solitude]]", "[[city]]"]
+subjects: ["[[Making Art]]", "[[Self]]", "[[Places and Cities]]"]
 type: journal-fragment
 scan: scan_1997_2_p054
 ---
@@ -17,7 +18,7 @@ There is a deep loneliness in picture taking
 When I take a picture the whole 360° of spherical experience is around me - This is condensed into the visual part that fits into a picture. I take this picture and place it on a white wall w/ enourmous amounts of white space around it & behind me when I look at it on this wall. The viewer steps into the photographer's loneliness. when he moves before the image
 
 > [!note] Transcription notes
-> Undated. The Hong Kong trip is in [[1997-09-01_Hong-Kong-and-First-Thoughts-of-Japan]]; the rue des Écoles and Connecticut Avenue also appear in [[1997-10-15_Places-Remembered-Houston-Ecoles-Skye]]. "seen filled" is probably "scum filled" or "weed filled".
+> Undated. The Hong Kong trip is in [[1998-10-15_Hong-Kong-and-First-Thoughts-of-Japan]]; the rue des Écoles and Connecticut Avenue also appear in [[1998-10-15_Places-Remembered-Houston-Ecoles-Skye]]. "seen filled" is probably "scum filled" or "weed filled".
 
 ---
 

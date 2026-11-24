@@ -1,9 +1,10 @@
 ---
 date: 1995-03-12
 dated: estimated
-era: Final Semester Yale 1995
+era: "[[Final Semester Yale 1995]]"
 people: [Steve, Nauman]
-themes: [installation, sculpture-ideas, light, space, project-list]
+themes: ["[[installation]]", "[[sculpture-ideas]]", "[[light]]", "[[space]]", "[[project-list]]"]
+subjects: ["[[Making Art]]", "[[Perception and Space]]"]
 type: visual-record
 scan: scan_1995_p059
 ---

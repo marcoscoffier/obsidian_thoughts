@@ -1,9 +1,10 @@
 ---
 date: 1999-06-15
 dated: estimated
-era: Paris / Beaux-Arts
+era: "[[Paris, Beaux-Arts]]"
 people: []
-themes: [sound, sculpture-ideas, technology, sound-art]
+themes: ["[[sound]]", "[[sculpture-ideas]]", "[[technology]]", "[[sound-art]]"]
+subjects: ["[[Sound and Music]]", "[[Making Art]]", "[[Mind, Science and Systems]]"]
 type: journal-fragment
 scan: scan_1997_2_p078
 ---

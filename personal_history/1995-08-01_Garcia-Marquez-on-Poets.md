@@ -1,9 +1,10 @@
 ---
 date: 1995-08-01
 dated: estimated
-era: DC / Post-College
+era: "[[DC, Post-College]]"
 people: [Gabriel García Márquez]
-themes: [poetry, literature]
+themes: ["[[poetry]]", "[[literature]]"]
+subjects: ["[[Language and Literature]]"]
 type: journal-fragment
 scan: scan_1995_p091
 ---

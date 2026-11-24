@@ -1,8 +1,9 @@
 ---
 date: 1997
-era: Paris / Beaux-Arts
+era: "[[Paris, Beaux-Arts]]"
 people: [William Wordsworth, Princess Diana]
-themes: [maps, urbanism, social-art, paris]
+themes: ["[[maps]]", "[[urbanism]]", "social-art", "paris"]
+subjects: ["[[Places and Cities]]", "[[Love and Relationships]]"]
 type: journal-fragment
 scan: scan_1997_p007
 ---

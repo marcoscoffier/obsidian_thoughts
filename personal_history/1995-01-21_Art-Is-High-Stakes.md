@@ -1,8 +1,9 @@
 ---
 date: 1995-01-21
-era: Final Semester Yale 1995
+era: "[[Final Semester Yale 1995]]"
 people: []
-themes: [memory, intimacy, ambition, childhood-memory]
+themes: ["[[memory]]", "[[intimacy]]", "[[ambition]]", "[[childhood-memory]]"]
+subjects: ["[[Self]]", "[[Love and Relationships]]", "[[Family]]"]
 type: journal-fragment
 scan: scan_1995_p018
 ---

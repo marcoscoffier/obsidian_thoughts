@@ -1,8 +1,9 @@
 ---
 date: 1994-08-02
-era: New Haven / Summer Travel
+era: "[[Summer 1994, Travel and Alps]]"
 people: [Katherine]
-themes: [photography, intimacy, self-disclosure, writing-process]
+themes: ["[[photography]]", "[[intimacy]]", "self-disclosure", "[[writing-process]]"]
+subjects: ["[[Making Art]]", "[[Love and Relationships]]", "[[Language and Literature]]"]
 type: journal-fragment
 scan: [scan_1994_1_p047, scan_1994_1_p053]
 ---

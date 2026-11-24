@@ -1,8 +1,9 @@
 ---
 date: 2026-11-11
-era: Present / Therapy Notes
+era: "[[Present, Therapy Notes]]"
 people: [Miwa, James Joyce, Nora Barnacle, Ludwig Wittgenstein, Martin Heidegger]
-themes: [invisibility, adhd, therapy, connection]
+themes: ["invisibility", "adhd", "[[therapy]]", "connection"]
+subjects: ["[[Perception and Space]]", "[[Self]]", "[[Love and Relationships]]"]
 type: journal-fragment
 ---
 

@@ -1,8 +1,9 @@
 ---
 date: 1997
-era: Paris / Beaux-Arts
+era: "[[Paris, Beaux-Arts]]"
 people: [Monique]
-themes: [project-list, sound, video, studio-practice]
+themes: ["[[project-list]]", "[[sound]]", "[[video]]", "[[studio-practice]]"]
+subjects: ["[[Making Art]]", "[[Sound and Music]]"]
 type: journal-fragment
 scan: scan_1997_p016
 ---

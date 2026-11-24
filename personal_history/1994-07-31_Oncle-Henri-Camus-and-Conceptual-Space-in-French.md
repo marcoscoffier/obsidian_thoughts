@@ -1,8 +1,9 @@
 ---
 date: 1994-07-31
-era: The Alps / Tignes
+era: "[[Summer 1994, Travel and Alps]]"
 people: [Oncle Henri, Toussin Degeorges, Mom, Papa, Albert Camus, Fabien]
-themes: [family-history, french, fathers-grave, memory, mental-maps]
+themes: ["family-history", "[[french]]", "fathers-grave", "[[memory]]", "mental-maps"]
+subjects: ["[[Family]]", "[[Language and Literature]]", "[[Self]]", "[[Mind, Science and Systems]]"]
 type: journal-fragment
 notebook_page: 94
 scan: scan_1994_2_p032

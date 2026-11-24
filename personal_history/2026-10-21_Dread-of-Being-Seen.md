@@ -1,8 +1,9 @@
 ---
 date: 2026-10-21
-era: Present / Therapy Notes
+era: "[[Present, Therapy Notes]]"
 people: []
-themes: [vulnerability, shame, invisibility, masculinity]
+themes: ["vulnerability", "shame", "invisibility", "masculinity"]
+subjects: ["[[Self]]", "[[Perception and Space]]"]
 type: journal-fragment
 ---
 

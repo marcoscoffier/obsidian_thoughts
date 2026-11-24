@@ -1,9 +1,10 @@
 ---
 date: 1999-06-15
 dated: estimated
-era: Paris / Beaux-Arts
+era: "[[Paris, Beaux-Arts]]"
 people: []
-themes: [drawing, photography, project-list, tignes, technology]
+themes: ["[[drawing]]", "[[photography]]", "[[project-list]]", "[[tignes]]", "[[technology]]"]
+subjects: ["[[Making Art]]", "[[Places and Cities]]", "[[Mind, Science and Systems]]"]
 type: journal-fragment
 scan: scan_1997_2_p077
 ---
@@ -17,7 +18,7 @@ scan: scan_1997_2_p077
 `[in blue ink, with an arrow up to the grid:]` do this & Japan plant picture quickly.
 
 > [!note] Transcription notes
-> Undated. A Yagi antenna is the common directional TV or radio aerial. "tignes Radio antenna" is probably a photo from Tignes, where Marco spent time in the Alps. The Japan "plant picture" may be the industrial-plant photographs pasted in earlier ([[1997-10-15_Pasted-Photographs-Fences-and-Rooftops]]).
+> Undated. A Yagi antenna is the common directional TV or radio aerial. "tignes Radio antenna" is probably a photo from Tignes, where Marco spent time in the Alps. The Japan "plant picture" may be the industrial-plant photographs pasted in earlier ([[1998-10-15_Pasted-Photographs-Fences-and-Rooftops]]).
 
 ---
 

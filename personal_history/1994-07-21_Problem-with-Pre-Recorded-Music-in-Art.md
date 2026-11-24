@@ -1,8 +1,9 @@
 ---
 date: 1994-07-21
-era: New Haven
+era: "[[Yale, New Haven]]"
 people: []
-themes: [sound-art, music, reference-frames]
+themes: ["[[sound-art]]", "[[music]]", "reference-frames"]
+subjects: ["[[Sound and Music]]", "[[Perception and Space]]"]
 type: journal-fragment
 scan: scan_1994_1_p119
 ---

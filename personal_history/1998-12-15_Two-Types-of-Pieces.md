@@ -1,9 +1,10 @@
 ---
 date: 1998-12-15
 dated: estimated
-era: Paris / Beaux-Arts
+era: "[[Paris, Beaux-Arts]]"
 people: [Nancy Holt]
-themes: [art-theory, land-art, sky]
+themes: ["[[art-theory]]", "[[land-art]]", "[[sky]]"]
+subjects: ["[[Art Theory and the Art World]]", "[[Making Art]]", "[[Perception and Space]]"]
 type: journal-fragment
 scan: scan_1997_2_p055
 ---

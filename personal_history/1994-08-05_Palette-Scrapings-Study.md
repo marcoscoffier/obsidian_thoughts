@@ -1,8 +1,9 @@
 ---
 date: 1994-08-05
-era: French Alps
+era: "[[Summer 1994, Travel and Alps]]"
 people: []
-themes: [palette-scrapings, materiality, alpine-painting]
+themes: ["palette-scrapings", "[[materiality]]", "alpine-painting"]
+subjects: ["[[Making Art]]"]
 type: visual-record
 scan: photo-Screenshot_2026-11-18_at_10.29.00_AM
 ---

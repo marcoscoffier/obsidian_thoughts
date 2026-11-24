@@ -1,8 +1,9 @@
 ---
 date: 1994-06-06
-era: New Haven
+era: "[[Yale, New Haven]]"
 people: [Katherine, Daria, Lisa, Nira]
-themes: [intimacy, emotional-restraint, writing-process, painting]
+themes: ["[[intimacy]]", "emotional-restraint", "[[writing-process]]", "[[painting]]"]
+subjects: ["[[Love and Relationships]]", "[[Self]]", "[[Language and Literature]]", "[[Making Art]]"]
 type: journal-fragment
 notebook_page: 29
 scan: scan_1994_1_p048

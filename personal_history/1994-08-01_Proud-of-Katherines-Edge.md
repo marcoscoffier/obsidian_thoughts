@@ -1,8 +1,9 @@
 ---
 date: 1994-08-01
-era: The Alps / Tignes
+era: "[[Summer 1994, Travel and Alps]]"
 people: [Katherine]
-themes: [katherine, romance, pride, individuality]
+themes: ["[[katherine]]", "romance", "pride", "individuality"]
+subjects: ["[[Love and Relationships]]", "[[Self]]"]
 type: journal-fragment
 scan: scan_1994_2_p038
 ---

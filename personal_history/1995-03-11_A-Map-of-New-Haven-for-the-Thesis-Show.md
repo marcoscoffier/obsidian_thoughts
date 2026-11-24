@@ -1,8 +1,9 @@
 ---
 date: 1995-03-11
-era: Final Semester Yale 1995
+era: "[[Final Semester Yale 1995]]"
 people: [John Cage, Wordsworth, Ruskin]
-themes: [installation, maps, light, observation]
+themes: ["[[installation]]", "[[maps]]", "[[light]]", "[[observation]]"]
+subjects: ["[[Making Art]]", "[[Places and Cities]]", "[[Perception and Space]]"]
 type: journal-fragment
 scan: scan_1995_p045
 ---

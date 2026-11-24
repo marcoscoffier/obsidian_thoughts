@@ -1,8 +1,9 @@
 ---
 date: 1994-07-15
-era: New Haven
+era: "[[Yale, New Haven]]"
 people: []
-themes: [light, painting-technique, mirrors, sky]
+themes: ["[[light]]", "[[painting-technique]]", "[[mirrors]]", "[[sky]]"]
+subjects: ["[[Perception and Space]]", "[[Making Art]]"]
 type: journal-fragment
 notebook_page: 64
 scan: scan_1994_1_p110

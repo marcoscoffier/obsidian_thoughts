@@ -1,8 +1,9 @@
 ---
 date: 1994-08-15
-era: New Haven
+era: "[[Yale, New Haven]]"
 people: [Jimmy, Robert Wilson, Thomas De Quincey]
-themes: [memory, perception, theater, urban-tension, observation]
+themes: ["[[memory]]", "[[perception]]", "theater", "urban-tension", "[[observation]]"]
+subjects: ["[[Self]]", "[[Perception and Space]]", "[[Art Theory and the Art World]]", "[[Places and Cities]]"]
 type: journal-fragment
 scan: scan_1994_1_p134
 ---

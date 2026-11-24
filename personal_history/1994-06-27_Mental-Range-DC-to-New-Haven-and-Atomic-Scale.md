@@ -1,8 +1,9 @@
 ---
 date: 1994-06-27
-era: New Haven
+era: "[[Yale, New Haven]]"
 people: [Khalil Gibran]
-themes: [cognition, scale, maps, perception, memory]
+themes: ["[[cognition]]", "scale", "[[maps]]", "[[perception]]", "[[memory]]"]
+subjects: ["[[Mind, Science and Systems]]", "[[Perception and Space]]", "[[Places and Cities]]", "[[Self]]"]
 type: journal-fragment
 scan: scan_1994_1_p034
 ---

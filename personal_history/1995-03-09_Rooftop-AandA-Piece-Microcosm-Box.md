@@ -1,8 +1,9 @@
 ---
 date: 1995-03-09
-era: Final Semester Yale 1995
+era: "[[Final Semester Yale 1995]]"
 people: [Katherine]
-themes: [installation, sculpture-ideas, light, sky]
+themes: ["[[installation]]", "[[sculpture-ideas]]", "[[light]]", "[[sky]]"]
+subjects: ["[[Making Art]]", "[[Perception and Space]]"]
 type: visual-record
 scan: scan_1995_p044
 ---

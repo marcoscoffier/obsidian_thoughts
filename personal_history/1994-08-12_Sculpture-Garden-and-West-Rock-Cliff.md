@@ -1,8 +1,9 @@
 ---
 date: 1994-08-12
-era: New Haven
+era: "[[Yale, New Haven]]"
 people: [Dad, Louise Nevelson, Henry Moore, James Turrell, Count Panza]
-themes: [sculpture, nature, climbing, mountain-biking]
+themes: ["[[sculpture]]", "[[nature]]", "climbing", "[[mountain-biking]]"]
+subjects: ["[[Making Art]]", "[[Places and Cities]]", "[[Self]]"]
 type: journal-fragment
 notebook_page: 70
 scan: [scan_1994_1_p122, scan_1994_1_p123]

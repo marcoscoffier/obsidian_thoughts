@@ -1,8 +1,9 @@
 ---
 date: 1995-01-11
-era: Final Semester Yale 1995
+era: "[[Final Semester Yale 1995]]"
 people: [Cézanne, Émile Zola, John Rewald]
-themes: [art-theory, painting-theory, observation, reading]
+themes: ["[[art-theory]]", "[[painting-theory]]", "[[observation]]", "[[reading]]"]
+subjects: ["[[Art Theory and the Art World]]", "[[Perception and Space]]", "[[Language and Literature]]"]
 type: journal-fragment
 scan: [scan_1995_p010, scan_1995_p011]
 ---

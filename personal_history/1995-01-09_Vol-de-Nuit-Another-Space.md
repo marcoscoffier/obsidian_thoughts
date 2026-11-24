@@ -1,8 +1,9 @@
 ---
 date: 1995-01-09
-era: Final Semester Yale 1995
+era: "[[Final Semester Yale 1995]]"
 people: [Saint-Exupéry, Fabien]
-themes: [french, flight, tignes, light, literature]
+themes: ["[[french]]", "[[flight]]", "[[tignes]]", "[[light]]", "[[literature]]"]
+subjects: ["[[Language and Literature]]", "[[Places and Cities]]", "[[Perception and Space]]"]
 type: journal-fragment
 scan: [scan_1995_p008, scan_1995_p009]
 ---

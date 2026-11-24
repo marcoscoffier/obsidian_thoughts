@@ -1,9 +1,10 @@
 ---
 date: 1995-07-01
 dated: estimated
-era: DC / Post-College
+era: "[[DC, Post-College]]"
 people: [Beethoven, O. J. Simpson]
-themes: [poetry, mass-culture, technology]
+themes: ["[[poetry]]", "[[mass-culture]]", "[[technology]]"]
+subjects: ["[[Language and Literature]]", "[[Art Theory and the Art World]]", "[[Mind, Science and Systems]]"]
 type: journal-fragment
 scan: scan_1995_p085
 ---

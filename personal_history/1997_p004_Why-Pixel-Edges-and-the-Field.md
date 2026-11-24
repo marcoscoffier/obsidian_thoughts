@@ -1,8 +1,9 @@
 ---
 date: 1997
-era: Paris / Beaux-Arts
+era: "[[Paris, Beaux-Arts]]"
 people: []
-themes: [pixels, drawing, perception, sculpture-ideas, installation]
+themes: ["[[pixels]]", "[[drawing]]", "[[perception]]", "[[sculpture-ideas]]", "[[installation]]"]
+subjects: ["[[Making Art]]", "[[Perception and Space]]"]
 type: journal-fragment
 scan: scan_1997_p004
 ---

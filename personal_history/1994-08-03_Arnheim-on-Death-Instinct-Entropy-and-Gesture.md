@@ -1,8 +1,9 @@
 ---
 date: 1994-08-03
-era: France / Retrospective Notes
+era: "[[Summer 1994, Travel and Alps]]"
 people: [Rudolf Arnheim, Sigmund Freud, Wolfgang Köhler]
-themes: [arnheim, entropy, freud, activity, music-composition, gesture]
+themes: ["[[arnheim]]", "entropy", "freud", "activity", "music-composition", "[[gesture]]"]
+subjects: ["[[Perception and Space]]", "[[Mind, Science and Systems]]", "[[Self]]", "[[Sound and Music]]", "[[Making Art]]"]
 type: journal-fragment
 notebook_page: 101
 scan: [scan_1994_2_p040, scan_1994_2_p041]

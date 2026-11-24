@@ -1,9 +1,10 @@
 ---
 date: 1998-12-15
 dated: estimated
-era: Paris / Beaux-Arts
+era: "[[Paris, Beaux-Arts]]"
 people: [Eugene Garfield, Arlene Croce, Bill T. Jones, Leo Egghe, Ronald Rousseau]
-themes: [reading, criticism, systems]
+themes: ["[[reading]]", "[[criticism]]", "[[systems]]"]
+subjects: ["[[Language and Literature]]", "[[Art Theory and the Art World]]", "[[Mind, Science and Systems]]"]
 type: journal-fragment
 scan: scan_1997_2_p051
 ---

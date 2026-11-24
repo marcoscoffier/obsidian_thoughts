@@ -1,8 +1,9 @@
 ---
 date: 1997
-era: Paris / Beaux-Arts
+era: "[[Paris, Beaux-Arts]]"
 people: []
-themes: [craft, painting, mechanical-reproduction, technology, sensitivity]
+themes: ["[[craft]]", "[[painting]]", "mechanical-reproduction", "[[technology]]", "sensitivity"]
+subjects: ["[[Making Art]]", "[[Mind, Science and Systems]]", "[[Self]]"]
 type: journal-fragment
 scan: scan_1997_p033
 ---

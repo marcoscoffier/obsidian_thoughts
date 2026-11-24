@@ -1,9 +1,10 @@
 ---
 date: 1998-12-15
 dated: estimated
-era: Paris / Beaux-Arts
+era: "[[Paris, Beaux-Arts]]"
 people: []
-themes: [systems, cognition, technology, sculpture-ideas]
+themes: ["[[systems]]", "[[cognition]]", "[[technology]]", "[[sculpture-ideas]]"]
+subjects: ["[[Mind, Science and Systems]]", "[[Making Art]]"]
 type: journal-fragment
 scan: [scan_1997_2_p044, scan_1997_2_p045]
 ---

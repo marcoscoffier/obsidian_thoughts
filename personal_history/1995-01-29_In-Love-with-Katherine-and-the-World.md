@@ -1,9 +1,10 @@
 ---
 date: 1995-01-29
 dated: estimated
-era: Final Semester Yale 1995
+era: "[[Final Semester Yale 1995]]"
 people: [Katherine]
-themes: [katherine, love, travel]
+themes: ["[[katherine]]", "[[love]]", "[[travel]]"]
+subjects: ["[[Love and Relationships]]", "[[Places and Cities]]"]
 type: journal-fragment
 scan: scan_1995_p026
 ---

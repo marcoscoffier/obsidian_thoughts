@@ -1,8 +1,9 @@
 ---
 date: 1994-07-28
-era: New Haven
+era: "[[Yale, New Haven]]"
 people: [John Hull, Omar, Alison]
-themes: [insecurity, ego, studio-critique, meaning-in-art]
+themes: ["insecurity", "[[ego]]", "[[studio-critique]]", "meaning-in-art"]
+subjects: ["[[Self]]", "[[Art Theory and the Art World]]"]
 type: journal-fragment
 notebook_page: 82
 scan: scan_1994_2_p009

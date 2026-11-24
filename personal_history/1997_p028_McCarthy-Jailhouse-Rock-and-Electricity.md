@@ -1,8 +1,9 @@
 ---
 date: 1997
-era: Paris / Beaux-Arts
+era: "[[Paris, Beaux-Arts]]"
 people: [Joseph McCarthy, Elvis Presley]
-themes: [america, television, technology, politics]
+themes: ["america", "[[television]]", "[[technology]]", "[[politics]]"]
+subjects: ["[[Places and Cities]]", "[[Art Theory and the Art World]]", "[[Mind, Science and Systems]]"]
 type: journal-fragment
 scan: scan_1997_p028
 ---

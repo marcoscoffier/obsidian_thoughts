@@ -1,8 +1,9 @@
 ---
 date: 1994-08-04
-era: France / Retrospective Notes
+era: "[[Summer 1994, Travel and Alps]]"
 people: [Rudolf Arnheim]
-themes: [originality, necessity-vs-style, art-theory]
+themes: ["originality", "necessity-vs-style", "[[art-theory]]"]
+subjects: ["[[Mind, Science and Systems]]", "[[Art Theory and the Art World]]"]
 type: journal-fragment
 notebook_page: 104
 scan: photo-Screenshot_2026-11-18_at_10.27.46_AM

@@ -1,8 +1,9 @@
 ---
 date: 2026-10-21
-era: Present / Therapy Notes
+era: "[[Present, Therapy Notes]]"
 people: [Dad, Svetlana "Lana", Mom]
-themes: [father, memory, job-search]
+themes: ["[[father]]", "[[memory]]", "job-search"]
+subjects: ["[[Family]]", "[[Self]]"]
 type: journal-fragment
 ---
 

@@ -1,8 +1,9 @@
 ---
 date: 1994-06-22
-era: New Haven
+era: "[[Yale, New Haven]]"
 people: [Michael Heizer, Walter De Maria, Robert Smithson, Gregory Bateson]
-themes: [earthworks, sculpture, landscape, double-bind]
+themes: ["earthworks", "[[sculpture]]", "[[landscape]]", "double-bind"]
+subjects: ["[[Art Theory and the Art World]]", "[[Making Art]]", "[[Places and Cities]]", "[[Love and Relationships]]"]
 type: journal-fragment
 notebook_page: 39
 scan: photo-Screenshot_2026-11-18_at_10.27.18_AM

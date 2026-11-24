@@ -1,8 +1,9 @@
 ---
 date: 1994-08-03
-era: France / Retrospective Notes
+era: "[[Summer 1994, Travel and Alps]]"
 people: [Rudolf Arnheim, Ben Shahn, Ludwig Wittgenstein, Ron Jones, Albrecht Dürer, Johann Wolfgang von Goethe]
-themes: [arnheim, form-and-content, illusion, film-vs-still, sculpture, installation]
+themes: ["[[arnheim]]", "form-and-content", "[[illusion]]", "film-vs-still", "[[sculpture]]", "[[installation]]"]
+subjects: ["[[Perception and Space]]", "[[Art Theory and the Art World]]", "[[Making Art]]"]
 type: journal-fragment
 notebook_page: 102
 scan: [scan_1994_2_p043, scan_1994_2_p044]

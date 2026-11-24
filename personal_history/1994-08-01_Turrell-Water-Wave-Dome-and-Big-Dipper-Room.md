@@ -1,8 +1,9 @@
 ---
 date: 1994-08-01
-era: The Alps / Tignes
+era: "[[Summer 1994, Travel and Alps]]"
 people: [James Turrell]
-themes: [turrell, installation, water-reflections, candle-shadows, mirrors, big-dipper, optics]
+themes: ["[[turrell]]", "[[installation]]", "water-reflections", "candle-shadows", "[[mirrors]]", "big-dipper", "[[optics]]"]
+subjects: ["[[Perception and Space]]", "[[Making Art]]"]
 type: journal-fragment
 scan: [scan_1994_2_p036, scan_1994_2_p037]
 ---

@@ -1,9 +1,10 @@
 ---
 date: 1995-07-06
 dated: estimated
-era: DC / Post-College
+era: "[[DC, Post-College]]"
 people: [Caspar David Friedrich, Cage]
-themes: [painting-concepts, installation, photography, public-space]
+themes: ["[[painting-concepts]]", "[[installation]]", "[[photography]]", "[[public-space]]"]
+subjects: ["[[Making Art]]", "[[Places and Cities]]"]
 type: journal-fragment
 scan: scan_1995_p087
 ---

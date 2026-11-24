@@ -1,8 +1,9 @@
 ---
 date: 1994-08-04
-era: France / Retrospective Notes
+era: "[[Summer 1994, Travel and Alps]]"
 people: []
-themes: [secrecy, sexuality, stolen-journal, french, self-reflection]
+themes: ["secrecy", "sexuality", "stolen-journal", "[[french]]", "self-reflection"]
+subjects: ["[[Love and Relationships]]", "[[Language and Literature]]", "[[Self]]"]
 type: journal-fragment
 scan: scan_1994_2_p047
 ---

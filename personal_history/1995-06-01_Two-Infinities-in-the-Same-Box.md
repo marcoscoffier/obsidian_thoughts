@@ -1,9 +1,10 @@
 ---
 date: 1995-06-01
 dated: estimated
-era: DC / Post-College
+era: "[[DC, Post-College]]"
 people: []
-themes: [mirrors, perspective, sculpture-ideas, optics]
+themes: ["[[mirrors]]", "[[perspective]]", "[[sculpture-ideas]]", "[[optics]]"]
+subjects: ["[[Perception and Space]]", "[[Making Art]]"]
 type: visual-record
 scan: scan_1995_p074
 ---

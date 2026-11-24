@@ -1,9 +1,10 @@
 ---
 date: 2005-03-21
 dated: estimated
-era: New York / 2005
+era: "[[New York 2005]]"
 people: [John Cage]
-themes: [criticism, play, installation]
+themes: ["[[criticism]]", "[[play]]", "[[installation]]"]
+subjects: ["[[Art Theory and the Art World]]", "[[Mind, Science and Systems]]", "[[Making Art]]"]
 type: journal-fragment
 scan: scan_1997_2_p092
 ---

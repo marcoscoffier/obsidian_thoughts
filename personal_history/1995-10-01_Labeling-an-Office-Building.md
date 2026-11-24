@@ -1,9 +1,10 @@
 ---
 date: 1995-10-01
 dated: estimated
-era: Final Semester Yale 1995
+era: "[[DC, Post-College]]"
 people: []
-themes: [installation, signs, observation]
+themes: ["[[installation]]", "signs", "[[observation]]"]
+subjects: ["[[Making Art]]", "[[Language and Literature]]", "[[Perception and Space]]"]
 type: journal-fragment
 scan: scan_1995_p035
 ---

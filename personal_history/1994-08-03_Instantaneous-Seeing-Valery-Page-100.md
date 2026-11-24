@@ -1,8 +1,9 @@
 ---
 date: 1994-08-03
-era: France / Retrospective Notes
+era: "[[Summer 1994, Travel and Alps]]"
 people: [Katherine, Jacques-Louis David, Frank Auerbach, Paul Valéry]
-themes: [museum-walks, visual-perception, gesture, place-attachment, travel-scars]
+themes: ["museum-walks", "visual-perception", "[[gesture]]", "[[place-attachment]]", "travel-scars"]
+subjects: ["[[Places and Cities]]", "[[Perception and Space]]", "[[Making Art]]", "[[Self]]"]
 type: journal-fragment
 notebook_page: 100
 scan: [scan_1994_2_p039, scan_1994_2_p040]

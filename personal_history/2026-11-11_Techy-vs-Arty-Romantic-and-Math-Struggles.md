@@ -1,8 +1,9 @@
 ---
 date: 2026-11-11
-era: Present / Therapy Notes
+era: "[[Present, Therapy Notes]]"
 people: [Miwa, Papa, Mom]
-themes: [stereotypes, father, marriage-distance, education-resentment]
+themes: ["[[stereotypes]]", "[[father]]", "[[marriage-distance]]", "education-resentment"]
+subjects: ["[[Self]]", "[[Family]]", "[[Love and Relationships]]"]
 type: journal-fragment
 ---
 

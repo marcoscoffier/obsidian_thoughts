@@ -1,9 +1,10 @@
 ---
 date: 1995-04-11
 dated: estimated
-era: Final Semester Yale 1995
+era: "[[Final Semester Yale 1995]]"
 people: [Michel Collot, Claude Royet-Journoud]
-themes: [french, poetry, space, reading]
+themes: ["[[french]]", "[[poetry]]", "[[space]]", "[[reading]]"]
+subjects: ["[[Language and Literature]]", "[[Perception and Space]]"]
 type: journal-fragment
 scan: scan_1995_p072
 ---

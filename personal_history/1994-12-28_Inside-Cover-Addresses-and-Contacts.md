@@ -1,9 +1,10 @@
 ---
 date: 1994-12-28
 dated: estimated
-era: Final Semester Yale 1995
+era: "[[Final Semester Yale 1995]]"
 people: [Katherine, John Shozawa, Turrell, Dan Graham, Robert Irwin, Michel Verjux, Julien Laverdiere, Jesse Kline, Neil White]
-themes: [address-book, light, installation]
+themes: ["[[address-book]]", "[[light]]", "[[installation]]"]
+subjects: ["[[Love and Relationships]]", "[[Perception and Space]]", "[[Making Art]]"]
 type: visual-record
 scan: scan_1995_p001
 ---

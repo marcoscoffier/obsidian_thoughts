@@ -1,9 +1,10 @@
 ---
 date: 1999-06-15
 dated: estimated
-era: Paris / Beaux-Arts
+era: "[[Paris, Beaux-Arts]]"
 people: [Turrell, George J. Leonard]
-themes: [cognition, art-theory, french, project-list]
+themes: ["[[cognition]]", "[[art-theory]]", "[[french]]", "[[project-list]]"]
+subjects: ["[[Mind, Science and Systems]]", "[[Art Theory and the Art World]]", "[[Language and Literature]]", "[[Making Art]]"]
 type: journal-fragment
 scan: scan_1997_2_p071
 ---

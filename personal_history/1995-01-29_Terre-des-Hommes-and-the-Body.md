@@ -1,8 +1,9 @@
 ---
 date: 1995-01-29
-era: Final Semester Yale 1995
+era: "[[Final Semester Yale 1995]]"
 people: [Saint-Exupéry, Rimbaud, Shelley, Merleau-Ponty, Camus]
-themes: [perception, literature, flight, body]
+themes: ["[[perception]]", "[[literature]]", "[[flight]]", "[[body]]"]
+subjects: ["[[Perception and Space]]", "[[Language and Literature]]", "[[Places and Cities]]", "[[Self]]"]
 type: journal-fragment
 scan: scan_1995_p026
 ---

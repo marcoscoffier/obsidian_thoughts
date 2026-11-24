@@ -1,8 +1,9 @@
 ---
 date: 1994-07-28
-era: New Haven
+era: "[[Yale, New Haven]]"
 people: [Katherine, Amy, Daria, Vanessa, Alison, John Hull, Andrew, Coach Markoff, Roger Staubach, Papa, Mom]
-themes: [fear-of-men, father, gender, intimacy, creativity]
+themes: ["fear-of-men", "[[father]]", "[[gender]]", "[[intimacy]]", "[[creativity]]"]
+subjects: ["[[Self]]", "[[Family]]", "[[Love and Relationships]]", "[[Making Art]]"]
 type: journal-fragment
 notebook_page: 85
 scan: scan_1994_2_p014

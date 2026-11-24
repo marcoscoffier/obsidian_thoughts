@@ -1,8 +1,9 @@
 ---
 date: 1997
-era: Paris / Beaux-Arts
+era: "[[Paris, Beaux-Arts]]"
 people: [John Cage, Carl Jung, John Dewey]
-themes: [teaching, learning, synchronicity, music, dance]
+themes: ["teaching", "learning", "[[synchronicity]]", "[[music]]", "[[dance]]"]
+subjects: ["[[Art Theory and the Art World]]", "[[Mind, Science and Systems]]", "[[Self]]", "[[Sound and Music]]", "[[Making Art]]"]
 type: journal-fragment
 scan: scan_1997_p028
 ---

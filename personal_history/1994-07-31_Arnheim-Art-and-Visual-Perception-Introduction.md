@@ -1,8 +1,9 @@
 ---
 date: 1994-07-31
-era: The Alps / Tignes
+era: "[[Summer 1994, Travel and Alps]]"
 people: [Rudolf Arnheim, Max Wertheimer, Wolfgang Köhler, Kurt Koffka, Rembrandt]
-themes: [arnheim, gestalt, visual-perception, language-vs-vision]
+themes: ["[[arnheim]]", "[[gestalt]]", "visual-perception", "language-vs-vision"]
+subjects: ["[[Perception and Space]]", "[[Language and Literature]]"]
 type: journal-fragment
 notebook_page: 92
 scan: scan_1994_2_p028

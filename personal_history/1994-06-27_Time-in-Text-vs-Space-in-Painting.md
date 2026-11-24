@@ -1,8 +1,9 @@
 ---
 date: 1994-06-27
-era: New Haven
+era: "[[Yale, New Haven]]"
 people: []
-themes: [synecdoche, reading, space-vs-time, painting]
+themes: ["synecdoche", "[[reading]]", "space-vs-time", "[[painting]]"]
+subjects: ["[[Language and Literature]]", "[[Perception and Space]]", "[[Making Art]]"]
 type: journal-fragment
 scan: scan_1994_1_p046
 ---

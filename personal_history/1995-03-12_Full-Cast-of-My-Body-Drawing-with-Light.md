@@ -1,9 +1,10 @@
 ---
 date: 1995-03-12
 dated: estimated
-era: Final Semester Yale 1995
+era: "[[Final Semester Yale 1995]]"
 people: [Leonardo, Duchamp, Nauman]
-themes: [sculpture-ideas, body, light, project-list]
+themes: ["[[sculpture-ideas]]", "[[body]]", "[[light]]", "[[project-list]]"]
+subjects: ["[[Making Art]]", "[[Self]]", "[[Perception and Space]]"]
 type: journal-fragment
 scan: scan_1995_p064
 ---

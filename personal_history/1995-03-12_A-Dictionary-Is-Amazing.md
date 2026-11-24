@@ -1,9 +1,10 @@
 ---
 date: 1995-03-12
 dated: estimated
-era: Final Semester Yale 1995
+era: "[[Final Semester Yale 1995]]"
 people: []
-themes: [language, french, writing-style]
+themes: ["[[language]]", "[[french]]", "[[writing-style]]"]
+subjects: ["[[Language and Literature]]"]
 type: journal-fragment
 scan: scan_1995_p054
 ---

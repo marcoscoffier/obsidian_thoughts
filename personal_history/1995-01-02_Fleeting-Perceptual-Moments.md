@@ -1,8 +1,9 @@
 ---
 date: 1995-01-02
-era: Final Semester Yale 1995
+era: "[[Final Semester Yale 1995]]"
 people: []
-themes: [perception, light, observation]
+themes: ["[[perception]]", "[[light]]", "[[observation]]"]
+subjects: ["[[Perception and Space]]"]
 type: journal-fragment
 scan: scan_1995_p004
 ---

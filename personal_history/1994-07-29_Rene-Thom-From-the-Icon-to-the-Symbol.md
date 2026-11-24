@@ -1,8 +1,9 @@
 ---
 date: 1994-07-29
-era: New Haven / Summer Travel
+era: "[[Summer 1994, Travel and Alps]]"
 people: [René Thom, Paul Feyerabend, Bobby McFerrin]
-themes: [semiotics, mathematics, symbols, language, flight-notes]
+themes: ["[[semiotics]]", "mathematics", "symbols", "[[language]]", "flight-notes"]
+subjects: ["[[Language and Literature]]", "[[Mind, Science and Systems]]"]
 type: journal-fragment
 scan: scan_1994_2_p017
 ---

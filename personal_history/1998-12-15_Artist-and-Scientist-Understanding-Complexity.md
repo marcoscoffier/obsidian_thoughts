@@ -1,9 +1,10 @@
 ---
 date: 1998-12-15
 dated: estimated
-era: Paris / Beaux-Arts
+era: "[[Paris, Beaux-Arts]]"
 people: []
-themes: [art-vs-science, knowledge, communication]
+themes: ["[[art-vs-science]]", "[[knowledge]]", "[[communication]]"]
+subjects: ["[[Mind, Science and Systems]]", "[[Language and Literature]]"]
 type: journal-fragment
 scan: scan_1997_2_p056
 ---

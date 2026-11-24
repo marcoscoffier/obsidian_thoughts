@@ -1,9 +1,10 @@
 ---
 date: 1995-04-18
 dated: estimated
-era: Final Semester Yale 1995
+era: "[[Final Semester Yale 1995]]"
 people: [Chuck Close, Robert Storr, Steve Reich, S, R, Jeff Tuder]
-themes: [letters, friendship, address-book]
+themes: ["[[letters]]", "[[friendship]]", "[[address-book]]"]
+subjects: ["[[Love and Relationships]]"]
 type: journal-fragment
 scan: scan_1995_p099
 ---

@@ -1,9 +1,10 @@
 ---
 date: 1995-01-06
 dated: estimated
-era: Final Semester Yale 1995
+era: "[[Final Semester Yale 1995]]"
 people: [Emerson, Katherine, Wordsworth, Plato, Donald McQuade, Warhol, Cage, Bachelard, George J. Leonard, Mark C. Taylor]
-themes: [art-theory, love, writing-process, reading-list]
+themes: ["[[art-theory]]", "[[love]]", "[[writing-process]]", "[[reading-list]]"]
+subjects: ["[[Art Theory and the Art World]]", "[[Love and Relationships]]", "[[Language and Literature]]"]
 type: journal-fragment
 scan: scan_1995_p006
 ---

@@ -1,9 +1,10 @@
 ---
 date: 1995-02-05
 dated: estimated
-era: Final Semester Yale 1995
+era: "[[Final Semester Yale 1995]]"
 people: [Henri Lefebvre, Lorentz]
-themes: [space, reading, epistemology, sculpture]
+themes: ["[[space]]", "[[reading]]", "[[epistemology]]", "[[sculpture]]"]
+subjects: ["[[Perception and Space]]", "[[Language and Literature]]", "[[Mind, Science and Systems]]", "[[Making Art]]"]
 type: journal-fragment
 scan: scan_1995_p030
 ---

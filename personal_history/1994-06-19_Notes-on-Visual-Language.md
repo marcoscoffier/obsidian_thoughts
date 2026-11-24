@@ -1,8 +1,9 @@
 ---
 date: 1994-06-19
-era: New Haven
+era: "[[Yale, New Haven]]"
 people: [Richard Diebenkorn]
-themes: [visual-language, abstraction, landscape]
+themes: ["visual-language", "abstraction", "[[landscape]]"]
+subjects: ["[[Language and Literature]]", "[[Art Theory and the Art World]]", "[[Places and Cities]]"]
 type: journal-fragment
 notebook_page: 40
 scan: [scan_1994_1_p066, scan_1994_1_p068]

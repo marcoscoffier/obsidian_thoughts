@@ -1,9 +1,10 @@
 ---
 date: 1998-12-15
 dated: estimated
-era: Paris / Beaux-Arts
+era: "[[Paris, Beaux-Arts]]"
 people: []
-themes: [mirrors, installation, identity, video]
+themes: ["[[mirrors]]", "[[installation]]", "[[identity]]", "[[video]]"]
+subjects: ["[[Perception and Space]]", "[[Making Art]]", "[[Self]]"]
 type: journal-fragment
 scan: scan_1997_2_p047
 ---

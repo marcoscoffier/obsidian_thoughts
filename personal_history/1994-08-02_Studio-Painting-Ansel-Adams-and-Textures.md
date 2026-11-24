@@ -1,8 +1,9 @@
 ---
 date: 1994-08-02
-era: New Haven / Summer Travel
+era: "[[Summer 1994, Travel and Alps]]"
 people: [Ansel Adams]
-themes: [painting-technique, photography, textures, studio-practice]
+themes: ["[[painting-technique]]", "[[photography]]", "textures", "[[studio-practice]]"]
+subjects: ["[[Making Art]]", "[[Perception and Space]]"]
 type: journal-fragment
 scan: scan_1994_1_p051
 ---

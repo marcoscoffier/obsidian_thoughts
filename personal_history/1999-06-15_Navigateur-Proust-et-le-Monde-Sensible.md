@@ -1,9 +1,10 @@
 ---
 date: 1999-06-15
 dated: estimated
-era: Paris / Beaux-Arts
+era: "[[Paris, Beaux-Arts]]"
 people: [Jean-Pierre Richard, Marcel Proust, Georges Poulet, Andy Warhol, Dechimère, Brillat-Savarin, Voltaire, Michel Foucault, Roland Barthes]
-themes: [french, reading, literature, perception, art-theory]
+themes: ["[[french]]", "[[reading]]", "[[literature]]", "[[perception]]", "[[art-theory]]"]
+subjects: ["[[Language and Literature]]", "[[Perception and Space]]", "[[Art Theory and the Art World]]"]
 type: journal-fragment
 scan: scan_1997_2_p076
 ---

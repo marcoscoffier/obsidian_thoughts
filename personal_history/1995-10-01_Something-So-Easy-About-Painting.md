@@ -1,8 +1,9 @@
 ---
 date: 1995-10-01
-era: DC / Post-College
+era: "[[DC, Post-College]]"
 people: []
-themes: [painting-process, creative-flow]
+themes: ["[[painting-process]]", "creative-flow"]
+subjects: ["[[Making Art]]"]
 type: journal-fragment
 scan: scan_1995_p098
 ---

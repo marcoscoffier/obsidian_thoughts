@@ -1,9 +1,10 @@
 ---
 date: 1995-02-27
 dated: estimated
-era: Final Semester Yale 1995
+era: "[[Final Semester Yale 1995]]"
 people: [Katherine, Griffin, Sabine, Saint-Exupéry]
-themes: [katherine, letters, love, memory]
+themes: ["[[katherine]]", "[[letters]]", "[[love]]", "[[memory]]"]
+subjects: ["[[Love and Relationships]]", "[[Self]]"]
 type: journal-fragment
 scan: scan_1995_p040
 ---

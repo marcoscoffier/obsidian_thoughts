@@ -1,9 +1,10 @@
 ---
 date: 1995-03-12
 dated: estimated
-era: Final Semester Yale 1995
+era: "[[Final Semester Yale 1995]]"
 people: [Camus]
-themes: [mortality, fear, solitude, dreams]
+themes: ["[[mortality]]", "[[fear]]", "[[solitude]]", "[[dreams]]"]
+subjects: ["[[Self]]"]
 type: journal-fragment
 scan: scan_1995_p060
 ---

@@ -1,9 +1,10 @@
 ---
 date: 1995-02-12
 dated: estimated
-era: Final Semester Yale 1995
+era: "[[Final Semester Yale 1995]]"
 people: [Miranda, Renzo Piano]
-themes: [dance, installation, sculpture-ideas, studio-practice]
+themes: ["[[dance]]", "[[installation]]", "[[sculpture-ideas]]", "[[studio-practice]]"]
+subjects: ["[[Making Art]]"]
 type: journal-fragment
 scan: scan_1995_p034
 ---

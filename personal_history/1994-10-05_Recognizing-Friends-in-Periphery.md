@@ -1,8 +1,9 @@
 ---
 date: 1994-10-05
-era: New Haven
+era: "[[Yale, New Haven]]"
 people: [Paul, Katherine]
-themes: [perception, portraiture, gestalt]
+themes: ["[[perception]]", "portraiture", "[[gestalt]]"]
+subjects: ["[[Perception and Space]]", "[[Making Art]]"]
 type: journal-fragment
 notebook_page: 53
 scan: scan_1994_1_p090

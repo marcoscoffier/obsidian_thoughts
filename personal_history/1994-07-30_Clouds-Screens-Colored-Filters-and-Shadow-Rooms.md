@@ -1,8 +1,9 @@
 ---
 date: 1994-07-30
-era: New Haven / Summer Travel
+era: "[[Summer 1994, Travel and Alps]]"
 people: [Erica, Albert Camus]
-themes: [sculpture-ideas, clouds, screens, light-and-shadow, color-filters, installation]
+themes: ["[[sculpture-ideas]]", "[[clouds]]", "screens", "light-and-shadow", "color-filters", "[[installation]]"]
+subjects: ["[[Making Art]]", "[[Perception and Space]]"]
 type: journal-fragment
 scan: [scan_1994_2_p021, scan_1994_2_p022, scan_1994_2_p023]
 ---

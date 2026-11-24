@@ -1,9 +1,10 @@
 ---
 date: 1998-12-15
 dated: estimated
-era: Paris / Beaux-Arts
+era: "[[Paris, Beaux-Arts]]"
 people: []
-themes: [maps, perspective, drawing]
+themes: ["[[maps]]", "[[perspective]]", "[[drawing]]"]
+subjects: ["[[Places and Cities]]", "[[Perception and Space]]", "[[Making Art]]"]
 type: visual-record
 scan: scan_1997_2_p062
 ---

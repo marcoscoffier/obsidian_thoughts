@@ -1,8 +1,9 @@
 ---
 date: 1997
-era: Paris / Beaux-Arts
+era: "[[Paris, Beaux-Arts]]"
 people: [Stéphane Mallarmé, Paul Valéry, Marcel Proust, Roland Barthes, Cy Twombly, Jorge Luis Borges, Guillaume Apollinaire, Luis Prieto]
-themes: [language, word-and-image, writing-process, french, semiotics]
+themes: ["[[language]]", "word-and-image", "[[writing-process]]", "[[french]]", "[[semiotics]]"]
+subjects: ["[[Language and Literature]]"]
 type: journal-fragment
 scan: scan_1997_p014
 ---

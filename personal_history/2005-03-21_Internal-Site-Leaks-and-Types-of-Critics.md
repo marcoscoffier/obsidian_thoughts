@@ -1,9 +1,10 @@
 ---
 date: 2005-03-21
 dated: estimated
-era: New York / 2005
+era: "[[New York 2005]]"
 people: []
-themes: [internet, criticism, play]
+themes: ["[[internet]]", "[[criticism]]", "[[play]]"]
+subjects: ["[[Mind, Science and Systems]]", "[[Art Theory and the Art World]]"]
 type: journal-fragment
 scan: scan_1997_2_p093
 ---

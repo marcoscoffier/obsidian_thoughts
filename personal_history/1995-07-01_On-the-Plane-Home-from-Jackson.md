@@ -1,9 +1,10 @@
 ---
 date: 1995-07-01
 dated: estimated
-era: DC / Post-College
+era: "[[DC, Post-College]]"
 people: []
-themes: [poetry, flight, clouds]
+themes: ["[[poetry]]", "[[flight]]", "[[clouds]]"]
+subjects: ["[[Language and Literature]]", "[[Places and Cities]]", "[[Perception and Space]]"]
 type: journal-fragment
 scan: scan_1995_p084
 ---

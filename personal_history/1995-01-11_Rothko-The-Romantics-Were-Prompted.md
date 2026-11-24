@@ -1,9 +1,10 @@
 ---
 date: 1995-01-11
 dated: estimated
-era: Final Semester Yale 1995
+era: "[[Final Semester Yale 1995]]"
 people: [Mark Rothko, Herschel B. Chipp, Emerson, Valéry]
-themes: [art-theory, reading, poetry]
+themes: ["[[art-theory]]", "[[reading]]", "[[poetry]]"]
+subjects: ["[[Art Theory and the Art World]]", "[[Language and Literature]]"]
 type: journal-fragment
 scan: scan_1995_p012
 ---

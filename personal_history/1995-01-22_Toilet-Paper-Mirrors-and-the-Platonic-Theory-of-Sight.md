@@ -1,8 +1,9 @@
 ---
 date: 1995-01-22
-era: Final Semester Yale 1995
+era: "[[Final Semester Yale 1995]]"
 people: [Plato]
-themes: [installation, sculpture-ideas, mirrors, light]
+themes: ["[[installation]]", "[[sculpture-ideas]]", "[[mirrors]]", "[[light]]"]
+subjects: ["[[Making Art]]", "[[Perception and Space]]"]
 type: visual-record
 scan: scan_1995_p019
 ---

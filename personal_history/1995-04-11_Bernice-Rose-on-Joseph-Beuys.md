@@ -1,9 +1,10 @@
 ---
 date: 1995-04-11
 dated: estimated
-era: Final Semester Yale 1995
+era: "[[Final Semester Yale 1995]]"
 people: [Bernice Rose, Joseph Beuys, Mataré, John Cage, Leonardo, Picasso, Rudolf Steiner]
-themes: [art-history, drawing, coursework, sculpture]
+themes: ["[[art-history]]", "[[drawing]]", "[[coursework]]", "[[sculpture]]"]
+subjects: ["[[Art Theory and the Art World]]", "[[Making Art]]"]
 type: class-notes
 scan: [scan_1995_p068, scan_1995_p069]
 ---

@@ -1,9 +1,10 @@
 ---
 date: 1995-06-01
 dated: estimated
-era: DC / Post-College
+era: "[[DC, Post-College]]"
 people: [Philip Guston, Vanessa]
-themes: [project-list, painting, place-attachment]
+themes: ["[[project-list]]", "[[painting]]", "[[place-attachment]]"]
+subjects: ["[[Making Art]]", "[[Places and Cities]]"]
 type: journal-fragment
 scan: scan_1995_p073
 ---

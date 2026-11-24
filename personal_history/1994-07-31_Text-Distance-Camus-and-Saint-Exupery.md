@@ -1,8 +1,9 @@
 ---
 date: 1994-07-31
-era: The Alps / Tignes
+era: "[[Summer 1994, Travel and Alps]]"
 people: [Albert Camus, Antoine de Saint-Exupéry]
-themes: [space, distance, flight, literature, french]
+themes: ["[[space]]", "distance", "[[flight]]", "[[literature]]", "[[french]]"]
+subjects: ["[[Perception and Space]]", "[[Love and Relationships]]", "[[Places and Cities]]", "[[Language and Literature]]"]
 type: journal-fragment
 scan: scan_1994_2_p031
 ---

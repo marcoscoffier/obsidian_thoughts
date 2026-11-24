@@ -1,8 +1,9 @@
 ---
 date: 1997
-era: Paris / Beaux-Arts
+era: "[[Paris, Beaux-Arts]]"
 people: [Robinson Crusoe, Lewis Carroll]
-themes: [vocation, technology, perception, teaching, language]
+themes: ["[[vocation]]", "[[technology]]", "[[perception]]", "teaching", "[[language]]"]
+subjects: ["[[Self]]", "[[Mind, Science and Systems]]", "[[Perception and Space]]", "[[Art Theory and the Art World]]", "[[Language and Literature]]"]
 type: journal-fragment
 scan: scan_1997_p027
 ---

@@ -1,9 +1,10 @@
 ---
 date: 1999-06-15
 dated: estimated
-era: Paris / Beaux-Arts
+era: "[[Paris, Beaux-Arts]]"
 people: [Melvin Webber]
-themes: [french, urbanism, craft, bricolage]
+themes: ["[[french]]", "[[urbanism]]", "[[craft]]", "[[bricolage]]"]
+subjects: ["[[Language and Literature]]", "[[Places and Cities]]", "[[Making Art]]"]
 type: journal-fragment
 scan: scan_1997_2_p079
 ---

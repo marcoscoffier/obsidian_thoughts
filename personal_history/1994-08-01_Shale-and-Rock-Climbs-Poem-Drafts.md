@@ -1,8 +1,9 @@
 ---
 date: 1994-08-01
-era: The Alps / Tignes
+era: "[[Summer 1994, Travel and Alps]]"
 people: [Katherine, Mrs. C. Kamegaya]
-themes: [poetry, alps, hiking, drawing, shadow, tactile]
+themes: ["[[poetry]]", "[[alps]]", "hiking", "[[drawing]]", "shadow", "tactile"]
+subjects: ["[[Language and Literature]]", "[[Places and Cities]]", "[[Self]]", "[[Making Art]]", "[[Perception and Space]]"]
 type: journal-fragment
 notebook_page: 97
 scan: [scan_1994_2_p034, scan_1994_2_p035]

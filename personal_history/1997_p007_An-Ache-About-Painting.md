@@ -1,8 +1,9 @@
 ---
 date: 1997
-era: Paris / Beaux-Arts
+era: "[[Paris, Beaux-Arts]]"
 people: []
-themes: [painting, sculpture-ideas, optics, vocation]
+themes: ["[[painting]]", "[[sculpture-ideas]]", "[[optics]]", "[[vocation]]"]
+subjects: ["[[Making Art]]", "[[Perception and Space]]", "[[Self]]"]
 type: journal-fragment
 scan: scan_1997_p007
 ---

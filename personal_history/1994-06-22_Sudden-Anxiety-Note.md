@@ -1,8 +1,9 @@
 ---
 date: 1994-06-22
-era: New Haven
+era: "[[Yale, New Haven]]"
 people: []
-themes: [writing-anxiety, self-criticism, intellectual-pressure]
+themes: ["writing-anxiety", "[[self-criticism]]", "intellectual-pressure"]
+subjects: ["[[Language and Literature]]", "[[Self]]"]
 type: journal-fragment
 notebook_page: 39
 scan: photo-Screenshot_2026-11-18_at_10.27.18_AM

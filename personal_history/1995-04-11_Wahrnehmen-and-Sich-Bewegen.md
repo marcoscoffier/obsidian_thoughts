@@ -1,9 +1,10 @@
 ---
 date: 1995-04-11
 dated: estimated
-era: Final Semester Yale 1995
+era: "[[Final Semester Yale 1995]]"
 people: [Merleau-Ponty]
-themes: [french, perception, reading, etymology, body]
+themes: ["[[french]]", "[[perception]]", "[[reading]]", "etymology", "[[body]]"]
+subjects: ["[[Language and Literature]]", "[[Perception and Space]]", "[[Self]]"]
 type: journal-fragment
 scan: scan_1995_p071
 ---

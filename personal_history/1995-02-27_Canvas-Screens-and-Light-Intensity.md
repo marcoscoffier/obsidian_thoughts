@@ -1,9 +1,10 @@
 ---
 date: 1995-02-27
 dated: estimated
-era: Final Semester Yale 1995
+era: "[[Final Semester Yale 1995]]"
 people: [Ron Jones]
-themes: [installation, sculpture-ideas, light, color-theory]
+themes: ["[[installation]]", "[[sculpture-ideas]]", "[[light]]", "[[color-theory]]"]
+subjects: ["[[Making Art]]", "[[Perception and Space]]"]
 type: visual-record
 scan: scan_1995_p040
 ---

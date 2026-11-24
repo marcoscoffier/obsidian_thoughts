@@ -1,8 +1,9 @@
 ---
 date: 1997
-era: Paris / Beaux-Arts
+era: "[[Paris, Beaux-Arts]]"
 people: []
-themes: [installation, sensors, interactivity, sound, immersion]
+themes: ["[[installation]]", "sensors", "interactivity", "[[sound]]", "immersion"]
+subjects: ["[[Making Art]]", "[[Mind, Science and Systems]]", "[[Self]]", "[[Sound and Music]]", "[[Perception and Space]]"]
 type: journal-fragment
 scan: [scan_1997_p030, scan_1997_p031]
 ---

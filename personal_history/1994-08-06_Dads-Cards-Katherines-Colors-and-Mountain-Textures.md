@@ -1,8 +1,9 @@
 ---
 date: 1994-08-06
-era: Mountains / Alps
+era: "[[Summer 1994, Travel and Alps]]"
 people: [Dad, Katherine]
-themes: [father, aesthetics, textures, painting-process]
+themes: ["[[father]]", "[[aesthetics]]", "textures", "[[painting-process]]"]
+subjects: ["[[Family]]", "[[Art Theory and the Art World]]", "[[Perception and Space]]", "[[Making Art]]"]
 type: journal-fragment
 notebook_page: 47
 scan: scan_1994_1_p078

@@ -1,6 +1,6 @@
 ---
 date: 1994-06-09
-era: Yale / Retrospective
+era: "[[Yale, New Haven]]"
 people:
   - Edo
   - Katherine
@@ -8,10 +8,8 @@ people:
   - Jackson Pollock
   - Immanuel Kant
   - Friedrich Schiller
-themes:
-  - retrospective-self
-  - individuation
-  - poetic-imagination
+themes: ["[[retrospective-self]]", "individuation", "poetic-imagination"]
+subjects: ["[[Self]]", "[[Language and Literature]]"]
 type: journal-fragment
 scan: scan_1994_1_p030
 ---

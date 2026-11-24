@@ -1,8 +1,9 @@
 ---
 date: 1997
-era: Paris / Beaux-Arts
+era: "[[Paris, Beaux-Arts]]"
 people: []
-themes: [arles, maps, photography, travel]
+themes: ["arles", "[[maps]]", "[[photography]]", "[[travel]]"]
+subjects: ["[[Places and Cities]]", "[[Making Art]]"]
 type: visual-record
 scan: [scan_1997_p002, scan_1997_p003]
 ---

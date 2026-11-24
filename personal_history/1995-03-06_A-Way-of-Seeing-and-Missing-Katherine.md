@@ -1,8 +1,9 @@
 ---
 date: 1995-03-06
-era: Final Semester Yale 1995
+era: "[[Final Semester Yale 1995]]"
 people: [Katherine]
-themes: [observation, painting, katherine, separation]
+themes: ["[[observation]]", "[[painting]]", "[[katherine]]", "separation"]
+subjects: ["[[Perception and Space]]", "[[Making Art]]", "[[Love and Relationships]]"]
 type: journal-fragment
 scan: scan_1995_p042
 ---

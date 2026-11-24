@@ -1,9 +1,10 @@
 ---
 date: 1998-12-15
 dated: estimated
-era: Paris / Beaux-Arts
+era: "[[Paris, Beaux-Arts]]"
 people: [Antoine Brumel, Pérotin]
-themes: [music, sound-art, systems]
+themes: ["[[music]]", "[[sound-art]]", "[[systems]]"]
+subjects: ["[[Sound and Music]]", "[[Mind, Science and Systems]]"]
 type: journal-fragment
 scan: scan_1997_2_p043
 ---
@@ -22,7 +23,7 @@ Ars Nova - detonate object
 temp element which takes a reading of many of these objects (sound)
 
 > [!note] Transcription notes
-> Undated. Antoine Brumel and Pérotin are early composers (Renaissance and Notre-Dame school); *Ars Nova* is the 14th-century style. *On the Sensations of Tone* is Hermann von Helmholtz's book on acoustics (1863). The "white noise interaction" lines read like rules for a simulation of sound particles, in the spirit of the artificial-life notes in [[1997-10-15_Philosophy-of-A-Life-Boden-and-Langton]].
+> Undated. Antoine Brumel and Pérotin are early composers (Renaissance and Notre-Dame school); *Ars Nova* is the 14th-century style. *On the Sensations of Tone* is Hermann von Helmholtz's book on acoustics (1863). The "white noise interaction" lines read like rules for a simulation of sound particles, in the spirit of the artificial-life notes in [[1998-10-15_Philosophy-of-A-Life-Boden-and-Langton]].
 
 ---
 

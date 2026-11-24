@@ -1,9 +1,10 @@
 ---
 date: 2005-03-21
 dated: estimated
-era: New York / 2005
+era: "[[New York 2005]]"
 people: []
-themes: [technology, communication, project-list]
+themes: ["[[technology]]", "[[communication]]", "[[project-list]]"]
+subjects: ["[[Mind, Science and Systems]]", "[[Language and Literature]]", "[[Making Art]]"]
 type: journal-fragment
 scan: scan_1997_2_p085
 ---
