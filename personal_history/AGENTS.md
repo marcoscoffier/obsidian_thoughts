@@ -221,7 +221,8 @@ scan: scan_1997_p008       # required: the PDF page(s) this note comes from; a l
   `grep -h '^era:' *.md | sort | uniq -c`
   - Known so far: New Haven, New Haven / Summer Travel, The Alps / Tignes,
     Paris / Beaux-Arts (1997–98), Present / Therapy Notes, Final Semester Yale 1995
-    (Jan–May 1995), DC / Post-College (summer–autumn 1995).
+    (Jan–May 1995), DC / Post-College (summer–autumn 1995), Japan (trips, 1997–98),
+    New York / 2005.
   - Ask before inventing a new era.
 - **`people`:**
   - Include people named on the page: friends, family, artists, writers.

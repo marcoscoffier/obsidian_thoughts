@@ -347,6 +347,110 @@ Regenerate with `python3 tools/scan_index.py`.
 | 33 |  | [[1997_p033_Someone-Made-This]] |
 | 34 |  | [[1997_p034_The-World-of-Signals-and-a-Saw-Horse-Joint]] |
 
+## scan_journal_1997_2.pdf
+
+97 pages; 96 have notes, 1 have none.
+
+| PDF page | Written page no. | Notes |
+|---|---|---|
+| 1 |  | [[1997-09-01_Drawing-as-a-Method-of-Understanding]] |
+| 2 |  | [[1997-09-01_Bricoleur-Levi-Strauss]] |
+| 3 |  | [[1997-09-01_Bricoleur-Levi-Strauss]] |
+| 4 |  | [[1997-09-01_Hofstadters-Copycat]], [[1997-09-01_Play-Until-Equality-the-Chaos-Question]] |
+| 5 |  | [[1997-09-01_Images-of-Other-Materials]] |
+| 6 |  | [[1997-09-01_Write-Essays-Offerings-Vacuum-Cube]] |
+| 7 |  | [[1997-09-01_Hong-Kong-and-First-Thoughts-of-Japan]], [[1997-09-01_Make-Your-Own-Telescope]] |
+| 8 |  | [[1997-09-01_Hong-Kong-and-First-Thoughts-of-Japan]] |
+| 9 |  | [[1997-09-01_Dreams-Are-Like-Saga-Video-Games]], [[1997-09-01_Orbit-Sketches]] |
+| 10 |  | [[1997-09-01_Dreams-Are-Like-Saga-Video-Games]], [[1997-09-01_Pulley-and-Frame-Sketches]] |
+| 11 |  | [[1997-09-01_Musicians-Free-Without-Becoming-Foolish]] |
+| 12 |  | [[1997-09-01_Pretentious-and-Boring-Things-to-Remember]], [[1997-10-15_Akemis-John-Cage-Video-and-Nobel-Triplets]] |
+| 13 |  | [[1997-10-15_Medium-and-Dream-Coincide]], [[1997-10-15_Places-Remembered-Houston-Ecoles-Skye]], [[1997-10-15_Terrible-Depressions-Spinning-My-Wheels]] |
+| 14 |  | [[1997-10-15_Do-Do-Do-Records-and-Roaratorio]], [[1997-10-15_Places-Remembered-Houston-Ecoles-Skye]] |
+| 15 |  | [[1997-10-15_I-Want-to-Go-to-MIT]] |
+| 16 |  | [[1997-10-15_Experiencing-Place-Public-Art-To-Do-in-Japan]] |
+| 17 |  | [[1997-10-15_Track-and-Pulley-Machine-Sketches]] |
+| 18 |  | [[1997-10-15_Video-Synch-Circuit-for-Three-Tapes]] |
+| 19 |  | [[1997-10-15_Pasted-Photographs-Fences-and-Rooftops]] |
+| 20 |  | [[1997-10-15_Pasted-Photographs-Fences-and-Rooftops]] |
+| 21 |  | [[1997-10-15_Pasted-Photographs-Fences-and-Rooftops]] |
+| 22 |  | [[1997-10-15_Pasted-Photographs-Fences-and-Rooftops]] |
+| 23 |  | [[1997-10-15_Bricoleur-Pidgin-and-Creole-Languages]], [[1997-10-15_Photographs-Foreground-Material]] |
+| 24 |  | [[1997-10-15_Photographs-Foreground-Material]] |
+| 25 |  | [[1997-10-15_Photographs-Foreground-Material]] |
+| 26 |  | [[1997-10-15_First-DAT-Max-Compositions-and-Video]], [[1997-10-15_Smithsons-Non-Sites-and-Photography]] |
+| 27 |  | [[1997-10-15_An-Artist-Can-Be]], [[1997-10-15_Photo-Day-Electric-Poles-and-Shinagawa]], [[1997-10-15_Transparence-and-Binaural-Sound]] |
+| 28 |  | [[1997-10-15_Recursive-Loop-Speaker-Sketch]] |
+| 29 |  | [[1997-10-15_Philosophy-of-A-Life-Boden-and-Langton]] |
+| 30 |  | [[1997-10-15_Geese-in-V-Formation-Simple-Rules]] |
+| 31 |  | [[1998-12-15_Boorstin-Paine-and-No-Finality]] |
+| 32 |  | [[1998-12-15_Dubuffet-on-Childrens-Drawings-Graffiti-and-Invention]] |
+| 33 |  | [[1998-12-15_Dubuffet-on-Childrens-Drawings-Graffiti-and-Invention]] |
+| 34 |  | [[1998-12-15_Dubuffet-Psycho-Sites-and-the-Hydra]] |
+| 35 |  | [[1998-12-15_Dubuffet-Psycho-Sites-and-the-Hydra]] |
+| 36 |  | [[1998-12-15_Dubuffet-Psycho-Sites-and-the-Hydra]] |
+| 37 |  | [[1998-12-15_Dubuffet-Psycho-Sites-and-the-Hydra]] |
+| 38 |  | — |
+| 39 |  | [[1998-12-15_Dubuffet-Psycho-Sites-and-the-Hydra]] |
+| 40 |  | [[1998-12-15_Dubuffet-LHomme-de-la-Rue-Tout-le-Monde-Est-Peintre]] |
+| 41 |  | [[1998-12-15_Dubuffet-LHomme-de-la-Rue-Tout-le-Monde-Est-Peintre]] |
+| 42 |  | [[1998-12-15_Dubuffet-LHomme-de-la-Rue-Tout-le-Monde-Est-Peintre]] |
+| 43 |  | [[1998-12-15_Breathing-Rhythms-and-White-Noise-Interaction]], [[1998-12-15_Dubuffet-LHomme-de-la-Rue-Tout-le-Monde-Est-Peintre]] |
+| 44 |  | [[1998-12-15_IAC-Piece-Random-Number-Deciders]] |
+| 45 |  | [[1998-12-15_IAC-Piece-Random-Number-Deciders]] |
+| 46 |  | [[1998-12-15_Natural-Selection-and-Intentionality]], [[1998-12-15_Pool-of-Shadow-and-a-Hole-in-My-Note-Jotting]] |
+| 47 |  | [[1998-12-15_Controlled-Projection-and-the-Mirror]] |
+| 48 |  | [[1998-12-15_Video-Edit-Notes-Rainbow-Bridge-to-St-Eustache]] |
+| 49 |  | [[1998-12-15_Summer-List-and-Scaffolding-Idea-for-the-Diplome]] |
+| 50 |  | [[1998-12-15_Rise-of-the-Novel-and-Art-in-the-Catalog]], [[1998-12-15_The-Artist-Like-Part-of-a-Cell]] |
+| 51 |  | [[1998-12-15_Garfield-Citation-Index-and-Scandal]], [[1998-12-15_Kitanos-A-Scene-at-the-Sea-and-Memes]], [[1998-12-15_Mixing-Paint-Materness]], [[1998-12-15_So-Much-Stuff-in-My-Head]] |
+| 52 |  | [[1998-12-15_Incorporating-Other-Peoples-Seeing]] |
+| 53 |  | [[1998-12-15_Dewey-Stevens-and-Drawing-in-Perspective]], [[1998-12-15_Kitanos-A-Scene-at-the-Sea-and-Memes]] |
+| 54 |  | [[1998-12-15_Hong-Kong-River-and-the-Loneliness-of-Picture-Taking]] |
+| 55 |  | [[1998-12-15_Dewey-Personal-Medium-and-Science-States-Meanings]], [[1998-12-15_Sky-Shadow-Pieces-and-Embarrassment]], [[1998-12-15_Two-Types-of-Pieces]] |
+| 56 |  | [[1998-12-15_Artist-and-Scientist-Understanding-Complexity]], [[1998-12-15_Hofstadter-Cannot-Feel-the-Difference]], [[1998-12-15_Shadow-on-the-Metro-Stairs-at-Pyrenees]] |
+| 57 |  | [[1998-12-15_Harmonics-of-the-Bell-at-IRCAM]], [[1998-12-15_Wave-Mechanics-and-Someone-Not-Here]], [[1998-12-15_Writing-Reading-and-Aloneness]] |
+| 58 |  | [[1998-12-15_Warhol-Movie-Edie-and-Gino]] |
+| 59 |  | [[1998-12-15_Dream-of-a-Professor-and-a-Loaded-Word]], [[1998-12-15_The-House-Makes-Noise-and-Silent-Clouds]] |
+| 60 |  | [[1998-12-15_The-House-Makes-Noise-and-Silent-Clouds]] |
+| 61 |  | [[1998-12-15_Crack-of-Sky-in-a-Sky-Map-and-Triangulations]] |
+| 62 |  | [[1998-12-15_Other-Entities-Triangulation-Sketch]] |
+| 63 |  | [[1998-12-15_Gardner-The-Minds-New-Science-Rationalists-and-Empiricists]] |
+| 64 |  | [[1998-12-15_Gardner-The-Minds-New-Science-Rationalists-and-Empiricists]] |
+| 65 |  | [[1998-12-15_Gardner-The-Minds-New-Science-Rationalists-and-Empiricists]] |
+| 66 |  | [[1998-12-15_Artist-Makes-with-His-Hands]], [[1998-12-15_Histoire-de-la-Ville-Premier-Cours]], [[1998-12-15_Lindifference-et-la-Colere]], [[1998-12-15_Smithsons-Spiral-Jetty-Movie]] |
+| 67 |  | [[1999-06-15_Hyper-Media-Text-Etudiant-a-lENSBA]], [[1999-06-15_Quand-lEtat-Controle-les-Decideurs-de-lArt]] |
+| 68 |  | [[1999-06-15_Microdomain-Computer-as-System-of-Representation]], [[1999-06-15_Urbanisme-Bricolage-vs-Ingenieur-Venturi]] |
+| 69 |  | [[1999-06-15_Urbanisme-en-France-Taille-Quoi]] |
+| 70 |  | [[1999-06-15_Villes-du-Moyen-Age-and-Dicter-une-Ville]] |
+| 71 |  | [[1999-06-15_Make-Visible-Reveler-le-Monde]] |
+| 72 |  | [[1999-06-15_Genius-in-Science-and-in-Art]] |
+| 73 |  | [[1999-06-15_Natures-Laws-Are-Simple]], [[1999-06-15_The-Nobel-Prize-Genius-and-Fate]] |
+| 74 |  | [[1999-06-15_Ambition-Theory-and-Experience-Speaker-Cone]], [[1999-06-15_Working-on-Transducers]] |
+| 75 |  | [[1999-06-15_Exhilaration-Reading-Pais-on-QED]] |
+| 76 |  | [[1999-06-15_Navigateur-Proust-et-le-Monde-Sensible]] |
+| 77 |  | [[1999-06-15_A-Day-Without-Time-Figures-in-the-Stars]], [[1999-06-15_Yagi-Antenna-Drawing-and-Pictures-in-a-Box]] |
+| 78 |  | [[1999-06-15_Bent-Aluminium-Bar-and-Resonator-Yagi-Antenna]] |
+| 79 |  | [[1999-06-15_Grounding-Laisser-les-Gens-Faire]] |
+| 80 |  | [[1999-06-15_Connelly-Sourdre-Bottom-Up-Top-Down]] |
+| 81 |  | [[1999-06-15_Relevant-and-Irrelevant-Information]] |
+| 82 |  | [[1999-06-15_Speaker-Wiring-Calculations]] |
+| 83 |  | [[2005-03-21_Scripted-Phone-Play-Dial-og]] |
+| 84 |  | [[2005-03-21_New-Start-the-Dialog-as-a-Learning-Process]], [[2005-03-21_Scripted-Phone-Play-Dial-og]] |
+| 85 |  | [[2005-03-21_Experimental-Radio-Play]] |
+| 86 |  | [[2005-03-21_Open-Question-1-Call-Threads]] |
+| 87 |  | [[2005-03-21_To-Do-and-Contacts]] |
+| 88 |  | [[2005-03-21_Sticky-Notes-Gubaidulina-Ysaye-Graphic-Connection]] |
+| 89 |  | [[2005-03-21_Rothko-Sized-Photographs-with-Call-In-Audio]] |
+| 90 |  | [[2005-03-21_Wearable-Computing-Project-Tune-the-Conversation]] |
+| 91 |  | [[2005-03-21_Pasted-Sketch-Tower-on-Stilts]] |
+| 92 |  | [[2005-03-21_False-Tour-Guides-and-Rumors]] |
+| 93 |  | [[2005-03-21_Internal-Site-Leaks-and-Types-of-Critics]] |
+| 94 |  | [[2005-03-21_Perceptual-Boxes-the-Vertigo-Box]] |
+| 95 |  | [[2005-03-21_Stereoscopic-Periscope-and-Binaural-Listening-Device]] |
+| 96 |  | [[2005-03-21_New-Kite]] |
+| 97 |  | [[2005-04-24_Cellphone-Walking-Tour-or-Hotline]], [[2005-04-24_Hell-Is-Eternal-Ratzinger-and-Hofstadter]] |
+
 ## Pages only photographed (not in any PDF)
 
 These notes come from a photo of a page that is not in the scanned PDFs.
