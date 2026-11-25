@@ -1,0 +1,1345 @@
+# Texts mentioned in the notes. tools/build_bib.py turns this into Bibliography.md.
+#
+# Each entry:
+#   author: "Surname, First" (or "Surname, First; Surname, First"), omitted for anonymous works
+#   title:  the work's title; `in:` the book, journal or collection it appeared in
+#   year, publisher, place: as published (the first edition unless an edition is known)
+#   kind:   book, essay, poem, story, article, lecture, journal, reference
+#   guess:  what was filled in or guessed, when the note itself doesn't say
+#   note:   anything else worth knowing
+#   mentions: {note-file-name: regex that finds the reference in that note}
+#
+# Add new texts here after an import and run `python3 tools/build_bib.py`.
+
+- author: Ammons, A. R.
+  title: Corson's Inlet
+  kind: poem
+  year: 1962
+  in: "Corson's Inlet: A Book of Poems (Ithaca: Cornell University Press, 1965)"
+  mentions:
+    1994-06-15_Corsons-Inlet-and-Ekphrasis-Page-21: "Corson"
+    1995-02-12_Showing-a-Work-I-Didnt-Build: "Corson"
+
+- author: Apollinaire, Guillaume
+  title: "L'Amphion faux-messie ou histoires et aventures du baron d'Ormesan"
+  kind: story
+  year: 1910
+  in: "L'Hérésiarque et Cie (Paris: Stock, 1910)"
+  mentions:
+    1997_p014_Langage-et-Image-Mallarme-Valery-Barthes-Twombly: "Anphion"
+
+- author: Aristotle
+  title: Poetics
+  kind: book
+  mentions:
+    1995-01-16_Art-Major-Meeting-Essentialism: "Poetics"
+
+- author: Arnheim, Rudolf
+  title: "Art and Visual Perception: A Psychology of the Creative Eye"
+  kind: book
+  year: 1954
+  publisher: University of California Press
+  place: Berkeley
+  guess: Marco probably read the "new version" of 1974, which most copies are.
+  mentions:
+    1994-07-31_Arnheim-Art-and-Visual-Perception-Introduction: "Art and Visual Perception"
+    1994-08-03_Arnheim-Form-as-Visible-Shape-of-Content: "Art & Visual Perception"
+    1994-08-03_Arnheim-on-Death-Instinct-Entropy-and-Gesture: "Art & Visual Perception"
+    1994-08-03_Arnheim-on-Overall-Structure-and-Form-Meaning: "Art & Visual Perception"
+    1994-08-04_Arnheim-on-Originality-vs-Personal-Style: "Art and Visual Perception"
+    1994-08-04_Cubism-Acetate-Layers-Distance-and-Flashlight-Room: "Arnheim"
+    1994-08-04_Giotto-Picasso-on-Resemblance-and-Drawing-a-Circle: "Arnheim"
+
+- author: Ashbery, John
+  title: And the Stars Were Shining
+  kind: book
+  year: 1994
+  publisher: Farrar, Straus and Giroux
+  place: New York
+  guess: The note is about a reading Ashbery gave; this was his newest book at the time, so it is likely what he read from.
+  mentions:
+    1995-02-12_John-Ashbery-Reading: "Ashbery"
+
+- author: Bachelard, Gaston
+  title: La Poétique de l'espace
+  kind: book
+  year: 1957
+  publisher: Presses Universitaires de France
+  place: Paris
+  mentions:
+    1995-01-05_Bachelard-Space-Is-Only-What-We-Perceive: "Bachelard"
+    1995-01-12_Bachelard-La-Poetique-de-lEspace: "Po[ée]tique de l'espace"
+    1995-03-12_Intellectual-Space: "Bach"
+    1995-03-12_The-Phenomenology-of-Space-Essay-Plan: "Bachelard"
+    1995-04-11_Perceptual-and-Conceptual-Space: "Bachelard"
+
+- author: Bantock, Nick
+  title: "Griffin & Sabine: An Extraordinary Correspondence"
+  kind: book
+  year: 1991
+  publisher: Chronicle Books
+  place: San Francisco
+  mentions:
+    1995-02-27_Katherine-and-the-Poetic-Potential: "Griffin"
+
+- author: Barthes, Roland
+  title: "Cy Twombly ou Non multa sed multum"
+  kind: essay
+  year: 1979
+  in: "L'Obvie et l'obtus: Essais critiques III (Paris: Seuil, 1982)"
+  guess: The note only says "Barthes → Twombly"; Barthes wrote two essays on Twombly, both in this collection.
+  mentions:
+    1997_p014_Langage-et-Image-Mallarme-Valery-Barthes-Twombly: "Barthes"
+
+- author: Bateson, Gregory; Jackson, Don D.; Haley, Jay; Weakland, John
+  title: Toward a Theory of Schizophrenia
+  kind: article
+  year: 1956
+  in: "Behavioral Science 1(4); reprinted in Bateson, Steps to an Ecology of Mind (New York: Ballantine, 1972)"
+  note: The paper that introduced the "double bind".
+  guess: Marco's page references ("p. 10") may be to Tarnas's account of it rather than to the paper.
+  mentions:
+    1994-06-22_Critique-of-Earthworks: "Double Bind"
+    1994-10-05_Kant-and-Batesons-Double-Bind: "double bind"
+
+- author: Bateson, Gregory
+  title: A Theory of Play and Fantasy
+  kind: essay
+  year: 1955
+  in: "Steps to an Ecology of Mind (New York: Ballantine, 1972)"
+  mentions:
+    1994-07-30_Bateson-Theory-of-Play-and-Fantasy: "Play"
+    1994-07-31_Control-and-Batesons-Meta-Language: "meta-language"
+
+- author: Bell, Clive
+  title: Art
+  kind: book
+  year: 1914
+  publisher: Chatto & Windus
+  place: London
+  mentions:
+    1995-01-16_Art-Major-Meeting-Essentialism: "Clive Bell"
+
+- author: Benjamin, Walter
+  title: The Work of Art in the Age of Mechanical Reproduction
+  kind: essay
+  year: 1936
+  guess: The note quotes Benjamin on "a crisis in the nature of perception itself" from Crary's talk; this essay is the most likely source.
+  mentions:
+    1995-01-27_Crary-on-Vision-and-Attention: "Benjamin"
+
+- author: Bishop, Elizabeth
+  title: The Unbeliever
+  kind: poem
+  year: 1946
+  in: "North & South (Boston: Houghton Mifflin, 1946)"
+  mentions:
+    1995-03-12_Bishop-The-Unbeliever-and-Wordsworth: "Unbeliever"
+
+- author: Blake, William
+  title: The Marriage of Heaven and Hell
+  kind: book
+  year: 1790
+  mentions:
+    1995-08-20_Blake-and-Turrell-Doors-of-Perception: "Blake"
+
+- author: Boccaccio, Giovanni
+  title: The Decameron
+  kind: book
+  year: 1353
+  note: Day VI, story 5 is the story of Giotto.
+  mentions:
+    1994-08-04_Giotto-Picasso-on-Resemblance-and-Drawing-a-Circle: "Boccaccio"
+
+- author: Boden, Margaret A. (ed.)
+  title: The Philosophy of Artificial Life
+  kind: book
+  year: 1996
+  publisher: Oxford University Press
+  place: Oxford
+  note: Includes Christopher Langton, "Artificial Life", and David Kirsh, "Today the earwig, tomorrow man?".
+  mentions:
+    1998-10-15_Philosophy-of-A-Life-Boden-and-Langton: "Philosophy of A-?life"
+
+- author: Boorstin, Daniel J.
+  title: "The Discoverers: A History of Man's Search to Know His World and Himself"
+  kind: book
+  year: 1983
+  publisher: Random House
+  place: New York
+  guess: The note names Boorstin but not the book.
+  mentions:
+    1998-12-15_Boorstin-Paine-and-No-Finality: "Boorstin"
+
+- author: Borges, Jorge Luis
+  title: Pierre Menard, autor del Quijote
+  kind: story
+  year: 1939
+  in: "Ficciones (Buenos Aires: Sur, 1944)"
+  mentions:
+    1997_p014_Langage-et-Image-Mallarme-Valery-Barthes-Twombly: "Borges"
+
+- author: Brillat-Savarin, Jean Anthelme
+  title: Physiologie du goût
+  kind: book
+  year: 1825
+  place: Paris
+  mentions:
+    1999-06-15_Navigateur-Proust-et-le-Monde-Sensible: "Brillat|Savarin"
+
+- author: Bunyan, John
+  title: The Pilgrim's Progress
+  kind: book
+  year: 1678
+  mentions:
+    1995-03-12_Grey-Sunday-Camus-Noces-and-Quoting: "Bunyan"
+    1995-03-12_Bishop-The-Unbeliever-and-Wordsworth: "Bunyan|Unbeliever"
+
+- author: Camus, Albert
+  title: L'Envers et l'endroit
+  kind: book
+  year: 1937
+  publisher: Charlot
+  place: Alger
+  mentions:
+    1995-02-12_Camus-Opposites: "Envers"
+    1995-03-12_Grey-Sunday-Camus-Noces-and-Quoting: "Envers"
+
+- author: Camus, Albert
+  title: L'Étranger
+  kind: book
+  year: 1942
+  publisher: Gallimard
+  place: Paris
+  mentions:
+    1995-03-11_Merleau-Ponty-Phenomenologie-and-Existentialism: "[EeÉé]tranger"
+    1995-04-11_The-Other-Vertigo-Noces-and-Hitchcock: "[EÉ]tranger"
+
+- author: Camus, Albert
+  title: L'Exil et le royaume
+  kind: book
+  year: 1957
+  publisher: Gallimard
+  place: Paris
+  note: Includes "La Femme adultère" and "Jonas ou l'artiste au travail".
+  mentions:
+    1995-01-29_Terre-des-Hommes-and-the-Body: "Exil"
+    1995-02-12_Camus-Opposites: "Exil"
+    1995-03-12_Box-Crate-Sketches-Solitaire-Solidaire: "Exil"
+
+- author: Camus, Albert
+  title: Le Mythe de Sisyphe
+  kind: book
+  year: 1942
+  publisher: Gallimard
+  place: Paris
+  guess: The note says only "mythe"; this is the reading in its callout.
+  mentions:
+    1995-03-12_Your-Last-Night-and-the-Dream-of-Falling: "mythe"
+
+- author: Camus, Albert
+  title: Noces
+  kind: book
+  year: 1938
+  publisher: Charlot
+  place: Alger
+  note: Includes "Noces à Tipasa", "Le Vent à Djémila", "L'Été à Alger" and "Le Désert".
+  mentions:
+    1995-03-12_Grey-Sunday-Camus-Noces-and-Quoting: "Noces"
+    1995-03-12_Camus-Nudite-and-Noces: "Noces"
+    1995-03-12_The-Phenomenology-of-Space-Essay-Plan: "Noces"
+    1995-04-11_The-Other-Vertigo-Noces-and-Hitchcock: "Noces"
+    1997_p017_La-Derniere-Piece-le-Dernier-Repas: "Dj[ée]mila"
+
+- author: Camus, Albert
+  title: Le Premier Homme
+  kind: book
+  year: 1994
+  publisher: Gallimard
+  place: Paris
+  note: Published after Camus's death; it had just come out when Marco read it in summer 1994.
+  mentions:
+    1994-07-30_Clouds-Screens-Colored-Filters-and-Shadow-Rooms: "Premier Homme"
+    1994-07-31_Text-Distance-Camus-and-Saint-Exupery: "premier homme"
+    1994-07-31_Oncle-Henri-Camus-and-Conceptual-Space-in-French: "Camus"
+
+- author: Cage, John
+  title: Juilliard Lecture
+  kind: lecture
+  year: 1952
+  in: "A Year from Monday: New Lectures and Writings (Middletown, CT: Wesleyan University Press, 1967)"
+  guess: 'The typed slip quotes Cage: "We open our eyes and ears seeing life each day excellent as it is. This realization no longer needs art." Leonard''s book, which Marco was reading, quotes it; the lecture it comes from is a best guess.'
+  mentions:
+    1995-03-12_Five-Frames-Taped-In-Slips: "John Cage|excellent as it is"
+
+- author: Carroll, Lewis
+  title: Jabberwocky
+  kind: poem
+  year: 1871
+  in: "Through the Looking-Glass, and What Alice Found There (London: Macmillan, 1871)"
+  mentions:
+    1997_p027_Artist-as-Plumber: "slithy"
+
+- author: Chaucer, Geoffrey
+  title: The Canterbury Tales
+  kind: book
+  guess: The note mentions Chaucer's vocabulary, not a particular work.
+  mentions:
+    1997_p027_Multiple-Meaning-Words-and-Chaucer: "Chaucer"
+
+- author: Chipp, Herschel B.
+  title: "Theories of Modern Art: A Source Book by Artists and Critics"
+  kind: book
+  year: 1968
+  publisher: University of California Press
+  place: Berkeley
+  guess: The Rothko statement is copied with "1968" and "p. 548"; Chipp's anthology prints it on pp. 548–549.
+  mentions:
+    1995-01-11_Rothko-The-Romantics-Were-Prompted: "548|1968"
+
+- author: Collot, Michel
+  title: Du sens de l'espace à l'espace du sens
+  kind: essay
+  year: 1987
+  in: "Espace et poésie (Paris: Presses de l'École normale supérieure, 1987)"
+  mentions:
+    1995-04-11_Collot-Du-Sens-de-lEspace-a-lEspace-du-Sens: "Collot|sens de l'espace"
+    1995-04-11_Perceptual-and-Conceptual-Space: "Espace"
+
+- author: Connelly, Michael
+  title: The Poet
+  kind: book
+  year: 1996
+  publisher: Little, Brown
+  place: Boston
+  mentions:
+    1999-06-15_Connelly-Sourdre-Bottom-Up-Top-Down: "Poet"
+
+- author: Connelly, Michael
+  title: Blood Work
+  kind: book
+  year: 1998
+  publisher: Little, Brown
+  place: Boston
+  mentions:
+    1999-06-15_Connelly-Sourdre-Bottom-Up-Top-Down: "Blood"
+
+- author: Conrad, Joseph
+  title: Nostromo
+  kind: book
+  year: 1904
+  mentions:
+    1994-07-29_Lighthouse-Point-with-Amy-and-Literary-Sea-Memory: "Nostromo"
+
+- author: Coomaraswamy, Ananda K.
+  title: The Transformation of Nature in Art
+  kind: book
+  year: 1934
+  publisher: Harvard University Press
+  place: Cambridge, MA
+  guess: The note names only Coomaraswamy; this is his best-known book on art.
+  mentions:
+    1997_p029_Utopia-Coomaraswamy-and-Fullers-World-Game: "Coomaraswamy"
+
+- author: Croce, Arlene
+  title: Discussing the Undiscussable
+  kind: article
+  year: 1994
+  in: "The New Yorker, 26 December 1994 – 2 January 1995"
+  mentions:
+    1995-01-26_Croce-and-the-Undiscussable: "Undiscussable"
+    1998-12-15_Garfield-Citation-Index-and-Scandal: "Croce"
+
+- author: Danto, Arthur C.
+  title: "The Transfiguration of the Commonplace: A Philosophy of Art"
+  kind: book
+  year: 1981
+  publisher: Harvard University Press
+  place: Cambridge, MA
+  guess: The note is from Ron Jones's lecture on Danto; this is the book his argument about "real things" comes from (with the essay "The Artworld", 1964).
+  mentions:
+    1995-02-27_Rons-Last-Lecture-Danto-and-Reality: "Danto"
+
+- author: Defoe, Daniel
+  title: Robinson Crusoe
+  kind: book
+  year: 1719
+  mentions:
+    1994-07-28_Turning-From-Science-to-Art-and-Robinson-Crusoe: "Robinson Crusoe"
+
+- author: Dewey, John
+  title: Art as Experience
+  kind: book
+  year: 1934
+  publisher: Minton, Balch
+  place: New York
+  mentions:
+    1997_p028_What-We-Learn-Isnt-What-Were-Taught: "Art as experience"
+    1998-12-15_Dewey-Stevens-and-Drawing-in-Perspective: "Art as Experience"
+    1998-12-15_Dewey-Personal-Medium-and-Science-States-Meanings: "Dewey|literal reproduction"
+
+- author: Doubrovsky, Serge
+  title: Fils
+  kind: book
+  year: 1977
+  publisher: Galilée
+  place: Paris
+  note: The novel for which Doubrovsky coined the word "autofiction".
+  mentions:
+    1997_p021_Devisager-Rilke-Lyotard-Lacan: "Dubrofsky|autofiction"
+
+- author: Dubuffet, Jean
+  title: Prospectus et tous écrits suivants
+  kind: book
+  year: 1967
+  publisher: Gallimard
+  place: Paris
+  note: Four volumes (I–II 1967, III–IV 1995). Includes "Asphyxiante culture" and "Rendre à l'hydre ses millions de têtes".
+  mentions:
+    1998-12-15_Dubuffet-LHomme-de-la-Rue-Tout-le-Monde-Est-Peintre: "Tout le monde est peintre"
+    1998-12-15_Dubuffet-Psycho-Sites-and-the-Hydra: "hydre|Hydre"
+    1998-12-15_Dubuffet-on-Childrens-Drawings-Graffiti-and-Invention: "Dubuffet"
+
+- author: Eco, Umberto
+  title: The Name of the Rose
+  kind: book
+  year: 1980
+  publisher: Bompiani
+  place: Milan
+  note: English translation by William Weaver, 1983.
+  mentions:
+    1994-06-07_Writing-as-a-Companion-for-Memory: "Name of the Rose"
+
+- author: Eco, Umberto
+  title: The Semantics of Metaphor
+  kind: essay
+  year: 1979
+  in: "The Role of the Reader: Explorations in the Semiotics of Texts (Bloomington: Indiana University Press, 1979)"
+  mentions:
+    1994-07-28_Umberto-Eco-Semantics-of-Metaphor: "Semantics of Metaphor"
+    1994-08-04_Ecos-Finnegans-Wake-Semantic-Graph: "Semantics of Metaphor"
+    1994-07-28_Hollander-Bloom-Ashbery-and-Yales-Library: "Eco's essay"
+
+- author: Eco, Umberto
+  title: A Theory of Semiotics
+  kind: book
+  year: 1976
+  publisher: Indiana University Press
+  place: Bloomington
+  guess: The note copies Eco's account of the Quillian model of semantic memory from a photocopy ("Xerox p. 254") without naming the book; this and "The Semantics of Metaphor" both discuss it.
+  mentions:
+    1994-06-22_Catachresis-and-Quillian-Semiotic-Model: "Quillian"
+
+- author: Egghe, Leo; Rousseau, Ronald
+  title: "Introduction to Informetrics: Quantitative Methods in Library, Documentation and Information Science"
+  kind: book
+  year: 1990
+  publisher: Elsevier Science Publishers
+  place: Amsterdam
+  mentions:
+    1998-12-15_Garfield-Citation-Index-and-Scandal: "Informetrics"
+
+- author: Eliot, T. S.
+  title: Burnt Norton
+  kind: poem
+  year: 1936
+  in: "Four Quartets (1943)"
+  note: Source of "To be conscious is not to be in time", which Auerbach quotes.
+  mentions:
+    1994-07-27_Frank-Auerbach-Quotes-and-Hogarths-Shrimp-Girl: "Eliot"
+
+- author: Emerson, Ralph Waldo
+  title: Art
+  kind: essay
+  year: 1841
+  in: "Essays: First Series (Boston: Munroe, 1841)"
+  guess: The note quotes Emerson "writing in 1841" that art should "educate us to the perception of beauty", from Leonard's book; that is the essay "Art".
+  mentions:
+    1995-01-06_Emerson-Art-Life-and-Love: "1841"
+
+- author: Emerson, Ralph Waldo
+  title: The Divinity School Address
+  kind: lecture
+  year: 1838
+  mentions:
+    1995-01-06_Emerson-Art-Life-and-Love: "Divinity School"
+    1995-01-11_Rothko-The-Romantics-Were-Prompted: "Divinity"
+
+- author: Emerson, Ralph Waldo
+  title: Selected Writings of Ralph Waldo Emerson
+  kind: book
+  year: 1981
+  publisher: Random House (Modern Library)
+  place: New York
+  note: Edited by Donald McQuade.
+  mentions:
+    1995-01-06_Emerson-Art-Life-and-Love: "McQuade"
+    1995-03-12_Asking-the-Viewer-to-Do-Things-a-Tower: "Emerson"
+
+- author: Forester, C. S.
+  title: The Horatio Hornblower novels
+  kind: book
+  year: 1937
+  note: Eleven novels, 1937–1967.
+  mentions:
+    1994-07-29_Lighthouse-Point-with-Amy-and-Literary-Sea-Memory: "Hornblower"
+
+- author: Foucault, Michel
+  title: "Surveiller et punir: Naissance de la prison"
+  kind: book
+  year: 1975
+  publisher: Gallimard
+  place: Paris
+  mentions:
+    1999-06-15_Navigateur-Proust-et-le-Monde-Sensible: "Surveillance|Damiens|Foucault"
+
+- author: Freud, Sigmund
+  title: Beyond the Pleasure Principle
+  kind: book
+  year: 1920
+  guess: The note gives Arnheim's criticism of Freud's death instinct; this is where Freud introduced it.
+  mentions:
+    1994-08-03_Arnheim-on-Death-Instinct-Entropy-and-Gesture: "Freud"
+
+- author: Frost, Robert
+  title: The Figure a Poem Makes
+  kind: essay
+  year: 1939
+  in: "Collected Poems of Robert Frost (New York: Holt, 1939)"
+  note: "Like a piece of ice on a hot stove the poem must ride on its own melting."
+  mentions:
+    1994-07-28_Pinning-Down-Time-Antonio-Lopez-and-Frost: "Frost"
+
+- author: Fuller, R. Buckminster
+  title: "Utopia or Oblivion: The Prospects for Humanity"
+  kind: book
+  year: 1969
+  publisher: Bantam
+  place: New York
+  mentions:
+    1997_p029_Utopia-Coomaraswamy-and-Fullers-World-Game: "Utopia"
+
+- author: García Márquez, Gabriel
+  title: Love in the Time of Cholera
+  kind: book
+  year: 1985
+  note: "El amor en los tiempos del cólera; English translation by Edith Grossman, 1988."
+  mentions:
+    1995-08-01_Garcia-Marquez-on-Poets: "cholera"
+
+- author: Gardner, Howard
+  title: "The Mind's New Science: A History of the Cognitive Revolution"
+  kind: book
+  year: 1985
+  publisher: Basic Books
+  place: New York
+  note: Paperback with a new epilogue, 1987 (the year in the note).
+  mentions:
+    1998-12-15_Gardner-The-Minds-New-Science-Rationalists-and-Empiricists: "Mind's New science"
+
+- author: Gibran, Kahlil
+  title: The Prophet
+  kind: book
+  year: 1923
+  publisher: Knopf
+  place: New York
+  note: The quotation is from "On Friendship".
+  mentions:
+    1994-06-27_Gibrans-Mountain-and-The-Problem-of-Quoting: "Gibran|mountain to the climber"
+
+- author: Gibson, William
+  title: Idoru
+  kind: book
+  year: 1996
+  publisher: Putnam
+  place: New York
+  mentions:
+    1997_p001_Engineers-William-Gibson-and-Web-Addresses: "IDORU|Gibson"
+
+- author: Gombrich, E. H.
+  title: "Art and Illusion: A Study in the Psychology of Pictorial Representation"
+  kind: book
+  year: 1960
+  publisher: Pantheon
+  place: New York
+  guess: Known from Goodman's quotation ("as Ernst Gombrich insists, there is no innocent eye"), not read directly.
+  mentions:
+    1994-06-25_Goodman-Languages-of-Art-and-Statues: "Gombrich"
+
+- author: Goodman, Nelson
+  title: "Languages of Art: An Approach to a Theory of Symbols"
+  kind: book
+  year: 1968
+  publisher: Bobbs-Merrill
+  place: Indianapolis
+  note: 2nd edition, Hackett, 1976.
+  mentions:
+    1994-06-25_Goodman-Languages-of-Art-and-Statues: "Languages of Art"
+    1997_p014_Langage-et-Image-Mallarme-Valery-Barthes-Twombly: "autographique"
+
+- author: Groupe μ
+  title: Rhétorique générale
+  kind: book
+  year: 1970
+  publisher: Larousse
+  place: Paris
+  mentions:
+    1995-04-11_Perceptual-and-Conceptual-Space: "groupe|Groupe|m[ée]tatax"
+
+- author: Helmholtz, Hermann von
+  title: On the Sensations of Tone as a Physiological Basis for the Theory of Music
+  kind: book
+  year: 1863
+  note: "Die Lehre von den Tonempfindungen; English translation by Alexander J. Ellis, 1875."
+  mentions:
+    1998-12-15_Breathing-Rhythms-and-White-Noise-Interaction: "Sensations of Tone"
+
+- author: Hiss, Tony
+  title: The Experience of Place
+  kind: book
+  year: 1990
+  publisher: Knopf
+  place: New York
+  mentions:
+    1998-10-15_I-Want-to-Go-to-MIT: "Hiss"
+    1998-10-15_Experiencing-Place-Public-Art-To-Do-in-Japan: "experiencing place"
+
+- author: Hofstadter, Douglas R.
+  title: "Fluid Concepts and Creative Analogies: Computer Models of the Fundamental Mechanisms of Thought"
+  kind: book
+  year: 1995
+  publisher: Basic Books
+  place: New York
+  guess: The note is about the Copycat program, which this book describes; it may have come from an article instead.
+  mentions:
+    1998-08-01_Hofstadters-Copycat: "Copycat|copycat|Hofstadter"
+
+- author: Hofstadter, Douglas R.
+  title: "Le Ton beau de Marot: In Praise of the Music of Language"
+  kind: book
+  year: 1997
+  publisher: Basic Books
+  place: New York
+  guess: The note compares Hofstadter with Clément Marot, the subject of this book.
+  mentions:
+    1998-12-15_Hofstadter-Cannot-Feel-the-Difference: "Marot|Hofstader"
+
+- author: Hofstadter, Douglas R.
+  title: I Am a Strange Loop
+  kind: book
+  year: 2007
+  publisher: Basic Books
+  place: New York
+  guess: The 2005 note gives Hofstadter's idea of the soul as a pattern in the brain; this book (2007) sets it out, so in 2005 Marco probably heard it in a talk or read an earlier essay.
+  mentions:
+    2005-04-24_Hell-Is-Eternal-Ratzinger-and-Hofstadter: "Hofstater"
+
+- title: I Ching, or Book of Changes
+  kind: book
+  year: 1950
+  publisher: Pantheon (Bollingen Series XIX)
+  place: New York
+  note: Richard Wilhelm's German translation rendered into English by Cary F. Baynes, with a foreword by C. G. Jung.
+  mentions:
+    1997_p028_What-We-Learn-Isnt-What-Were-Taught: "Bollingen"
+
+- author: Jaspers, Karl
+  title: Man in the Modern Age
+  kind: book
+  year: 1931
+  note: Die geistige Situation der Zeit.
+  mentions:
+    1995-03-11_Merleau-Ponty-Phenomenologie-and-Existentialism: "Jaspers|1931"
+
+- author: Joyce, James
+  title: Finnegans Wake
+  kind: book
+  year: 1939
+  publisher: Faber and Faber
+  place: London
+  mentions:
+    1994-07-28_Umberto-Eco-Semantics-of-Metaphor: "Finnegans Wake"
+    1994-08-04_Ecos-Finnegans-Wake-Semantic-Graph: "Finnegans Wake"
+    1998-10-15_Do-Do-Do-Records-and-Roaratorio: "Joyce|Finnegan|Roaratorio"
+
+- author: Joyce, James
+  title: Ulysses
+  kind: book
+  year: 1922
+  publisher: Shakespeare and Company
+  place: Paris
+  mentions:
+    1995-01-05_Seeing-Red: "Olysseus"
+
+- author: Jung, C. G.
+  title: "Synchronicity: An Acausal Connecting Principle"
+  kind: essay
+  year: 1952
+  mentions:
+    1997_p028_What-We-Learn-Isnt-What-Were-Taught: "Jung"
+
+- author: Kuhn, Thomas S.
+  title: The Structure of Scientific Revolutions
+  kind: book
+  year: 1962
+  publisher: University of Chicago Press
+  place: Chicago
+  mentions:
+    1995-01-16_Art-Major-Meeting-Essentialism: "Koon|Structure of Scientific"
+
+- author: Lacan, Jacques
+  title: Le Stade du miroir comme formateur de la fonction du Je
+  kind: essay
+  year: 1949
+  in: "Écrits (Paris: Seuil, 1966); Écrits I (Points, 1970)"
+  mentions:
+    1997_p021_Devisager-Rilke-Lyotard-Lacan: "Lacan"
+
+- author: Langer, Monika M.
+  title: "Merleau-Ponty's Phenomenology of Perception: A Guide and Commentary"
+  kind: book
+  year: 1989
+  publisher: Macmillan
+  place: London
+  mentions:
+    1995-03-11_Merleau-Ponty-Phenomenologie-and-Existentialism: "Langer|commentary|Ph\\. of Percep"
+
+- author: Lefebvre, Henri
+  title: The Production of Space
+  kind: book
+  year: 1974
+  publisher: Anthropos
+  place: Paris
+  note: "La Production de l'espace; English translation by Donald Nicholson-Smith (Oxford: Blackwell, 1991)."
+  mentions:
+    1995-02-05_Lefebvre-Scales-of-Space-and-the-Maternal-Space: "Lefebvre|production"
+    1995-02-05_Lefebvre-Mental-and-Real-Space: "Lefebvre|space"
+
+- author: Leonard, George J.
+  title: "Into the Light of Things: The Art of the Commonplace from Wordsworth to John Cage"
+  kind: book
+  year: 1994
+  publisher: University of Chicago Press
+  place: Chicago
+  mentions:
+    1995-01-06_Emerson-Art-Life-and-Love: "Light of Things|Leonard"
+    1995-03-06_Leonard-on-Wordsworth-Ruskin-and-Reynolds: "Leonard|p\\. 77"
+    1995-06-01_Art-Is-Everywhere-Romance-with-the-Viewer: "Commonplace"
+    1998-12-15_Summer-List-and-Scaffolding-Idea-for-the-Diplome: "Common Place"
+    1999-06-15_Make-Visible-Reveler-le-Monde: "Commonplace"
+    1995-03-12_Five-Frames-Taped-In-Slips: "John Cage|John Ruskin"
+
+- author: Lévi-Strauss, Claude
+  title: La Pensée sauvage
+  kind: book
+  year: 1962
+  publisher: Plon
+  place: Paris
+  note: Chapter 1 sets the bricoleur against the engineer.
+  mentions:
+    1998-08-01_Bricoleur-Levi-Strauss: "Strauss|bricoleur|Bricoleur"
+    1998-10-15_Bricoleur-Pidgin-and-Creole-Languages: "Bricoleur|bricoleur"
+    1997_p009_Ingenuity-of-the-Individual-Shanties-Bricolage-and-Public-Space: "Bricoleur|bricol"
+    1999-06-15_Urbanisme-Bricolage-vs-Ingenieur-Venturi: "bricol|Bricol"
+
+- author: Lyotard, Jean-François
+  title: Faire visage
+  kind: article
+  in: Revue des sciences humaines
+  guess: The note gives only "JF Lyotard faire visage - 241 Revue des sciences humaines"; the issue and year are not known.
+  mentions:
+    1997_p021_Devisager-Rilke-Lyotard-Lacan: "Lyotard"
+
+- author: Mallarmé, Stéphane
+  title: Un coup de dés jamais n'abolira le hasard
+  kind: poem
+  year: 1897
+  in: "Cosmopolis, May 1897; book edition, Paris: Gallimard (NRF), 1914"
+  note: The note quotes it as "Un coup de dès n'abolira jamais le hazard" and dates it 1887.
+  mentions:
+    1997_p014_Langage-et-Image-Mallarme-Valery-Barthes-Twombly: "Mallarm"
+
+- author: Mayer, Ralph
+  title: The Artist's Handbook of Materials and Techniques
+  kind: reference
+  year: 1940
+  publisher: Viking
+  place: New York
+  guess: The note says "Artist's Materials"; Mayer's handbook is the standard reference with that phrase in its title.
+  mentions:
+    1995-03-09_Rooftop-AandA-Piece-Microcosm-Box: "Artist's Materials"
+
+- author: Meinel, Aden; Meinel, Marjorie
+  title: Sunsets, Twilights, and Evening Skies
+  kind: book
+  year: 1983
+  publisher: Cambridge University Press
+  place: Cambridge
+  mentions:
+    1995-08-20_Out-of-Sensory-Deprivation-into-the-Real-World: "Meinel"
+
+- author: Merleau-Ponty, Maurice
+  title: Phénoménologie de la perception
+  kind: book
+  year: 1945
+  publisher: Gallimard
+  place: Paris
+  mentions:
+    1995-01-05_Bachelard-Space-Is-Only-What-We-Perceive: "Phenom[ée]nologie"
+    1995-03-11_Merleau-Ponty-Phenomenologie-and-Existentialism: "Ph\\. of Percep|Ph[ée]nom[ée]nologie|Avant"
+    1995-01-29_Terre-des-Hommes-and-the-Body: "Ponty's Phenomenology"
+    1995-04-11_Perceptual-and-Conceptual-Space: "Ponty"
+
+- author: Merleau-Ponty, Maurice
+  title: Sens et non-sens
+  kind: book
+  year: 1948
+  publisher: Nagel
+  place: Paris
+  note: Includes "Le Doute de Cézanne" (1945).
+  mentions:
+    1994-12-28_Merleau-Ponty-on-Cezanne-and-Perceptual-Space: "Merleau-Ponty on Cezanne"
+    1995-01-06_Sens-et-Non-sens-Preface: "Sens"
+    1995-01-08_Le-Doute-de-Cezanne: "Doute de C[eé]zanne"
+    1995-03-11_Merleau-Ponty-Phenomenologie-and-Existentialism: "Le doute"
+
+- author: Merleau-Ponty, Maurice
+  title: Le Visible et l'invisible
+  kind: book
+  year: 1964
+  publisher: Gallimard
+  place: Paris
+  note: Published after Merleau-Ponty's death, with his working notes.
+  mentions:
+    1995-04-11_Wahrnehmen-and-Sich-Bewegen: "p\\. 308|Ek-stase"
+
+- author: Johnson, Galen A. (ed.)
+  title: "The Merleau-Ponty Aesthetics Reader: Philosophy and Painting"
+  kind: book
+  year: 1993
+  publisher: Northwestern University Press
+  place: Evanston
+  guess: The note calls it the "Reader"; this anthology includes "Cézanne's Doubt".
+  mentions:
+    1994-12-28_Merleau-Ponty-on-Cezanne-and-Perceptual-Space: "Reader|Ponty sought"
+
+- author: Pais, Abraham
+  title: "Inward Bound: Of Matter and Forces in the Physical World"
+  kind: book
+  year: 1986
+  publisher: Oxford University Press
+  place: Oxford
+  guess: The note says "Pais's presentation of QED"; this is his history of particle physics that covers it.
+  mentions:
+    1999-06-15_Exhilaration-Reading-Pais-on-QED: "Pais"
+
+- author: Panerai, Philippe; Castex, Jean; Depaule, Jean-Charles
+  title: "Formes urbaines: de l'îlot à la barre"
+  kind: book
+  year: 1977
+  publisher: Dunod
+  place: Paris
+  guess: The note has "Pan-ray", read as Panerai.
+  mentions:
+    1999-06-15_Urbanisme-Bricolage-vs-Ingenieur-Venturi: "Pan-ray"
+
+- author: Panza di Biumo, Giuseppe
+  title: (essay on James Turrell and Roden Crater)
+  kind: essay
+  guess: Pasted printed pages, with no title or author on them; the voice (a collector remembering Turrell's work in Varese) suggests Panza. Where it was published is not known.
+  mentions:
+    1994-07-26_James-Turrell-Sacred-Architecture-and-Roden-Crater: "Panza|Turrell"
+
+- author: Pierce, John R.
+  title: "An Introduction to Information Theory: Symbols, Signals and Noise"
+  kind: book
+  year: 1961
+  publisher: Harper
+  place: New York
+  note: 2nd revised edition, Dover, 1980.
+  mentions:
+    1999-06-15_Relevant-and-Irrelevant-Information: "where is this from"
+
+- author: Pinker, Steven
+  title: "The Language Instinct: How the Mind Creates Language"
+  kind: book
+  year: 1994
+  publisher: William Morrow
+  place: New York
+  mentions:
+    1998-12-15_Gardner-The-Minds-New-Science-Rationalists-and-Empiricists: "Language Instinct"
+
+- author: Pinker, Steven
+  title: How the Mind Works
+  kind: book
+  year: 1997
+  publisher: Norton
+  place: New York
+  mentions:
+    1998-12-15_Natural-Selection-and-Intentionality: "copies of the genes|ultimate goal"
+
+- author: Pirenne, Henri
+  title: Les Villes du Moyen Âge
+  kind: book
+  year: 1927
+  publisher: Lamertin
+  place: Brussels
+  mentions:
+    1999-06-15_Villes-du-Moyen-Age-and-Dicter-une-Ville: "Pirenne"
+
+- author: Plato
+  title: Phaedrus
+  kind: book
+  guess: The note recalls a Greek philosopher who said writing weakens memory; that is Socrates in the Phaedrus.
+  mentions:
+    1994-06-07_Writing-as-a-Companion-for-Memory: "Socrates"
+
+- author: Poulet, Georges
+  title: La Distance intérieure
+  kind: book
+  year: 1952
+  publisher: Plon
+  place: Paris
+  note: Études sur le temps humain, vol. 2.
+  mentions:
+    1999-06-15_Navigateur-Proust-et-le-Monde-Sensible: "[Dd]istance [Ii]nt[ée]rieur"
+
+- title: Princeton Encyclopedia of Poetry and Poetics
+  kind: reference
+  year: 1965
+  publisher: Princeton University Press
+  place: Princeton
+  note: Edited by Alex Preminger; enlarged edition 1974.
+  guess: The note's definitions of chiasmus and anapodoton read as if copied from it.
+  mentions:
+    1995-04-11_History-Space-and-the-Now: "Chiasmus|anapodoton|Anapodoton"
+
+- author: Proust, Marcel
+  title: À la recherche du temps perdu
+  kind: book
+  year: 1913
+  note: Seven volumes, 1913–1927. The steeples of Martinville are in Du côté de chez Swann.
+  mentions:
+    1994-07-26_James-Turrell-Sacred-Architecture-and-Roden-Crater: "Proust"
+    1997_p014_Langage-et-Image-Mallarme-Valery-Barthes-Twombly: "Proust"
+    1999-06-15_Navigateur-Proust-et-le-Monde-Sensible: "Proust"
+
+- author: Réage, Pauline
+  title: Histoire d'O
+  kind: book
+  year: 1954
+  publisher: Jean-Jacques Pauvert
+  place: Sceaux
+  note: Pauline Réage was the pen name of Dominique Aury.
+  mentions:
+    1994-07-28_Train-Station-Yale-Bike-Guilt-and-Going-to-France: "Histoire d'O"
+
+- author: Rewald, John (ed.)
+  title: "Paul Cézanne: Letters"
+  kind: book
+  year: 1941
+  publisher: Bruno Cassirer
+  place: London
+  mentions:
+    1995-01-11_Art-Is-Not-Dead-Cezannes-Letters: "1941|art critic"
+
+- author: Richard, Jean-Pierre
+  title: Proust et le monde sensible
+  kind: book
+  year: 1974
+  publisher: Seuil
+  place: Paris
+  mentions:
+    1999-06-15_Navigateur-Proust-et-le-Monde-Sensible: "monde sensible"
+
+- author: Rilke, Rainer Maria
+  title: Les Cahiers de Malte Laurids Brigge
+  kind: book
+  year: 1910
+  note: Die Aufzeichnungen des Malte Laurids Brigge.
+  mentions:
+    1997_p021_Devisager-Rilke-Lyotard-Lacan: "Malte"
+
+- author: Rothko, Mark
+  title: The Romantics Were Prompted
+  kind: essay
+  year: 1947
+  in: "Possibilities 1 (Winter 1947/48)"
+  mentions:
+    1995-01-11_Rothko-The-Romantics-Were-Prompted: "Romantics Were Prompted"
+
+- author: Rowe, Colin; Koetter, Fred
+  title: Collage City
+  kind: book
+  year: 1978
+  publisher: MIT Press
+  place: Cambridge, MA
+  guess: The note names Colin Rowe and contrasts bricolage with the engineer; Collage City is where Rowe does this.
+  mentions:
+    1999-06-15_Urbanisme-Bricolage-vs-Ingenieur-Venturi: "Rowe|Collage"
+
+- author: Royet-Journoud, Claude
+  title: Les objets contiennent l'infini
+  kind: book
+  year: 1983
+  publisher: Gallimard
+  place: Paris
+  mentions:
+    1995-04-11_Collot-Du-Sens-de-lEspace-a-lEspace-du-Sens: "Royet"
+
+- author: Ruskin, John
+  title: Modern Painters
+  kind: book
+  year: 1843
+  note: Five volumes, 1843–1860.
+  guess: 'The typed Ruskin quotation ("any sensible person would change his pictures, however good, for windows") is probably taken from Leonard''s book, not from Ruskin directly.'
+  mentions:
+    1995-03-06_Leonard-on-Wordsworth-Ruskin-and-Reynolds: "Ruskin"
+    1995-03-12_Five-Frames-Taped-In-Slips: "Ruskin"
+
+- author: Saint-Exupéry, Antoine de
+  title: Le Petit Prince
+  kind: book
+  year: 1943
+  publisher: Reynal & Hitchcock
+  place: New York
+  mentions:
+    1994-07-26_James-Turrell-Sacred-Architecture-and-Roden-Crater: "little prince"
+    1994-07-30_Bateson-Theory-of-Play-and-Fantasy: "Little Prince"
+    1995-03-12_Intellectual-Space: "Petit Prince"
+
+- author: Saint-Exupéry, Antoine de
+  title: Lettres à l'amie inventée
+  kind: book
+  year: 1953
+  publisher: Plon
+  place: Paris
+  guess: The year is of the first edition of these letters as a book; check against Marco's copy.
+  mentions:
+    1995-02-27_Katherine-and-the-Poetic-Potential: "amie"
+    1995-03-12_Box-Crate-Sketches-Solitaire-Solidaire: "amie"
+
+- author: Saint-Exupéry, Antoine de
+  title: Terre des hommes
+  kind: book
+  year: 1939
+  publisher: Gallimard
+  place: Paris
+  mentions:
+    1995-01-29_Terre-des-Hommes-and-the-Body: "Terre des [Hh]ommes"
+    1995-02-05_Lefebvre-Scales-of-Space-and-the-Maternal-Space: "Terre des hommes"
+    1995-03-12_Mapping-the-Sun: "St\\.? ?Ex"
+    1995-03-12_Vertigo: "Terre des hommes"
+    1995-04-11_Perceptual-and-Conceptual-Space: "Terre des Hommes"
+
+- author: Saint-Exupéry, Antoine de
+  title: Vol de nuit
+  kind: book
+  year: 1931
+  publisher: Gallimard
+  place: Paris
+  mentions:
+    1994-07-31_Text-Distance-Camus-and-Saint-Exupery: "Vol de Nuit"
+    1995-01-09_Vol-de-Nuit-Another-Space: "Vol de Nuit"
+    1995-01-29_Terre-des-Hommes-and-the-Body: "Vol de Nuit"
+
+- author: Schneider, Kirk J.
+  title: "Hitchcock's Vertigo: An Existential View of Spirituality"
+  kind: article
+  year: 1993
+  in: "Journal of Humanistic Psychology 33(2)"
+  mentions:
+    1995-04-11_Scaffolding-Room-and-Wire-Rope: "Hitcock"
+    1995-04-11_The-Other-Vertigo-Noces-and-Hitchcock: "Scottie|Vertigo"
+
+- author: Schueller, Herbert M.
+  title: "The Idea of Music: An Introduction to Musical Aesthetics in Antiquity and the Middle Ages"
+  kind: book
+  year: 1988
+  publisher: Medieval Institute Publications
+  place: Kalamazoo
+  guess: The note gives only the title "The Idea of Music"; this is the book of that name on ancient and medieval ideas of music, which fits the Greek philosopher it recalls.
+  mentions:
+    1994-06-07_Writing-as-a-Companion-for-Memory: "Idea of Music"
+
+- author: Serra, Richard
+  title: Weight
+  kind: essay
+  year: 1988
+  in: "Richard Serra: Writings, Interviews (Chicago: University of Chicago Press, 1994)"
+  note: The pasted clipping is signed "Richard Serra, Summer 1988, Cape Breton".
+  mentions:
+    1994-07-26_Richard-Serra-on-Weight-and-History: "SERRA|Serra"
+
+- author: Seuss, Dr.
+  title: Fox in Socks
+  kind: book
+  year: 1965
+  publisher: Random House
+  place: New York
+  guess: '"The socks on the fox / The hat on the cat" echo this and The Cat in the Hat (1957).'
+  mentions:
+    1998-10-15_Geese-in-V-Formation-Simple-Rules: "socks|fox"
+
+- author: Shahn, Ben
+  title: The Shape of Content
+  kind: book
+  year: 1957
+  publisher: Harvard University Press
+  place: Cambridge, MA
+  note: '"Form is the visible shape of content", quoted by Arnheim.'
+  mentions:
+    1994-08-03_Arnheim-Form-as-Visible-Shape-of-Content: "Shahn"
+
+- author: Shakespeare, William
+  title: A Midsummer Night's Dream
+  kind: book
+  year: 1600
+  mentions:
+    1997_p030_Nouveau-Montage-Danse: "Midsummer|Puck|Oberon|Titania|moonlight"
+
+- author: Shklovsky, Viktor
+  title: Art as Technique
+  kind: essay
+  year: 1917
+  note: '"Iskusstvo kak priyom"; the essay that names defamiliarisation (ostranenie).'
+  mentions:
+    1995-09-01_The-Artist-Transforms-How-You-See: "Schlovsky"
+    1995-06-01_Art-Is-Everywhere-Romance-with-the-Viewer: "Defamiliarization"
+
+- author: Spenser, Edmund
+  title: The Faerie Queene
+  kind: poem
+  year: 1590
+  mentions:
+    1997_p030_Nouveau-Montage-Danse: "Faer|Fairy|fairy"
+
+- author: Stevens, Wallace
+  title: An Ordinary Evening in New Haven
+  kind: poem
+  year: 1950
+  in: "The Auroras of Autumn (New York: Knopf, 1950)"
+  mentions:
+    1995-03-12_Stevens-on-the-Stand: "Ordinary Evening"
+    1998-12-15_Dewey-Stevens-and-Drawing-in-Perspective: "Ordinary evening"
+    1998-12-15_Hofstadter-Cannot-Feel-the-Difference: "Stevens"
+
+- author: Strabo
+  title: Geography
+  kind: book
+  note: Book XVII describes the Mouseion of Alexandria.
+  mentions:
+    1997_p022_Histoire-du-Musee-du-Mouseion-a-Kahnweiler: "Strabon"
+
+- author: Tarnas, Richard
+  title: "The Passion of the Western Mind: Understanding the Ideas That Have Shaped Our World View"
+  kind: book
+  year: 1991
+  publisher: Harmony Books
+  place: New York
+  guess: The Kant passage and the substitution of "world" for "mother" in Bateson's double bind are the argument of Tarnas's epilogue, so the 1994 notes on Kant and the double bind are probably reading notes on this book.
+  mentions:
+    1994-07-28_Umberto-Eco-Semantics-of-Metaphor: "Passion of the Western Mind"
+    1994-10-05_Kant-and-Batesons-Double-Bind: "Kant"
+
+- author: Thom, René
+  title: From the Icon to the Symbol
+  kind: essay
+  year: 1973
+  in: "Mathematical Models of Morphogenesis (Chichester: Ellis Horwood, 1983)"
+  guess: First published in French as "De l'icône au symbole" (Cahiers internationaux de symbolisme, 1973); which printing Marco read isn't known.
+  mentions:
+    1994-07-29_Rene-Thom-From-the-Icon-to-the-Symbol: "From the Icon to the Symbol"
+
+- author: Thom, René
+  title: L'espace et les signes
+  kind: article
+  year: 1980
+  in: "Semiotica 29(3/4), pp. 193–208"
+  note: The note dates the issue 1981.
+  mentions:
+    1994-07-29_Rene-Thom-From-the-Icon-to-the-Symbol: "L'espace et les signes"
+
+- author: Toffoli, Tommaso; Margolus, Norman
+  title: "Cellular Automata Machines: A New Environment for Modeling"
+  kind: book
+  year: 1987
+  publisher: MIT Press
+  place: Cambridge, MA
+  mentions:
+    1998-10-15_Philosophy-of-A-Life-Boden-and-Langton: "Cellular"
+
+- author: Tolstoy, Leo
+  title: What Is Art?
+  kind: book
+  year: 1897
+  mentions:
+    1995-01-16_Art-Major-Meeting-Essentialism: "Tolstoy"
+
+- author: Tuchman, Maurice
+  title: A Report on the Art and Technology Program of the Los Angeles County Museum of Art, 1967–1971
+  kind: book
+  year: 1971
+  publisher: Los Angeles County Museum of Art
+  place: Los Angeles
+  guess: The note calls it "Art & Tech"; this is the report in which Irwin and Turrell's work with Edward Wortz is described.
+  mentions:
+    1995-08-20_Out-of-Sensory-Deprivation-into-the-Real-World: "Art & Tech"
+    1995-08-20_Blake-and-Turrell-Doors-of-Perception: "Wortz|Turrell"
+
+- author: Valéry, Paul
+  title: Le Coup de dés
+  kind: essay
+  year: 1920
+  in: "Variété II (Paris: Gallimard, 1929)"
+  note: Source of "Il me sembla de voir la figure d'une pensée, pour la première fois placée dans notre espace".
+  mentions:
+    1997_p014_Langage-et-Image-Mallarme-Valery-Barthes-Twombly: "figure d'une pens"
+
+- author: Valéry, Paul
+  title: Au sujet du Cimetière marin
+  kind: essay
+  year: 1933
+  in: "Variété III (Paris: Gallimard, 1936)"
+  guess: The 1994 notes recall Valéry saying a work is never finished but revised, and that there is no single author; this essay is where he says so most famously. He may have been read in another collection or in a class.
+  mentions:
+    1994-06-07_Writing-as-a-Companion-for-Memory: "Val[ée]ry"
+    1994-08-03_Instantaneous-Seeing-Valery-Page-100: "Val[ée]ry"
+
+- author: Vasari, Giorgio
+  title: Le Vite de' più eccellenti pittori, scultori e architettori
+  kind: book
+  year: 1550
+  note: Enlarged edition 1568; in French, Les Vies des meilleurs peintres, sculpteurs et architectes.
+  mentions:
+    1997_p022_Histoire-du-Musee-du-Mouseion-a-Kahnweiler: "Vasari"
+
+- author: Venturi, Robert; Scott Brown, Denise; Izenour, Steven
+  title: Learning from Las Vegas
+  kind: book
+  year: 1972
+  publisher: MIT Press
+  place: Cambridge, MA
+  mentions:
+    1999-06-15_Urbanisme-Bricolage-vs-Ingenieur-Venturi: "Venturi|Vegas"
+
+- author: Watt, Ian
+  title: "The Rise of the Novel: Studies in Defoe, Richardson and Fielding"
+  kind: book
+  year: 1957
+  publisher: Chatto & Windus
+  place: London
+  mentions:
+    1998-12-15_Rise-of-the-Novel-and-Art-in-the-Catalog: "Rise of the Novel"
+    1998-12-15_Writing-Reading-and-Aloneness: "aloneness|alone"
+
+- author: Webber, Melvin M.
+  title: The Urban Place and the Nonplace Urban Realm
+  kind: essay
+  year: 1964
+  in: "Explorations into Urban Structure (Philadelphia: University of Pennsylvania Press, 1964)"
+  guess: The note names Webber; this is his best-known essay on the city.
+  mentions:
+    1999-06-15_Grounding-Laisser-les-Gens-Faire: "Webber"
+
+- author: Weitz, Morris
+  title: Wittgenstein's Aesthetics
+  kind: essay
+  year: 1973
+  in: "Language and Aesthetics, ed. Benjamin R. Tilghman (Lawrence: University Press of Kansas, 1973)"
+  guess: 'The note quotes Weitz on concepts that are "perennially flexible, perennially debatable, and irreducibly vague" and names "Wittgensteins Aesthe."; Weitz''s better-known essay on the same theme is "The Role of Theory in Aesthetics" (1956).'
+  mentions:
+    1995-01-23_Games-Habits-and-Rons-Lecture-on-Wittgenstein: "Weitz"
+
+- author: Whitman, Walt
+  title: Salut au Monde!
+  kind: poem
+  year: 1856
+  in: "Leaves of Grass (2nd ed., 1856)"
+  mentions:
+    1997_p012_Vertical-Delve-Upward: "Salut"
+
+- author: Whitman, Walt
+  title: Song of Myself
+  kind: poem
+  year: 1855
+  in: "Leaves of Grass (1855)"
+  mentions:
+    1997_p013_Recording-Projects-and-Photo-Train-Trips: "Song of [Mm]yself"
+    1997_p015_Song-of-Myself-Fragments-Smashed-by-Proximity: "Song of [Mm]yself|myself"
+
+- author: Wittgenstein, Ludwig
+  title: Philosophical Investigations
+  kind: book
+  year: 1953
+  publisher: Blackwell
+  place: Oxford
+  mentions:
+    1995-01-23_Games-Habits-and-Rons-Lecture-on-Wittgenstein: "Phil\\. Investigations"
+    1998-12-15_Gardner-The-Minds-New-Science-Rationalists-and-Empiricists: "fly-bottle"
+
+- author: Woolf, Virginia
+  title: Kew Gardens
+  kind: story
+  year: 1919
+  publisher: Hogarth Press
+  place: Richmond
+  mentions:
+    1994-07-29_Lighthouse-Point-with-Amy-and-Literary-Sea-Memory: "Kew Gardens"
+
+- author: Wordsworth, William
+  title: Lines Left upon a Seat in a Yew-tree
+  kind: poem
+  year: 1798
+  in: "Lyrical Ballads (1798)"
+  mentions:
+    1995-02-27_Only-Happy-When-Working-a-Portable-Viewing-Stand: "Yew"
+
+- author: Wordsworth, William
+  title: The Tables Turned
+  kind: poem
+  year: 1798
+  in: "Lyrical Ballads (1798)"
+  mentions:
+    1995-03-11_A-Map-of-New-Haven-for-the-Thesis-Show: "quit your books|Up! up!"
+
+- author: Wordsworth, William
+  title: Lines Written a Few Miles above Tintern Abbey
+  kind: poem
+  year: 1798
+  in: "Lyrical Ballads (1798)"
+  guess: The note says "Recluse & TA"; "TA" is read as Tintern Abbey.
+  mentions:
+    1995-03-06_Leonard-on-Wordsworth-Ruskin-and-Reynolds: "Recluse|TA"
+
+- author: Wordsworth, William
+  title: Resolution and Independence
+  kind: poem
+  year: 1807
+  in: "Poems, in Two Volumes (1807)"
+  mentions:
+    1995-03-12_Bishop-The-Unbeliever-and-Wordsworth: "Resolution"
+
+- title: Word & Image
+  kind: journal
+  year: 1993
+  publisher: Taylor & Francis
+  place: London
+  note: '"A Journal of Verbal/Visual Enquiry" (from 1985). The note quotes p. 359 of a 1993 issue: "typography is mechanized or computerized calligraphy".'
+  guess: The article and author are not given.
+  mentions:
+    1994-07-28_Mandelbrot-Set-Pixels-and-Typography: "Word & Image"
+
+- title: The New York Times Magazine
+  kind: journal
+  year: 2005
+  note: An article on Cardinal Joseph Ratzinger after his election as Pope Benedict XVI (19 April 2005), quoting "Hell is eternal".
+  guess: The issue (late April 2005) is inferred from the election date.
+  mentions:
+    2005-04-24_Hell-Is-Eternal-Ratzinger-and-Hofstadter: "NYT"
+
+- title: Outside
+  kind: journal
+  note: The outdoor and adventure magazine (from 1977).
+  mentions:
+    1994-07-29_Lighthouse-Point-with-Amy-and-Literary-Sea-Memory: "Outside"

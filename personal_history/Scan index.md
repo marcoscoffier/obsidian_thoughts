@@ -457,6 +457,10 @@ These notes come from a photo of a page that is not in the scanned PDFs.
 
 | Note | Photo |
 |---|---|
+| [[1990-03-19_Papas-Postcard-from-Ouagadougou]] | `postcard_1990_papa_front` |
+| [[1990-03-19_Papas-Postcard-from-Ouagadougou]] | `postcard_1990_papa_back` |
+| [[1994-06-20_Katherines-Badlands-Postcard]] | `postcard_1994_katherine_front` |
+| [[1994-06-20_Katherines-Badlands-Postcard]] | `postcard_1994_katherine_back` |
 | [[1994-06-22_Catachresis-and-Quillian-Semiotic-Model]] | `Screenshot_2026-11-18_at_10.27.18_AM` |
 | [[1994-06-22_Critique-of-Earthworks]] | `Screenshot_2026-11-18_at_10.27.18_AM` |
 | [[1994-06-22_Sudden-Anxiety-Note]] | `Screenshot_2026-11-18_at_10.27.18_AM` |
