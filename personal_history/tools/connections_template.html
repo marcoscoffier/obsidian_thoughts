@@ -1,0 +1,262 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Connections across time</title>
+<style>
+:root {
+  --bg: #f7f5f0; --panel: #fffdf9; --ink: #26231f; --muted: #7a736a; --faint: #e7e2d9;
+  --line: #d9d2c6; --accent: #8a5a2b; --chip: #efe9df; --sel: #fbf1e3;
+  --serif: "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif;
+  --sans: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+}
+@media (prefers-color-scheme: dark) {
+  :root { --bg: #1b1a18; --panel: #232220; --ink: #ece6dc; --muted: #a39b8f; --faint: #34312d;
+          --line: #46423c; --accent: #e0a96d; --chip: #34312d; --sel: #3a3128; }
+}
+* { box-sizing: border-box; }
+html, body { margin: 0; height: 100%; background: var(--bg); color: var(--ink); font-family: var(--sans); }
+body { display: grid; grid-template-rows: auto auto 1fr; height: 100vh; overflow: hidden; }
+
+header { display: flex; flex-wrap: wrap; gap: 14px 22px; align-items: center; padding: 12px 20px 8px; }
+header h1 { font: 600 19px/1.2 var(--serif); margin: 0; letter-spacing: .01em; }
+header .count { color: var(--muted); font-size: 13px; }
+.controls { display: flex; flex-wrap: wrap; gap: 10px 16px; align-items: center; margin-left: auto; font-size: 13px; }
+.seg { display: inline-flex; border: 1px solid var(--line); border-radius: 7px; overflow: hidden; }
+.seg button { border: 0; background: transparent; color: var(--ink); padding: 5px 10px; font: inherit; cursor: pointer; }
+.seg button + button { border-left: 1px solid var(--line); }
+.seg button[aria-pressed="true"] { background: var(--ink); color: var(--bg); }
+select, input[type=search] { font: inherit; color: var(--ink); background: var(--panel); border: 1px solid var(--line);
+  border-radius: 7px; padding: 5px 8px; }
+input[type=search] { width: 200px; }
+.controls label { color: var(--muted); display: inline-flex; gap: 6px; align-items: center; }
+
+#timeline { padding: 0 20px; position: relative; }
+#timeline svg { width: 100%; height: 150px; display: block; }
+.arc { fill: none; stroke-width: 1.4; opacity: .55; cursor: pointer; }
+.arc:hover { opacity: 1; stroke-width: 2.6; }
+.arc.dim { opacity: .08; }
+.arc.sel { opacity: 1; stroke-width: 3.2; }
+.dot { fill: var(--muted); }
+.dot.sel { fill: var(--accent); r: 4.5; }
+.axis { stroke: var(--line); }
+.yr { fill: var(--muted); font-size: 11px; text-anchor: middle; }
+.brk { fill: var(--muted); font-size: 11px; text-anchor: middle; }
+#tip { position: absolute; pointer-events: none; background: var(--ink); color: var(--bg); font-size: 12px;
+  padding: 5px 8px; border-radius: 6px; max-width: 340px; opacity: 0; transition: opacity .1s; }
+
+main { display: grid; grid-template-columns: 290px 1fr; min-height: 0; border-top: 1px solid var(--line); }
+#list { overflow-y: auto; border-right: 1px solid var(--line); padding: 4px 0; }
+.item { padding: 9px 14px 9px 16px; cursor: pointer; border-left: 3px solid transparent; }
+.item:hover { background: var(--faint); }
+.item.sel { background: var(--sel); border-left-color: var(--accent); }
+.item .gap { font: 600 12px var(--sans); color: var(--accent); margin-right: 6px; }
+.item .lab { font-size: 13.5px; line-height: 1.35; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+.item .dates { color: var(--muted); font-size: 11.5px; margin-top: 2px; }
+.swatch { display: inline-block; width: 8px; height: 8px; border-radius: 50%; margin-right: 6px; vertical-align: 1px; }
+.empty { padding: 20px; color: var(--muted); font-size: 14px; }
+
+#pair { display: grid; grid-template-rows: auto 1fr; min-height: 0; }
+#bridge { padding: 12px 22px 10px; border-bottom: 1px solid var(--line); background: var(--panel); }
+#bridge .lab { font: 500 17px/1.35 var(--serif); }
+#bridge .sub { color: var(--muted); font-size: 12.5px; margin-top: 3px; }
+#bridge .also { color: var(--muted); font-size: 12.5px; margin-top: 4px; font-style: italic; }
+#panes { display: grid; grid-template-columns: 1fr 1fr; min-height: 0; }
+.pane { overflow-y: auto; padding: 18px 26px 40px; }
+.pane + .pane { border-left: 1px solid var(--line); }
+.pane .meta { color: var(--muted); font-size: 12.5px; letter-spacing: .02em; }
+.pane h2 { font: 600 21px/1.3 var(--serif); margin: 4px 0 8px; }
+.chips { display: flex; flex-wrap: wrap; gap: 5px; margin: 6px 0; }
+.chip { background: var(--chip); border-radius: 20px; padding: 2px 9px; font-size: 12px; color: var(--muted); }
+.others { margin: 10px 0 4px; font-size: 12.5px; color: var(--muted); }
+.others button { font: inherit; font-size: 12.5px; border: 1px solid var(--line); background: var(--panel); color: var(--ink);
+  border-radius: 6px; padding: 3px 8px; margin: 3px 4px 0 0; cursor: pointer; text-align: left; }
+.others button:hover { border-color: var(--accent); }
+.others button .g { color: var(--accent); font-weight: 600; margin-right: 4px; }
+article { font: 17px/1.62 var(--serif); margin-top: 14px; }
+article p { margin: 0 0 .85em; }
+article h4 { font: 600 15px var(--sans); margin: 1.2em 0 .4em; }
+article ul { padding-left: 1.2em; margin: 0 0 .85em; }
+article code { font: 14px/1.4 ui-monospace, Menlo, monospace; background: var(--chip); padding: 0 3px; border-radius: 3px; color: var(--muted); }
+article hr { border: 0; border-top: 1px solid var(--line); margin: 1.2em 0; }
+.wl { border-bottom: 1px dotted var(--accent); }
+.wl.go { cursor: pointer; color: var(--accent); }
+details { margin-top: 16px; font-size: 14px; color: var(--muted); }
+details summary { cursor: pointer; }
+details .callout { margin-top: 8px; line-height: 1.5; }
+details img { width: 100%; margin-top: 10px; border-radius: 4px; }
+.hint { color: var(--muted); font-size: 12px; padding: 8px 16px 14px; }
+@media (max-width: 900px) { main { grid-template-columns: 1fr; } #list { max-height: 30vh; border-right: 0; border-bottom: 1px solid var(--line); }
+  #panes { grid-template-columns: 1fr; } .pane + .pane { border-left: 0; border-top: 1px solid var(--line); } }
+</style>
+</head>
+<body>
+<header>
+  <h1>Connections across time</h1><span class="count" id="count"></span>
+  <div class="controls">
+    <div class="seg" id="src">
+      <button data-v="all" aria-pressed="true">All</button>
+      <button data-v="timeline" aria-pressed="false">Timeline canvas</button>
+      <button data-v="notes" aria-pressed="false">Links in notes</button>
+      <button data-v="themes" aria-pressed="false">Suggested</button>
+    </div>
+    <label>Apart by <select id="span">
+      <option value="0">any time</option><option value="0.08">a month or more</option>
+      <option value="1">a year or more</option><option value="10">ten years or more</option></select></label>
+    <input type="search" id="q" placeholder="Search labels and text">
+  </div>
+</header>
+<div id="timeline"><svg id="svg"></svg><div id="tip"></div></div>
+<main>
+  <div id="list"></div>
+  <section id="pair"><div id="bridge"></div><div id="panes"><div class="pane" id="left"></div><div class="pane" id="right"></div></div></section>
+</main>
+<script>
+const DATA = /*DATA*/null;
+const N = DATA.notes, C = DATA.conns;
+const COLORS = {"1":"#e5484d","2":"#f0913a","3":"#d9a400","4":"#3fa45b","5":"#1ea7b8","6":"#8e6bd8"};
+const NOTE_LINK = "#9a9086", CANVAS_PLAIN = "#8a5a2b", SUGGESTED = "#5b7fa6";
+const color = c => c.source === "timeline" ? (COLORS[c.color] || CANVAS_PLAIN) : c.source === "themes" ? SUGGESTED : NOTE_LINK;
+const SOURCE = {timeline: "drawn on the timeline canvas", notes: "linked in the notes", themes: "suggested: written far apart, sharing uncommon themes"};
+const span = c => N[c.b].w - N[c.a].w;
+const MONTHS = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+function fdate(n) {
+  const m = n.d.match(/^(\d{4})(?:-(\d{2})-(\d{2}))?/); if (!m) return n.d;
+  const s = m[2] ? `${+m[3]} ${MONTHS[+m[2]-1]} ${m[1]}` : m[1];
+  return n.est ? s + " (estimated)" : s;
+}
+function fgap(y) {
+  if (y >= 1.5) return Math.round(y) + " yrs";
+  if (y >= 0.95) return "1 yr";
+  if (y >= 0.08) return Math.round(y * 12) + " mo";
+  const d = Math.round(y * 365); return d <= 0 ? "same day" : d + (d === 1 ? " day" : " days");
+}
+const esc = s => s.replace(/[&<>"]/g, ch => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[ch]));
+
+// ---------- state
+let state = { src: "all", span: 0, q: "", sel: null };
+const keyOf = c => c.a + "|" + c.b;
+const byNote = {};
+C.forEach(c => { (byNote[c.a] ||= []).push(c); (byNote[c.b] ||= []).push(c); });
+function visible() {
+  const q = state.q.toLowerCase();
+  return C.filter(c => (state.src === "all" || c.source === state.src) && span(c) >= state.span &&
+    (!q || (c.label + " " + c.also + " " + N[c.a].t + " " + N[c.b].t + " " + N[c.a].body + " " + N[c.b].body).toLowerCase().includes(q)));
+}
+
+// ---------- timeline scale: each year with notes gets room; empty stretches are squeezed
+const years = {}; Object.values(N).forEach(n => { const y = Math.floor(n.w); years[y] = (years[y] || 0) + 1; });
+const ys = Object.keys(years).map(Number).sort((a, b) => a - b);
+const segs = []; let pos = 0;
+ys.forEach((y, i) => {
+  if (i && y !== ys[i-1] + 1) { segs.push({brk: true, x0: pos, from: ys[i-1] + 1, to: y - 1}); pos += 0.7; }
+  const w = 1 + Math.sqrt(years[y]) / 3; segs.push({y, x0: pos, w}); pos += w;
+});
+const TOTAL = pos;
+function xOf(w) { const y = Math.floor(w), s = segs.find(s => s.y === y); return s ? s.x0 + (w - y) * s.w : 0; }
+
+function drawTimeline(vis) {
+  const svg = document.getElementById("svg"), W = svg.clientWidth, H = 150, base = 118, pad = 14;
+  const X = v => pad + (W - 2 * pad) * xOf(v) / TOTAL;
+  const visKeys = new Set(vis.map(keyOf)), selKey = state.sel && keyOf(state.sel);
+  let out = `<line class="axis" x1="${pad}" x2="${W - pad}" y1="${base}" y2="${base}"/>`;
+  segs.forEach(s => {
+    const xm = pad + (W - 2 * pad) * (s.x0 + (s.brk ? 0.35 : s.w / 2)) / TOTAL;
+    out += s.brk ? `<text class="brk" x="${xm}" y="${base + 26}">··· ${s.to > s.from ? s.from + "–" + s.to : s.from} ···</text>`
+                 : `<text class="yr" x="${xm}" y="${base + 16}">${s.y}</text>`;
+  });
+  const arcs = C.map((c, i) => ({c, i, x1: X(N[c.a].w), x2: X(N[c.b].w)}))
+    .sort((p, q) => Math.abs(q.x2 - q.x1) - Math.abs(p.x2 - p.x1));
+  arcs.forEach(({c, i, x1, x2}) => {
+    const d = Math.abs(x2 - x1), h = Math.min(base - 6, 6 + d * 0.32), k = keyOf(c);
+    const cls = "arc" + (k === selKey ? " sel" : visKeys.has(k) ? "" : " dim");
+    out += `<path class="${cls}" data-i="${i}" stroke="${color(c)}"${c.source === "themes" ? ' stroke-dasharray="4 3"' : ""} d="M${x1},${base} C${x1},${base - h} ${x2},${base - h} ${x2},${base}"/>`;
+  });
+  Object.entries(N).forEach(([stem, n]) => {
+    const on = state.sel && (state.sel.a === stem || state.sel.b === stem);
+    out += `<circle class="dot${on ? " sel" : ""}" cx="${X(n.w)}" cy="${base}" r="${on ? 4.5 : 2.2}"/>`;
+  });
+  svg.innerHTML = out;
+}
+
+// ---------- list
+function drawList(vis) {
+  const L = document.getElementById("list");
+  if (!vis.length) { L.innerHTML = `<div class="empty">No connections match.</div>`; return; }
+  const selKey = state.sel && keyOf(state.sel);
+  L.innerHTML = vis.map(c => `<div class="item${keyOf(c) === selKey ? " sel" : ""}" data-i="${C.indexOf(c)}">
+      <div class="lab"><span class="swatch" style="background:${color(c)}"></span><span class="gap">${fgap(span(c))}</span>${esc(c.label || "(no label)")}</div>
+      <div class="dates">${fdate(N[c.a])} → ${fdate(N[c.b])}</div></div>`).join("")
+    + `<div class="hint">↑ ↓ or j k to move through the list</div>`;
+  const s = L.querySelector(".sel"); if (s) s.scrollIntoView({block: "nearest"});
+}
+
+// ---------- the pair
+function pane(stem, other) {
+  const n = N[stem];
+  const links = (byNote[stem] || []).filter(c => keyOf(c) !== keyOf(state.sel))
+    .map(c => { const o = c.a === stem ? c.b : c.a;
+      return `<button data-i="${C.indexOf(c)}" title="${esc(c.label)}"><span class="g">${fgap(span(c))}</span>${esc(N[o].t)} · ${fdate(N[o]).replace(" (estimated)", "")}</button>`; }).join("");
+  return `<div class="meta">${fdate(n)}${n.era ? " · " + esc(n.era) : ""}</div>
+    <h2>${esc(n.t)}</h2>
+    <div class="chips">${n.th.map(t => `<span class="chip">${esc(t)}</span>`).join("")}${n.pp.length ? `<span class="chip">👤 ${esc(n.pp.join(", "))}</span>` : ""}</div>
+    ${links ? `<div class="others">Also connected to:<br>${links}</div>` : ""}
+    <article>${n.body}</article>
+    ${n.notes ? `<details><summary>Transcription notes</summary><div class="callout">${n.notes}</div></details>` : ""}
+    ${n.img.length ? `<details class="scan"><summary>Show the scanned page${n.img.length > 1 ? "s" : ""}</summary>${n.img.map(p => `<img loading="lazy" src="${esc(p)}" alt="">`).join("")}</details>` : ""}`;
+}
+function drawPair() {
+  const c = state.sel, B = document.getElementById("bridge");
+  if (!c) { B.innerHTML = ""; document.getElementById("left").innerHTML = document.getElementById("right").innerHTML = ""; return; }
+  B.innerHTML = `<div class="lab"><span class="swatch" style="background:${color(c)}"></span>${esc(c.label || "(no label)")}</div>
+    <div class="sub">${fgap(span(c))} apart · ${SOURCE[c.source]}</div>
+    ${c.also ? `<div class="also">In the note: ${esc(c.also)}</div>` : ""}`;
+  for (const [id, stem, other] of [["left", c.a, c.b], ["right", c.b, c.a]]) {
+    const P = document.getElementById(id); P.innerHTML = pane(stem, other); P.scrollTop = 0;
+    P.querySelectorAll(".wl").forEach(w => {
+      const t = w.dataset.note, hit = (byNote[stem] || []).find(x => x.a === t || x.b === t);
+      if (hit) { w.classList.add("go"); w.onclick = () => select(hit); }
+    });
+  }
+}
+
+// ---------- wiring
+function select(c) { state.sel = c; history.replaceState(null, "", "#" + encodeURIComponent(keyOf(c))); render(); }
+function render() {
+  const vis = visible();
+  document.getElementById("count").textContent = `${vis.length} of ${C.length} connections`;
+  drawList(vis); drawTimeline(vis); drawPair();
+}
+document.getElementById("list").addEventListener("click", e => { const it = e.target.closest(".item"); if (it) select(C[+it.dataset.i]); });
+document.getElementById("panes").addEventListener("click", e => { const b = e.target.closest(".others button"); if (b) select(C[+b.dataset.i]); });
+const svg = document.getElementById("svg"), tip = document.getElementById("tip");
+svg.addEventListener("click", e => { const a = e.target.closest(".arc"); if (a) select(C[+a.dataset.i]); });
+svg.addEventListener("mousemove", e => {
+  const a = e.target.closest(".arc");
+  if (!a) { tip.style.opacity = 0; return; }
+  const c = C[+a.dataset.i], r = document.getElementById("timeline").getBoundingClientRect();
+  tip.innerHTML = `<b>${fgap(span(c))}</b> · ${esc(c.label || "(no label)")}<br>${esc(N[c.a].t)} → ${esc(N[c.b].t)}`;
+  tip.style.left = Math.min(e.clientX - r.left + 12, r.width - 350) + "px"; tip.style.top = (e.clientY - r.top + 12) + "px"; tip.style.opacity = 1;
+});
+svg.addEventListener("mouseleave", () => tip.style.opacity = 0);
+document.querySelectorAll("#src button").forEach(b => b.onclick = () => {
+  document.querySelectorAll("#src button").forEach(x => x.setAttribute("aria-pressed", x === b));
+  state.src = b.dataset.v; render();
+});
+document.getElementById("span").onchange = e => { state.span = +e.target.value; render(); };
+document.getElementById("q").oninput = e => { state.q = e.target.value; render(); };
+document.addEventListener("keydown", e => {
+  if (e.target.tagName === "INPUT" || e.target.tagName === "SELECT") return;
+  const vis = visible(); if (!vis.length) return;
+  const i = vis.findIndex(c => state.sel && keyOf(c) === keyOf(state.sel));
+  if (e.key === "ArrowDown" || e.key === "j") { select(vis[Math.min(vis.length - 1, i + 1)]); e.preventDefault(); }
+  if (e.key === "ArrowUp" || e.key === "k") { select(vis[Math.max(0, i - 1)]); e.preventDefault(); }
+});
+window.addEventListener("resize", () => drawTimeline(visible()));
+const fromHash = decodeURIComponent(location.hash.slice(1));
+state.sel = C.find(c => keyOf(c) === fromHash) || C[0];
+render();
+</script>
+</body>
+</html>

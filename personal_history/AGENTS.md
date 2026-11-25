@@ -118,6 +118,9 @@ The example name is `scan_1997`.
     - add the books, essays, poems and articles the new notes mention to
       `tools/bibliography.yaml` (see "Bibliography" below) and run
       `python3 tools/build_bib.py`.
+    - run `python3 tools/build_connections.py` to rebuild `Connections.html`, the
+      side-by-side view of linked notes (from `life_timeline.canvas`, links between
+      notes, and suggestions from shared themes).
 
 ### Replacing notes from an earlier scan
 
