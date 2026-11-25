@@ -1,9 +1,9 @@
 ---
 date: 2026-10-21
-era: "[[Present, Therapy Notes]]"
+era: "[[Eras/Present, Therapy Notes|Present, Therapy Notes]]"
 people: [Dad, Clement, Hawley Waterman]
-themes: ["belonging", "[[identity]]", "secrets", "[[father]]"]
-subjects: ["[[Self]]", "[[Love and Relationships]]", "[[Family]]"]
+themes: ["belonging", "[[Themes/identity|identity]]", "secrets", "[[Themes/father|father]]"]
+subjects: ["[[Subjects/Self|Self]]", "[[Subjects/Love and Relationships|Love and Relationships]]", "[[Subjects/Family|Family]]"]
 type: journal-fragment
 ---
 

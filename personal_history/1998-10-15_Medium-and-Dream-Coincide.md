@@ -1,10 +1,10 @@
 ---
 date: 1998-10-15
 dated: estimated
-era: "[[Paris, Beaux-Arts]]"
+era: "[[Eras/Japan|Japan]]"
 people: []
-themes: ["[[creativity]]", "[[studio-practice]]"]
-subjects: ["[[Making Art]]"]
+themes: ["[[Themes/creativity|creativity]]", "[[Themes/studio-practice|studio-practice]]"]
+subjects: ["[[Subjects/Making Art|Making Art]]"]
 type: journal-fragment
 scan: scan_1997_2_p013
 ---

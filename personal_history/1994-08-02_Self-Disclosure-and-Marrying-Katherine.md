@@ -1,9 +1,9 @@
 ---
 date: 1994-08-02
-era: "[[Summer 1994, Travel and Alps]]"
+era: "[[Eras/Summer 1994, Travel and Alps|Summer 1994, Travel and Alps]]"
 people: [Katherine]
-themes: ["[[photography]]", "[[intimacy]]", "self-disclosure", "[[writing-process]]"]
-subjects: ["[[Making Art]]", "[[Love and Relationships]]", "[[Language and Literature]]"]
+themes: ["[[Themes/photography|photography]]", "[[Themes/intimacy|intimacy]]", "self-disclosure", "[[Themes/writing-process|writing-process]]"]
+subjects: ["[[Subjects/Making Art|Making Art]]", "[[Subjects/Love and Relationships|Love and Relationships]]", "[[Subjects/Language and Literature|Language and Literature]]"]
 type: journal-fragment
 scan: [scan_1994_1_p047, scan_1994_1_p053]
 ---

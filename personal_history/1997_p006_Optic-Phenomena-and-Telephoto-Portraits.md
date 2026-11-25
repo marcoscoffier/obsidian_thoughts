@@ -1,9 +1,9 @@
 ---
 date: 1997
-era: "[[Paris, Beaux-Arts]]"
+era: "[[Eras/Paris, Beaux-Arts|Paris, Beaux-Arts]]"
 people: [Frères Lumière]
-themes: ["[[photography]]", "[[optics]]", "shadows", "[[pixels]]", "[[sky]]"]
-subjects: ["[[Making Art]]", "[[Perception and Space]]"]
+themes: ["[[Themes/photography|photography]]", "[[Themes/optics|optics]]", "shadows", "[[Themes/pixels|pixels]]", "[[Themes/sky|sky]]"]
+subjects: ["[[Subjects/Making Art|Making Art]]", "[[Subjects/Perception and Space|Perception and Space]]"]
 type: journal-fragment
 scan: scan_1997_p006
 ---

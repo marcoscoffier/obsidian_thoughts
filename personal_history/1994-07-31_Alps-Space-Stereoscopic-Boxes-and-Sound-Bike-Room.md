@@ -1,9 +1,9 @@
 ---
 date: 1994-07-31
-era: "[[Summer 1994, Travel and Alps]]"
+era: "[[Eras/Summer 1994, Travel and Alps|Summer 1994, Travel and Alps]]"
 people: []
-themes: ["[[alps]]", "[[space]]", "[[ekphrasis]]", "stereoscopy", "[[sculpture-ideas]]", "sound-installation", "geometry"]
-subjects: ["[[Places and Cities]]", "[[Perception and Space]]", "[[Language and Literature]]", "[[Making Art]]", "[[Sound and Music]]", "[[Mind, Science and Systems]]"]
+themes: ["[[Themes/alps|alps]]", "[[Themes/space|space]]", "[[Themes/ekphrasis|ekphrasis]]", "stereoscopy", "[[Themes/sculpture-ideas|sculpture-ideas]]", "sound-installation", "geometry"]
+subjects: ["[[Subjects/Places and Cities|Places and Cities]]", "[[Subjects/Perception and Space|Perception and Space]]", "[[Subjects/Language and Literature|Language and Literature]]", "[[Subjects/Making Art|Making Art]]", "[[Subjects/Sound and Music|Sound and Music]]", "[[Subjects/Mind, Science and Systems|Mind, Science and Systems]]"]
 type: journal-fragment
 notebook_page: 93
 scan: [scan_1994_2_p029, scan_1994_2_p030]

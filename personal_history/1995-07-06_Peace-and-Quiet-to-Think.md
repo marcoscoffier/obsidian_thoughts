@@ -1,9 +1,9 @@
 ---
 date: 1995-07-06
-era: "[[DC, Post-College]]"
+era: "[[Eras/DC, Post-College|DC, Post-College]]"
 people: []
-themes: ["[[solitude]]", "[[studio-practice]]"]
-subjects: ["[[Self]]", "[[Making Art]]"]
+themes: ["[[Themes/solitude|solitude]]", "[[Themes/studio-practice|studio-practice]]"]
+subjects: ["[[Subjects/Self|Self]]", "[[Subjects/Making Art|Making Art]]"]
 type: journal-fragment
 scan: scan_1995_p086
 ---

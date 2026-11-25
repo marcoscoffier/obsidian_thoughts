@@ -1,10 +1,10 @@
 ---
 date: 1999-06-15
 dated: estimated
-era: "[[Paris, Beaux-Arts]]"
+era: "[[Eras/Paris, Beaux-Arts|Paris, Beaux-Arts]]"
 people: [Albert Einstein, Niels Bohr]
-themes: ["[[ambition]]", "[[art-vs-science]]", "[[ego]]"]
-subjects: ["[[Self]]", "[[Mind, Science and Systems]]"]
+themes: ["[[Themes/ambition|ambition]]", "[[Themes/art-vs-science|art-vs-science]]", "[[Themes/ego|ego]]"]
+subjects: ["[[Subjects/Self|Self]]", "[[Subjects/Mind, Science and Systems|Mind, Science and Systems]]"]
 type: journal-fragment
 scan: scan_1997_2_p073
 ---

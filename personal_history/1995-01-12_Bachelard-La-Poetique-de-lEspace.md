@@ -1,9 +1,9 @@
 ---
 date: 1995-01-12
-era: "[[Final Semester Yale 1995]]"
+era: "[[Eras/Final Semester Yale 1995|Final Semester Yale 1995]]"
 people: [Bachelard]
-themes: ["[[french]]", "[[reading]]", "[[poetry]]", "[[imagination]]"]
-subjects: ["[[Language and Literature]]"]
+themes: ["[[Themes/french|french]]", "[[Themes/reading|reading]]", "[[Themes/poetry|poetry]]", "[[Themes/imagination|imagination]]"]
+subjects: ["[[Subjects/Language and Literature|Language and Literature]]"]
 type: journal-fragment
 scan: scan_1995_p013
 ---

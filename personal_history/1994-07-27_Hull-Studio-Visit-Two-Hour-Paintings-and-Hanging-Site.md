@@ -1,9 +1,9 @@
 ---
 date: 1994-07-27
-era: "[[Yale, New Haven]]"
+era: "[[Eras/Yale, New Haven|Yale, New Haven]]"
 people: [John Hull, Frank Auerbach, Robert Lytle]
-themes: ["painting-practice", "critique", "time-limits", "[[installation]]", "3d-space"]
-subjects: ["[[Making Art]]", "[[Art Theory and the Art World]]", "[[Self]]", "[[Perception and Space]]"]
+themes: ["painting-practice", "critique", "time-limits", "[[Themes/installation|installation]]", "3d-space"]
+subjects: ["[[Subjects/Making Art|Making Art]]", "[[Subjects/Art Theory and the Art World|Art Theory and the Art World]]", "[[Subjects/Self|Self]]", "[[Subjects/Perception and Space|Perception and Space]]"]
 type: journal-fragment
 notebook_page: 80
 scan: [scan_1994_2_p005, scan_1994_2_p006]

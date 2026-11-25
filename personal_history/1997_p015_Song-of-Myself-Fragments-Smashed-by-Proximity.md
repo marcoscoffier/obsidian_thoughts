@@ -1,9 +1,9 @@
 ---
 date: 1997
-era: "[[Paris, Beaux-Arts]]"
+era: "[[Eras/Paris, Beaux-Arts|Paris, Beaux-Arts]]"
 people: [Walt Whitman]
-themes: ["[[poetry]]", "[[collage]]", "fragments", "simultaneity", "recording"]
-subjects: ["[[Language and Literature]]", "[[Making Art]]", "[[Mind, Science and Systems]]", "[[Sound and Music]]"]
+themes: ["[[Themes/poetry|poetry]]", "[[Themes/collage|collage]]", "fragments", "simultaneity", "recording"]
+subjects: ["[[Subjects/Language and Literature|Language and Literature]]", "[[Subjects/Making Art|Making Art]]", "[[Subjects/Mind, Science and Systems|Mind, Science and Systems]]", "[[Subjects/Sound and Music|Sound and Music]]"]
 type: journal-fragment
 scan: scan_1997_p015
 ---

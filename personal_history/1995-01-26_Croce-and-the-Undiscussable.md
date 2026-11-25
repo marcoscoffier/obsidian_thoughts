@@ -1,9 +1,9 @@
 ---
 date: 1995-01-26
-era: "[[Final Semester Yale 1995]]"
+era: "[[Eras/Final Semester Yale 1995|Final Semester Yale 1995]]"
 people: [Arlene Croce, Cage, Duchamp]
-themes: ["[[art-theory]]", "[[criticism]]", "[[communication]]"]
-subjects: ["[[Art Theory and the Art World]]", "[[Language and Literature]]"]
+themes: ["[[Themes/art-theory|art-theory]]", "[[Themes/criticism|criticism]]", "[[Themes/communication|communication]]"]
+subjects: ["[[Subjects/Art Theory and the Art World|Art Theory and the Art World]]", "[[Subjects/Language and Literature|Language and Literature]]"]
 type: journal-fragment
 scan: scan_1995_p024
 ---

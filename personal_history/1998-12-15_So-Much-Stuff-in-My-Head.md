@@ -1,10 +1,10 @@
 ---
 date: 1998-12-15
 dated: estimated
-era: "[[Paris, Beaux-Arts]]"
+era: "[[Eras/Paris, Beaux-Arts|Paris, Beaux-Arts]]"
 people: []
-themes: ["[[self-awareness]]", "[[body]]"]
-subjects: ["[[Self]]"]
+themes: ["[[Themes/self-awareness|self-awareness]]", "[[Themes/body|body]]"]
+subjects: ["[[Subjects/Self|Self]]"]
 type: journal-fragment
 scan: scan_1997_2_p051
 ---

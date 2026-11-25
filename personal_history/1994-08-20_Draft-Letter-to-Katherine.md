@@ -1,9 +1,9 @@
 ---
 date: 1994-08-20
-era: "[[Summer 1994, Travel and Alps]]"
+era: "[[Eras/Summer 1994, Travel and Alps|Summer 1994, Travel and Alps]]"
 people: [Katherine, Daria]
-themes: ["[[intimacy]]", "[[vocation]]", "[[identity]]", "uncertainty", "[[letters]]"]
-subjects: ["[[Love and Relationships]]", "[[Self]]"]
+themes: ["[[Themes/intimacy|intimacy]]", "[[Themes/vocation|vocation]]", "[[Themes/identity|identity]]", "uncertainty", "[[Themes/letters|letters]]"]
+subjects: ["[[Subjects/Love and Relationships|Love and Relationships]]", "[[Subjects/Self|Self]]"]
 type: journal-fragment
 notebook_page: 32
 scan: scan_1994_1_p054

@@ -1,10 +1,10 @@
 ---
 date: 1995-02-12
 dated: estimated
-era: "[[Final Semester Yale 1995]]"
+era: "[[Eras/Final Semester Yale 1995|Final Semester Yale 1995]]"
 people: [Katherine]
-themes: ["[[fear]]", "[[katherine]]", "[[studio-practice]]"]
-subjects: ["[[Self]]", "[[Love and Relationships]]", "[[Making Art]]"]
+themes: ["[[Themes/fear|fear]]", "[[Themes/katherine|katherine]]", "[[Themes/studio-practice|studio-practice]]"]
+subjects: ["[[Subjects/Self|Self]]", "[[Subjects/Love and Relationships|Love and Relationships]]", "[[Subjects/Making Art|Making Art]]"]
 type: journal-fragment
 scan: scan_1995_p032
 ---

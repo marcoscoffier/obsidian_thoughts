@@ -1,10 +1,10 @@
 ---
 date: 1998-12-15
 dated: estimated
-era: "[[Paris, Beaux-Arts]]"
+era: "[[Eras/Paris, Beaux-Arts|Paris, Beaux-Arts]]"
 people: [Jean Dubuffet, Françoise Choay]
-themes: ["[[french]]", "[[reading]]", "[[urbanism]]", "[[place-attachment]]"]
-subjects: ["[[Language and Literature]]", "[[Places and Cities]]"]
+themes: ["[[Themes/french|french]]", "[[Themes/reading|reading]]", "[[Themes/urbanism|urbanism]]", "[[Themes/place-attachment|place-attachment]]"]
+subjects: ["[[Subjects/Language and Literature|Language and Literature]]", "[[Subjects/Places and Cities|Places and Cities]]"]
 type: journal-fragment
 scan: [scan_1997_2_p034, scan_1997_2_p035, scan_1997_2_p036, scan_1997_2_p037, scan_1997_2_p039]
 ---

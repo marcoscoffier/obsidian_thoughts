@@ -1,9 +1,9 @@
 ---
 date: 1994-07-13
-era: "[[Yale, New Haven]]"
+era: "[[Eras/Yale, New Haven|Yale, New Haven]]"
 people: [I.M. Pei]
-themes: ["[[space]]", "[[installation]]", "[[optics]]", "stereoscopic-vision"]
-subjects: ["[[Perception and Space]]", "[[Making Art]]"]
+themes: ["[[Themes/space|space]]", "[[Themes/installation|installation]]", "[[Themes/optics|optics]]", "stereoscopic-vision"]
+subjects: ["[[Subjects/Perception and Space|Perception and Space]]", "[[Subjects/Making Art|Making Art]]"]
 type: journal-fragment
 notebook_page: 61
 scan: [scan_1994_1_p104, scan_1994_1_p105, scan_1994_1_p106]

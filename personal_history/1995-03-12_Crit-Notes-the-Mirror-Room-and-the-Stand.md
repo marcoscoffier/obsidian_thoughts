@@ -1,10 +1,10 @@
 ---
 date: 1995-03-12
 dated: estimated
-era: "[[Final Semester Yale 1995]]"
+era: "[[Eras/Final Semester Yale 1995|Final Semester Yale 1995]]"
 people: [Bob, Lisa, Ron Jones, Steve, Julian]
-themes: ["[[studio-critique]]", "[[mirrors]]", "[[installation]]", "[[light]]"]
-subjects: ["[[Art Theory and the Art World]]", "[[Perception and Space]]", "[[Making Art]]"]
+themes: ["[[Themes/studio-critique|studio-critique]]", "[[Themes/mirrors|mirrors]]", "[[Themes/installation|installation]]", "[[Themes/light|light]]"]
+subjects: ["[[Subjects/Art Theory and the Art World|Art Theory and the Art World]]", "[[Subjects/Perception and Space|Perception and Space]]", "[[Subjects/Making Art|Making Art]]"]
 type: journal-fragment
 scan: scan_1995_p056
 ---

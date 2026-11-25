@@ -1,10 +1,10 @@
 ---
 date: 1998-12-15
 dated: estimated
-era: "[[Paris, Beaux-Arts]]"
+era: "[[Eras/Paris, Beaux-Arts|Paris, Beaux-Arts]]"
 people: []
-themes: ["[[craft]]", "[[art-theory]]"]
-subjects: ["[[Making Art]]", "[[Art Theory and the Art World]]"]
+themes: ["[[Themes/craft|craft]]", "[[Themes/art-theory|art-theory]]"]
+subjects: ["[[Subjects/Making Art|Making Art]]", "[[Subjects/Art Theory and the Art World|Art Theory and the Art World]]"]
 type: journal-fragment
 scan: scan_1997_2_p066
 ---

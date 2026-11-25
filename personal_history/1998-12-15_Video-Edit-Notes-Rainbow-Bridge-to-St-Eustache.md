@@ -1,10 +1,10 @@
 ---
 date: 1998-12-15
 dated: estimated
-era: "[[Paris, Beaux-Arts]]"
+era: "[[Eras/Paris, Beaux-Arts|Paris, Beaux-Arts]]"
 people: []
-themes: ["[[video]]", "[[installation]]", "[[japan]]", "[[studio-practice]]"]
-subjects: ["[[Making Art]]", "[[Places and Cities]]"]
+themes: ["[[Themes/video|video]]", "[[Themes/installation|installation]]", "[[Themes/japan|japan]]", "[[Themes/studio-practice|studio-practice]]"]
+subjects: ["[[Subjects/Making Art|Making Art]]", "[[Subjects/Places and Cities|Places and Cities]]"]
 type: journal-fragment
 scan: scan_1997_2_p048
 ---

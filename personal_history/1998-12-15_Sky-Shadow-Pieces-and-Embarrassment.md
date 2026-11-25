@@ -1,10 +1,10 @@
 ---
 date: 1998-12-15
 dated: estimated
-era: "[[Paris, Beaux-Arts]]"
+era: "[[Eras/Paris, Beaux-Arts|Paris, Beaux-Arts]]"
 people: []
-themes: ["[[installation]]", "[[framing]]", "[[craft]]", "[[self-criticism]]"]
-subjects: ["[[Making Art]]", "[[Perception and Space]]", "[[Self]]"]
+themes: ["[[Themes/installation|installation]]", "[[Themes/framing|framing]]", "[[Themes/craft|craft]]", "[[Themes/self-criticism|self-criticism]]"]
+subjects: ["[[Subjects/Making Art|Making Art]]", "[[Subjects/Perception and Space|Perception and Space]]", "[[Subjects/Self|Self]]"]
 type: journal-fragment
 scan: scan_1997_2_p055
 ---

@@ -1,10 +1,10 @@
 ---
 date: 2005-03-21
 dated: estimated
-era: "[[New York 2005]]"
+era: "[[Eras/New York 2005|New York 2005]]"
 people: []
-themes: ["[[installation]]", "[[mirrors]]", "[[perception]]", "[[technology]]", "[[sculpture-ideas]]"]
-subjects: ["[[Making Art]]", "[[Perception and Space]]", "[[Mind, Science and Systems]]"]
+themes: ["[[Themes/installation|installation]]", "[[Themes/mirrors|mirrors]]", "[[Themes/perception|perception]]", "[[Themes/technology|technology]]", "[[Themes/sculpture-ideas|sculpture-ideas]]"]
+subjects: ["[[Subjects/Making Art|Making Art]]", "[[Subjects/Perception and Space|Perception and Space]]", "[[Subjects/Mind, Science and Systems|Mind, Science and Systems]]"]
 type: journal-fragment
 scan: scan_1997_2_p094
 ---

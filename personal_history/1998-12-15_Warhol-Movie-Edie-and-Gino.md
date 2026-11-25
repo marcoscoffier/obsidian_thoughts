@@ -1,10 +1,10 @@
 ---
 date: 1998-12-15
 dated: estimated
-era: "[[Paris, Beaux-Arts]]"
+era: "[[Eras/Paris, Beaux-Arts|Paris, Beaux-Arts]]"
 people: [Andy Warhol, Edie Sedgwick, Gino, Samuel Beckett]
-themes: ["[[film]]", "[[internet]]", "sexuality", "[[perception]]"]
-subjects: ["[[Art Theory and the Art World]]", "[[Mind, Science and Systems]]", "[[Love and Relationships]]", "[[Perception and Space]]"]
+themes: ["[[Themes/film|film]]", "[[Themes/internet|internet]]", "sexuality", "[[Themes/perception|perception]]"]
+subjects: ["[[Subjects/Art Theory and the Art World|Art Theory and the Art World]]", "[[Subjects/Mind, Science and Systems|Mind, Science and Systems]]", "[[Subjects/Love and Relationships|Love and Relationships]]", "[[Subjects/Perception and Space|Perception and Space]]"]
 type: journal-fragment
 scan: scan_1997_2_p058
 ---

@@ -1,10 +1,10 @@
 ---
 date: 1998-12-15
 dated: estimated
-era: "[[Paris, Beaux-Arts]]"
+era: "[[Eras/Paris, Beaux-Arts|Paris, Beaux-Arts]]"
 people: [De Chirico, Giacometti, Jean Fautrier, Mark Tobey]
-themes: ["[[perception]]", "[[art-history]]", "[[knowledge]]"]
-subjects: ["[[Perception and Space]]", "[[Art Theory and the Art World]]", "[[Mind, Science and Systems]]"]
+themes: ["[[Themes/perception|perception]]", "[[Themes/art-history|art-history]]", "[[Themes/knowledge|knowledge]]"]
+subjects: ["[[Subjects/Perception and Space|Perception and Space]]", "[[Subjects/Art Theory and the Art World|Art Theory and the Art World]]", "[[Subjects/Mind, Science and Systems|Mind, Science and Systems]]"]
 type: journal-fragment
 scan: scan_1997_2_p052
 ---

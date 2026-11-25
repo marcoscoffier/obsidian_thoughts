@@ -1,10 +1,10 @@
 ---
 date: 1998-10-15
 dated: estimated
-era: "[[Paris, Beaux-Arts]]"
+era: "[[Eras/Japan|Japan]]"
 people: []
-themes: ["[[sculpture-ideas]]", "[[engineering]]", "[[japan]]"]
-subjects: ["[[Making Art]]", "[[Mind, Science and Systems]]", "[[Places and Cities]]"]
+themes: ["[[Themes/sculpture-ideas|sculpture-ideas]]", "[[Themes/engineering|engineering]]", "[[Themes/japan|japan]]"]
+subjects: ["[[Subjects/Making Art|Making Art]]", "[[Subjects/Mind, Science and Systems|Mind, Science and Systems]]", "[[Subjects/Places and Cities|Places and Cities]]"]
 type: visual-record
 scan: scan_1997_2_p010
 ---

@@ -1,10 +1,10 @@
 ---
 date: 1995-04-11
 dated: estimated
-era: "[[Final Semester Yale 1995]]"
+era: "[[Eras/Final Semester Yale 1995|Final Semester Yale 1995]]"
 people: []
-themes: ["[[photography]]", "[[sculpture-ideas]]", "[[project-list]]"]
-subjects: ["[[Making Art]]"]
+themes: ["[[Themes/photography|photography]]", "[[Themes/sculpture-ideas|sculpture-ideas]]", "[[Themes/project-list|project-list]]"]
+subjects: ["[[Subjects/Making Art|Making Art]]"]
 type: visual-record
 scan: scan_1995_p072
 ---

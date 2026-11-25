@@ -1,9 +1,9 @@
 ---
 date: 1994-07-29
-era: "[[Summer 1994, Travel and Alps]]"
+era: "[[Eras/Summer 1994, Travel and Alps|Summer 1994, Travel and Alps]]"
 people: [Papa]
-themes: ["[[french]]", "[[metaphor]]", "[[language]]", "[[family]]"]
-subjects: ["[[Language and Literature]]", "[[Family]]"]
+themes: ["[[Themes/french|french]]", "[[Themes/metaphor|metaphor]]", "[[Themes/language|language]]", "[[Themes/family|family]]"]
+subjects: ["[[Subjects/Language and Literature|Language and Literature]]", "[[Subjects/Family|Family]]"]
 type: journal-fragment
 notebook_page: 89
 scan: scan_1994_2_p018

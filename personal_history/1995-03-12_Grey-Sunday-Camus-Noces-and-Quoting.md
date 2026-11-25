@@ -1,9 +1,9 @@
 ---
 date: 1995-03-12
-era: "[[Final Semester Yale 1995]]"
+era: "[[Eras/Final Semester Yale 1995|Final Semester Yale 1995]]"
 people: [Lois Conner, Camus, Bunyan, Merleau-Ponty]
-themes: ["[[space]]", "[[literature]]", "quoting", "[[french]]", "[[installation]]"]
-subjects: ["[[Perception and Space]]", "[[Language and Literature]]", "[[Making Art]]"]
+themes: ["[[Themes/space|space]]", "[[Themes/literature|literature]]", "quoting", "[[Themes/french|french]]", "[[Themes/installation|installation]]"]
+subjects: ["[[Subjects/Perception and Space|Perception and Space]]", "[[Subjects/Language and Literature|Language and Literature]]", "[[Subjects/Making Art|Making Art]]"]
 type: journal-fragment
 scan: [scan_1995_p049, scan_1995_p050]
 ---

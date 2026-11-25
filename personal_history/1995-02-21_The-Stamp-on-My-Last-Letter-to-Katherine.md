@@ -1,9 +1,9 @@
 ---
 date: 1995-02-21
-era: "[[Final Semester Yale 1995]]"
+era: "[[Eras/Final Semester Yale 1995|Final Semester Yale 1995]]"
 people: [Katherine]
-themes: ["[[katherine]]", "[[letters]]", "[[marriage-distance]]", "[[memory]]"]
-subjects: ["[[Love and Relationships]]", "[[Self]]"]
+themes: ["[[Themes/katherine|katherine]]", "[[Themes/letters|letters]]", "[[Themes/marriage-distance|marriage-distance]]", "[[Themes/memory|memory]]"]
+subjects: ["[[Subjects/Love and Relationships|Love and Relationships]]", "[[Subjects/Self|Self]]"]
 type: journal-fragment
 scan: scan_1995_p039
 ---

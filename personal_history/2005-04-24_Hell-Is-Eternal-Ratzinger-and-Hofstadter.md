@@ -1,10 +1,10 @@
 ---
 date: 2005-04-24
 dated: estimated
-era: "[[New York 2005]]"
+era: "[[Eras/New York 2005|New York 2005]]"
 people: [Joseph Ratzinger, Douglas Hofstadter]
-themes: ["[[religion]]", "[[cognition]]", "[[metaphor]]", "[[mortality]]"]
-subjects: ["[[Self]]", "[[Mind, Science and Systems]]", "[[Language and Literature]]"]
+themes: ["[[Themes/religion|religion]]", "[[Themes/cognition|cognition]]", "[[Themes/metaphor|metaphor]]", "[[Themes/mortality|mortality]]"]
+subjects: ["[[Subjects/Self|Self]]", "[[Subjects/Mind, Science and Systems|Mind, Science and Systems]]", "[[Subjects/Language and Literature|Language and Literature]]"]
 type: journal-fragment
 scan: scan_1997_2_p097
 ---

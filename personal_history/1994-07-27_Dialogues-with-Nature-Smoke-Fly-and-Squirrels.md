@@ -1,9 +1,9 @@
 ---
 date: 1994-07-27
-era: "[[Yale, New Haven]]"
+era: "[[Eras/Yale, New Haven|Yale, New Haven]]"
 people: [Antonín Dvořák]
-themes: ["[[nature]]", "[[music]]", "[[synchronicity]]", "[[yale]]", "saybrook", "[[perception]]"]
-subjects: ["[[Places and Cities]]", "[[Sound and Music]]", "[[Self]]", "[[Perception and Space]]"]
+themes: ["[[Themes/nature|nature]]", "[[Themes/music|music]]", "[[Themes/synchronicity|synchronicity]]", "[[Themes/yale|yale]]", "saybrook", "[[Themes/perception|perception]]"]
+subjects: ["[[Subjects/Places and Cities|Places and Cities]]", "[[Subjects/Sound and Music|Sound and Music]]", "[[Subjects/Self|Self]]", "[[Subjects/Perception and Space|Perception and Space]]"]
 type: journal-fragment
 notebook_page: 80
 scan: [scan_1994_2_p004, scan_1994_2_p005]

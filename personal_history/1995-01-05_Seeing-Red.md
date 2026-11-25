@@ -1,10 +1,10 @@
 ---
 date: 1995-01-05
 dated: estimated
-era: "[[Final Semester Yale 1995]]"
+era: "[[Eras/Final Semester Yale 1995|Final Semester Yale 1995]]"
 people: []
-themes: ["[[film]]", "[[synchronicity]]", "symbols"]
-subjects: ["[[Art Theory and the Art World]]", "[[Self]]", "[[Language and Literature]]"]
+themes: ["[[Themes/film|film]]", "[[Themes/synchronicity|synchronicity]]", "symbols"]
+subjects: ["[[Subjects/Art Theory and the Art World|Art Theory and the Art World]]", "[[Subjects/Self|Self]]", "[[Subjects/Language and Literature|Language and Literature]]"]
 type: journal-fragment
 scan: scan_1995_p005
 ---

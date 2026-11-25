@@ -1,10 +1,10 @@
 ---
 date: 1995-02-12
 dated: estimated
-era: "[[Final Semester Yale 1995]]"
+era: "[[Eras/Final Semester Yale 1995|Final Semester Yale 1995]]"
 people: [Shakespeare, John Ashbery]
-themes: ["[[self-criticism]]", "[[poetry]]", "[[language]]"]
-subjects: ["[[Self]]", "[[Language and Literature]]"]
+themes: ["[[Themes/self-criticism|self-criticism]]", "[[Themes/poetry|poetry]]", "[[Themes/language|language]]"]
+subjects: ["[[Subjects/Self|Self]]", "[[Subjects/Language and Literature|Language and Literature]]"]
 type: journal-fragment
 scan: scan_1995_p037
 ---

@@ -1,9 +1,9 @@
 ---
 date: 1994-08-01
-era: "[[Summer 1994, Travel and Alps]]"
+era: "[[Eras/Summer 1994, Travel and Alps|Summer 1994, Travel and Alps]]"
 people: []
-themes: ["[[gestalt]]", "boundaries", "[[installation]]", "[[perspective]]", "projection"]
-subjects: ["[[Perception and Space]]", "[[Self]]", "[[Making Art]]"]
+themes: ["[[Themes/gestalt|gestalt]]", "boundaries", "[[Themes/installation|installation]]", "[[Themes/perspective|perspective]]", "projection"]
+subjects: ["[[Subjects/Perception and Space|Perception and Space]]", "[[Subjects/Self|Self]]", "[[Subjects/Making Art|Making Art]]"]
 type: journal-fragment
 notebook_page: 95
 scan: scan_1994_2_p033

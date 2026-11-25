@@ -1,10 +1,10 @@
 ---
 date: 1998-10-15
 dated: estimated
-era: "[[Paris, Beaux-Arts]]"
+era: "[[Eras/Japan|Japan]]"
 people: [Marie]
-themes: ["transparency", "[[photography]]", "[[sound-art]]", "[[technology]]"]
-subjects: ["[[Perception and Space]]", "[[Making Art]]", "[[Sound and Music]]", "[[Mind, Science and Systems]]"]
+themes: ["transparency", "[[Themes/photography|photography]]", "[[Themes/sound-art|sound-art]]", "[[Themes/technology|technology]]"]
+subjects: ["[[Subjects/Perception and Space|Perception and Space]]", "[[Subjects/Making Art|Making Art]]", "[[Subjects/Sound and Music|Sound and Music]]", "[[Subjects/Mind, Science and Systems|Mind, Science and Systems]]"]
 type: journal-fragment
 scan: scan_1997_2_p027
 ---

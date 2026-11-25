@@ -1,9 +1,9 @@
 ---
 date: 1995-01-16
-era: "[[Final Semester Yale 1995]]"
+era: "[[Eras/Final Semester Yale 1995|Final Semester Yale 1995]]"
 people: [Thomas Kuhn, Aristotle, Mondrian, Koons, Clive Bell, Ruskin, Benjamin, Michelangelo, Newman, Tolstoy, Duchamp, Kandinsky, Braque, Picasso, Monet, Boccioni, Cézanne, Ron Jones, Cage]
-themes: ["[[art-theory]]", "[[coursework]]", "[[aesthetics]]", "[[modernism]]"]
-subjects: ["[[Art Theory and the Art World]]"]
+themes: ["[[Themes/art-theory|art-theory]]", "[[Themes/coursework|coursework]]", "[[Themes/aesthetics|aesthetics]]", "[[Themes/modernism|modernism]]"]
+subjects: ["[[Subjects/Art Theory and the Art World|Art Theory and the Art World]]"]
 type: class-notes
 scan: [scan_1995_p015, scan_1995_p016, scan_1995_p017]
 ---

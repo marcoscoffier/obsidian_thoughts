@@ -1,9 +1,9 @@
 ---
 date: 1994-07-22
-era: "[[Yale, New Haven]]"
+era: "[[Eras/Yale, New Haven|Yale, New Haven]]"
 people: [Michael Heizer, Walter De Maria, James Turrell, Count Panza, Italo Calvino]
-themes: ["[[land-art]]", "[[landscape]]", "[[photography]]", "[[memory]]"]
-subjects: ["[[Making Art]]", "[[Places and Cities]]", "[[Self]]"]
+themes: ["[[Themes/land-art|land-art]]", "[[Themes/landscape|landscape]]", "[[Themes/photography|photography]]", "[[Themes/memory|memory]]"]
+subjects: ["[[Subjects/Making Art|Making Art]]", "[[Subjects/Places and Cities|Places and Cities]]", "[[Subjects/Self|Self]]"]
 type: journal-fragment
 notebook_page: 74
 scan: [scan_1994_1_p129, scan_1994_1_p130]

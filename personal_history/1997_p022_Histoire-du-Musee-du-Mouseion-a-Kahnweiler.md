@@ -1,6 +1,6 @@
 ---
 date: 1997
-era: "[[Paris, Beaux-Arts]]"
+era: "[[Eras/Paris, Beaux-Arts|Paris, Beaux-Arts]]"
 people:
   - Strabon
   - Ptolémée
@@ -26,8 +26,8 @@ people:
   - Daniel-Henry Kahnweiler
   - Guillaume Apollinaire
   - Paul Guillaume
-themes: ["museums", "collecting", "[[art-history]]", "[[french]]", "[[coursework]]"]
-subjects: ["[[Art Theory and the Art World]]", "[[Language and Literature]]"]
+themes: ["museums", "collecting", "[[Themes/art-history|art-history]]", "[[Themes/french|french]]", "[[Themes/coursework|coursework]]"]
+subjects: ["[[Subjects/Art Theory and the Art World|Art Theory and the Art World]]", "[[Subjects/Language and Literature|Language and Literature]]"]
 type: class-notes
 scan:
   - scan_1997_p022

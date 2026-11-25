@@ -1,9 +1,9 @@
 ---
 date: 2026-11-04
-era: "[[Present, Therapy Notes]]"
+era: "[[Eras/Present, Therapy Notes|Present, Therapy Notes]]"
 people: []
-themes: ["[[therapy]]", "shame", "[[gender]]", "emotional-hunger"]
-subjects: ["[[Self]]"]
+themes: ["[[Themes/therapy|therapy]]", "shame", "[[Themes/gender|gender]]", "emotional-hunger"]
+subjects: ["[[Subjects/Self|Self]]"]
 type: journal-fragment
 ---
 

@@ -1,9 +1,9 @@
 ---
 date: 1994-07-28
-era: "[[Yale, New Haven]]"
+era: "[[Eras/Yale, New Haven|Yale, New Haven]]"
 people: [John Hollander, Harold Bloom, James Merrill, John Ashbery, Frank Auerbach, James Joyce, Umberto Eco]
-themes: ["writing-anxiety", "[[poetry]]", "[[art-theory]]", "yale-library", "[[knowledge]]"]
-subjects: ["[[Language and Literature]]", "[[Art Theory and the Art World]]", "[[Places and Cities]]", "[[Mind, Science and Systems]]"]
+themes: ["writing-anxiety", "[[Themes/poetry|poetry]]", "[[Themes/art-theory|art-theory]]", "yale-library", "[[Themes/knowledge|knowledge]]"]
+subjects: ["[[Subjects/Language and Literature|Language and Literature]]", "[[Subjects/Art Theory and the Art World|Art Theory and the Art World]]", "[[Subjects/Places and Cities|Places and Cities]]", "[[Subjects/Mind, Science and Systems|Mind, Science and Systems]]"]
 type: journal-fragment
 scan: scan_1994_2_p013
 ---

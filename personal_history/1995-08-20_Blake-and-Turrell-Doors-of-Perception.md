@@ -1,10 +1,10 @@
 ---
 date: 1995-08-20
 dated: estimated
-era: "[[DC, Post-College]]"
+era: "[[Eras/DC, Post-College|DC, Post-College]]"
 people: [William Blake, Turrell, Robert Irwin, Edward Wortz, Meinel, E. C. Krupp, Duchamp]
-themes: ["[[perception]]", "[[turrell]]", "[[reading-list]]", "[[sky]]"]
-subjects: ["[[Perception and Space]]", "[[Language and Literature]]"]
+themes: ["[[Themes/perception|perception]]", "[[Themes/turrell|turrell]]", "[[Themes/reading-list|reading-list]]", "[[Themes/sky|sky]]"]
+subjects: ["[[Subjects/Perception and Space|Perception and Space]]", "[[Subjects/Language and Literature|Language and Literature]]"]
 type: journal-fragment
 scan: scan_1995_p093
 ---

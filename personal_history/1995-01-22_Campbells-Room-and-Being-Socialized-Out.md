@@ -1,10 +1,10 @@
 ---
 date: 1995-01-22
 dated: estimated
-era: "[[Final Semester Yale 1995]]"
+era: "[[Eras/Final Semester Yale 1995|Final Semester Yale 1995]]"
 people: [Campbell, Katherine]
-themes: ["[[language]]", "[[friendship]]", "[[yale-culture]]", "[[identity]]", "painting-practice"]
-subjects: ["[[Language and Literature]]", "[[Love and Relationships]]", "[[Places and Cities]]", "[[Self]]", "[[Making Art]]"]
+themes: ["[[Themes/language|language]]", "[[Themes/friendship|friendship]]", "[[Themes/yale-culture|yale-culture]]", "[[Themes/identity|identity]]", "painting-practice"]
+subjects: ["[[Subjects/Language and Literature|Language and Literature]]", "[[Subjects/Love and Relationships|Love and Relationships]]", "[[Subjects/Places and Cities|Places and Cities]]", "[[Subjects/Self|Self]]", "[[Subjects/Making Art|Making Art]]"]
 type: journal-fragment
 scan: [scan_1995_p019, scan_1995_p020]
 ---

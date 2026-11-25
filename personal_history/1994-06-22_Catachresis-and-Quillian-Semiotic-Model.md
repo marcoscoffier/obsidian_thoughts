@@ -1,9 +1,9 @@
 ---
 date: 1994-06-22
-era: "[[Yale, New Haven]]"
+era: "[[Eras/Yale, New Haven|Yale, New Haven]]"
 people: [Umberto Eco]
-themes: ["[[semiotics]]", "metaphor-and-metonymy", "writing-criticism"]
-subjects: ["[[Language and Literature]]"]
+themes: ["[[Themes/semiotics|semiotics]]", "metaphor-and-metonymy", "writing-criticism"]
+subjects: ["[[Subjects/Language and Literature|Language and Literature]]"]
 type: journal-fragment
 notebook_page: 39
 scan: photo-Screenshot_2026-11-18_at_10.27.18_AM

@@ -1,9 +1,9 @@
 ---
 date: 2026-10-07
-era: "[[Present, Therapy Notes]]"
+era: "[[Eras/Present, Therapy Notes|Present, Therapy Notes]]"
 people: [Miwa]
-themes: ["[[therapy]]", "[[marriage-crisis]]", "emotional-distance"]
-subjects: ["[[Self]]", "[[Love and Relationships]]"]
+themes: ["[[Themes/therapy|therapy]]", "[[Themes/marriage-crisis|marriage-crisis]]", "emotional-distance"]
+subjects: ["[[Subjects/Self|Self]]", "[[Subjects/Love and Relationships|Love and Relationships]]"]
 type: journal-fragment
 ---
 

@@ -1,9 +1,9 @@
 ---
 date: 1994-08-01
-era: "[[Summer 1994, Travel and Alps]]"
+era: "[[Eras/Summer 1994, Travel and Alps|Summer 1994, Travel and Alps]]"
 people: [John Hull]
-themes: ["dream", "acceptance", "secret-work", "[[painting]]", "[[vocation]]"]
-subjects: ["[[Self]]", "[[Love and Relationships]]", "[[Making Art]]"]
+themes: ["dream", "acceptance", "secret-work", "[[Themes/painting|painting]]", "[[Themes/vocation|vocation]]"]
+subjects: ["[[Subjects/Self|Self]]", "[[Subjects/Love and Relationships|Love and Relationships]]", "[[Subjects/Making Art|Making Art]]"]
 type: journal-fragment
 notebook_page: 95
 scan: scan_1994_2_p033

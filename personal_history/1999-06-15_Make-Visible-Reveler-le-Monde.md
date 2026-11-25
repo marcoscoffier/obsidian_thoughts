@@ -1,10 +1,10 @@
 ---
 date: 1999-06-15
 dated: estimated
-era: "[[Paris, Beaux-Arts]]"
+era: "[[Eras/Paris, Beaux-Arts|Paris, Beaux-Arts]]"
 people: [Turrell, George J. Leonard]
-themes: ["[[cognition]]", "[[art-theory]]", "[[french]]", "[[project-list]]"]
-subjects: ["[[Mind, Science and Systems]]", "[[Art Theory and the Art World]]", "[[Language and Literature]]", "[[Making Art]]"]
+themes: ["[[Themes/cognition|cognition]]", "[[Themes/art-theory|art-theory]]", "[[Themes/french|french]]", "[[Themes/project-list|project-list]]"]
+subjects: ["[[Subjects/Mind, Science and Systems|Mind, Science and Systems]]", "[[Subjects/Art Theory and the Art World|Art Theory and the Art World]]", "[[Subjects/Language and Literature|Language and Literature]]", "[[Subjects/Making Art|Making Art]]"]
 type: journal-fragment
 scan: scan_1997_2_p071
 ---

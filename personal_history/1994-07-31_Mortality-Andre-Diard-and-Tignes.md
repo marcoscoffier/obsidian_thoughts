@@ -1,9 +1,9 @@
 ---
 date: 1994-07-31
-era: "[[Summer 1994, Travel and Alps]]"
+era: "[[Eras/Summer 1994, Travel and Alps|Summer 1994, Travel and Alps]]"
 people: [André Diard, Richie, Laurent, Mr. Pèremezelle, Mom]
-themes: ["[[mortality]]", "[[memory]]", "[[tignes]]", "childhood-summers", "[[flight]]"]
-subjects: ["[[Self]]", "[[Places and Cities]]", "[[Family]]"]
+themes: ["[[Themes/mortality|mortality]]", "[[Themes/memory|memory]]", "[[Themes/tignes|tignes]]", "childhood-summers", "[[Themes/flight|flight]]"]
+subjects: ["[[Subjects/Self|Self]]", "[[Subjects/Places and Cities|Places and Cities]]", "[[Subjects/Family|Family]]"]
 type: journal-fragment
 scan: photo-Screenshot_2026-11-18_at_10.26.11_AM
 ---

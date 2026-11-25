@@ -1,10 +1,10 @@
 ---
 date: 1995-02-05
 dated: estimated
-era: "[[Final Semester Yale 1995]]"
+era: "[[Eras/Final Semester Yale 1995|Final Semester Yale 1995]]"
 people: [Van Altima]
-themes: ["[[installation]]", "[[sculpture-ideas]]", "[[mirrors]]", "[[sky]]"]
-subjects: ["[[Making Art]]", "[[Perception and Space]]"]
+themes: ["[[Themes/installation|installation]]", "[[Themes/sculpture-ideas|sculpture-ideas]]", "[[Themes/mirrors|mirrors]]", "[[Themes/sky|sky]]"]
+subjects: ["[[Subjects/Making Art|Making Art]]", "[[Subjects/Perception and Space|Perception and Space]]"]
 type: visual-record
 scan: scan_1995_p029
 ---

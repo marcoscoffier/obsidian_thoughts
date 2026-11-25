@@ -1,10 +1,10 @@
 ---
 date: 1995-02-27
 dated: estimated
-era: "[[Final Semester Yale 1995]]"
+era: "[[Eras/Final Semester Yale 1995|Final Semester Yale 1995]]"
 people: [Ron Jones]
-themes: ["[[installation]]", "[[sculpture-ideas]]", "[[light]]", "[[color-theory]]"]
-subjects: ["[[Making Art]]", "[[Perception and Space]]"]
+themes: ["[[Themes/installation|installation]]", "[[Themes/sculpture-ideas|sculpture-ideas]]", "[[Themes/light|light]]", "[[Themes/color-theory|color-theory]]"]
+subjects: ["[[Subjects/Making Art|Making Art]]", "[[Subjects/Perception and Space|Perception and Space]]"]
 type: visual-record
 scan: scan_1995_p040
 ---

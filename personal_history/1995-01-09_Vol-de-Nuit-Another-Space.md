@@ -1,9 +1,9 @@
 ---
 date: 1995-01-09
-era: "[[Final Semester Yale 1995]]"
+era: "[[Eras/Final Semester Yale 1995|Final Semester Yale 1995]]"
 people: [Saint-Exupéry, Fabien]
-themes: ["[[french]]", "[[flight]]", "[[tignes]]", "[[light]]", "[[literature]]"]
-subjects: ["[[Language and Literature]]", "[[Places and Cities]]", "[[Perception and Space]]"]
+themes: ["[[Themes/french|french]]", "[[Themes/flight|flight]]", "[[Themes/tignes|tignes]]", "[[Themes/light|light]]", "[[Themes/literature|literature]]"]
+subjects: ["[[Subjects/Language and Literature|Language and Literature]]", "[[Subjects/Places and Cities|Places and Cities]]", "[[Subjects/Perception and Space|Perception and Space]]"]
 type: journal-fragment
 scan: [scan_1995_p008, scan_1995_p009]
 ---

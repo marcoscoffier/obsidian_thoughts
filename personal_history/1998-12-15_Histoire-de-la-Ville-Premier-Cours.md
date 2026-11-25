@@ -1,10 +1,10 @@
 ---
 date: 1998-12-15
 dated: estimated
-era: "[[Paris, Beaux-Arts]]"
+era: "[[Eras/Paris, Beaux-Arts|Paris, Beaux-Arts]]"
 people: [Le Corbusier, Haussmann]
-themes: ["[[french]]", "[[urbanism]]", "[[coursework]]", "[[architecture]]"]
-subjects: ["[[Language and Literature]]", "[[Places and Cities]]", "[[Art Theory and the Art World]]"]
+themes: ["[[Themes/french|french]]", "[[Themes/urbanism|urbanism]]", "[[Themes/coursework|coursework]]", "[[Themes/architecture|architecture]]"]
+subjects: ["[[Subjects/Language and Literature|Language and Literature]]", "[[Subjects/Places and Cities|Places and Cities]]", "[[Subjects/Art Theory and the Art World|Art Theory and the Art World]]"]
 type: class-notes
 scan: scan_1997_2_p066
 ---

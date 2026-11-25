@@ -1,9 +1,9 @@
 ---
 date: 1994-07-29
-era: "[[Summer 1994, Travel and Alps]]"
+era: "[[Eras/Summer 1994, Travel and Alps|Summer 1994, Travel and Alps]]"
 people: [John Hollander, Richard Diebenkorn, Katherine, James Turrell, Frank Stella, Anselm Kiefer, Mark Rothko, Clyfford Still, Barnett Newman, Robert Wilson]
-themes: ["[[flight]]", "[[clouds]]", "diebenkorn", "[[turrell]]", "flatness", "abstraction"]
-subjects: ["[[Places and Cities]]", "[[Perception and Space]]", "[[Art Theory and the Art World]]"]
+themes: ["[[Themes/flight|flight]]", "[[Themes/clouds|clouds]]", "diebenkorn", "[[Themes/turrell|turrell]]", "flatness", "abstraction"]
+subjects: ["[[Subjects/Places and Cities|Places and Cities]]", "[[Subjects/Perception and Space|Perception and Space]]", "[[Subjects/Art Theory and the Art World|Art Theory and the Art World]]"]
 type: journal-fragment
 notebook_page: 88
 scan: [scan_1994_2_p019, scan_1994_2_p020, scan_1994_2_p021]

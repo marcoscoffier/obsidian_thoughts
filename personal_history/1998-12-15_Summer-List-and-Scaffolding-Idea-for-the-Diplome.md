@@ -1,10 +1,10 @@
 ---
 date: 1998-12-15
 dated: estimated
-era: "[[Paris, Beaux-Arts]]"
+era: "[[Eras/Paris, Beaux-Arts|Paris, Beaux-Arts]]"
 people: [Miwa, Akemi]
-themes: ["[[project-list]]", "[[travel]]", "[[studio-practice]]", "[[japan]]"]
-subjects: ["[[Making Art]]", "[[Places and Cities]]"]
+themes: ["[[Themes/project-list|project-list]]", "[[Themes/travel|travel]]", "[[Themes/studio-practice|studio-practice]]", "[[Themes/japan|japan]]"]
+subjects: ["[[Subjects/Making Art|Making Art]]", "[[Subjects/Places and Cities|Places and Cities]]"]
 type: journal-fragment
 scan: scan_1997_2_p049
 ---

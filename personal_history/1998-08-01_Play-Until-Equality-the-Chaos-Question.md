@@ -1,10 +1,10 @@
 ---
 date: 1998-08-01
 dated: estimated
-era: "[[Paris, Beaux-Arts]]"
+era: "[[Eras/Paris, Beaux-Arts|Paris, Beaux-Arts]]"
 people: []
-themes: ["[[play]]", "[[systems]]", "mathematics"]
-subjects: ["[[Mind, Science and Systems]]"]
+themes: ["[[Themes/play|play]]", "[[Themes/systems|systems]]", "mathematics"]
+subjects: ["[[Subjects/Mind, Science and Systems|Mind, Science and Systems]]"]
 type: journal-fragment
 scan: scan_1997_2_p004
 ---

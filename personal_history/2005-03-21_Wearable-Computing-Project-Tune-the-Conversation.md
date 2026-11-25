@@ -1,10 +1,10 @@
 ---
 date: 2005-03-21
 dated: estimated
-era: "[[New York 2005]]"
+era: "[[Eras/New York 2005|New York 2005]]"
 people: []
-themes: ["[[technology]]", "[[communication]]", "[[internet]]", "[[city]]"]
-subjects: ["[[Mind, Science and Systems]]", "[[Language and Literature]]", "[[Places and Cities]]"]
+themes: ["[[Themes/technology|technology]]", "[[Themes/communication|communication]]", "[[Themes/internet|internet]]", "[[Themes/city|city]]"]
+subjects: ["[[Subjects/Mind, Science and Systems|Mind, Science and Systems]]", "[[Subjects/Language and Literature|Language and Literature]]", "[[Subjects/Places and Cities|Places and Cities]]"]
 type: journal-fragment
 scan: scan_1997_2_p090
 ---

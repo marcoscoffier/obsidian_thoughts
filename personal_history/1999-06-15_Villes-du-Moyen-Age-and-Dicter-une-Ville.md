@@ -1,10 +1,10 @@
 ---
 date: 1999-06-15
 dated: estimated
-era: "[[Paris, Beaux-Arts]]"
+era: "[[Eras/Paris, Beaux-Arts|Paris, Beaux-Arts]]"
 people: [Henri Pirenne]
-themes: ["[[french]]", "[[urbanism]]", "[[coursework]]", "[[systems]]"]
-subjects: ["[[Language and Literature]]", "[[Places and Cities]]", "[[Art Theory and the Art World]]", "[[Mind, Science and Systems]]"]
+themes: ["[[Themes/french|french]]", "[[Themes/urbanism|urbanism]]", "[[Themes/coursework|coursework]]", "[[Themes/systems|systems]]"]
+subjects: ["[[Subjects/Language and Literature|Language and Literature]]", "[[Subjects/Places and Cities|Places and Cities]]", "[[Subjects/Art Theory and the Art World|Art Theory and the Art World]]", "[[Subjects/Mind, Science and Systems|Mind, Science and Systems]]"]
 type: class-notes
 scan: scan_1997_2_p070
 ---

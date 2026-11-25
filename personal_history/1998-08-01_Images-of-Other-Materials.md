@@ -1,10 +1,10 @@
 ---
 date: 1998-08-01
 dated: estimated
-era: "[[Paris, Beaux-Arts]]"
+era: "[[Eras/Paris, Beaux-Arts|Paris, Beaux-Arts]]"
 people: []
-themes: ["[[materiality]]", "[[sculpture-ideas]]", "[[project-list]]"]
-subjects: ["[[Making Art]]"]
+themes: ["[[Themes/materiality|materiality]]", "[[Themes/sculpture-ideas|sculpture-ideas]]", "[[Themes/project-list|project-list]]"]
+subjects: ["[[Subjects/Making Art|Making Art]]"]
 type: journal-fragment
 scan: scan_1997_2_p005
 ---

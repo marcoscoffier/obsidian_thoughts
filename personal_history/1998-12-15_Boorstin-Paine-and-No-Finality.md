@@ -1,10 +1,10 @@
 ---
 date: 1998-12-15
 dated: estimated
-era: "[[Paris, Beaux-Arts]]"
+era: "[[Eras/Paris, Beaux-Arts|Paris, Beaux-Arts]]"
 people: [Daniel Boorstin, Thomas Paine, Bill Clinton]
-themes: ["[[reading]]", "[[television]]", "[[perception]]", "[[history]]"]
-subjects: ["[[Language and Literature]]", "[[Art Theory and the Art World]]", "[[Perception and Space]]"]
+themes: ["[[Themes/reading|reading]]", "[[Themes/television|television]]", "[[Themes/perception|perception]]", "[[Themes/history|history]]"]
+subjects: ["[[Subjects/Language and Literature|Language and Literature]]", "[[Subjects/Art Theory and the Art World|Art Theory and the Art World]]", "[[Subjects/Perception and Space|Perception and Space]]"]
 type: journal-fragment
 scan: scan_1997_2_p031
 ---

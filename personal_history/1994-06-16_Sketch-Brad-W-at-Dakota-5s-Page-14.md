@@ -1,9 +1,9 @@
 ---
 date: 1994-06-16
-era: "[[Yale, New Haven]]"
+era: "[[Eras/Yale, New Haven|Yale, New Haven]]"
 people: [Brad W.]
-themes: ["sketchbook", "[[observation]]", "social-life"]
-subjects: ["[[Making Art]]", "[[Perception and Space]]", "[[Love and Relationships]]"]
+themes: ["sketchbook", "[[Themes/observation|observation]]", "social-life"]
+subjects: ["[[Subjects/Making Art|Making Art]]", "[[Subjects/Perception and Space|Perception and Space]]", "[[Subjects/Love and Relationships|Love and Relationships]]"]
 type: visual-record
 notebook_page: 14
 scan: scan_1994_1_p024

@@ -1,9 +1,9 @@
 ---
 date: 1995-06-01
-era: "[[DC, Post-College]]"
+era: "[[Eras/DC, Post-College|DC, Post-College]]"
 people: []
-themes: ["[[writing-process]]", "indexing", "[[memory]]", "raw-thoughts"]
-subjects: ["[[Language and Literature]]", "[[Self]]"]
+themes: ["[[Themes/writing-process|writing-process]]", "indexing", "[[Themes/memory|memory]]", "raw-thoughts"]
+subjects: ["[[Subjects/Language and Literature|Language and Literature]]", "[[Subjects/Self|Self]]"]
 type: journal-fragment
 scan: scan_1994_1_p002
 ---

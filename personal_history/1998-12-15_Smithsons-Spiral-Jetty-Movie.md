@@ -1,10 +1,10 @@
 ---
 date: 1998-12-15
 dated: estimated
-era: "[[Paris, Beaux-Arts]]"
+era: "[[Eras/Paris, Beaux-Arts|Paris, Beaux-Arts]]"
 people: [Robert Smithson, Akemi]
-themes: ["[[land-art]]", "[[film]]", "[[video]]", "[[japan]]"]
-subjects: ["[[Making Art]]", "[[Art Theory and the Art World]]", "[[Places and Cities]]"]
+themes: ["[[Themes/land-art|land-art]]", "[[Themes/film|film]]", "[[Themes/video|video]]", "[[Themes/japan|japan]]"]
+subjects: ["[[Subjects/Making Art|Making Art]]", "[[Subjects/Art Theory and the Art World|Art Theory and the Art World]]", "[[Subjects/Places and Cities|Places and Cities]]"]
 type: journal-fragment
 scan: scan_1997_2_p066
 ---

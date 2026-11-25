@@ -1,9 +1,9 @@
 ---
 date: 1997
-era: "[[Paris, Beaux-Arts]]"
+era: "[[Eras/Paris, Beaux-Arts|Paris, Beaux-Arts]]"
 people: [Walt Whitman]
-themes: ["[[sound]]", "recording", "[[photography]]", "[[project-list]]"]
-subjects: ["[[Sound and Music]]", "[[Making Art]]"]
+themes: ["[[Themes/sound|sound]]", "recording", "[[Themes/photography|photography]]", "[[Themes/project-list|project-list]]"]
+subjects: ["[[Subjects/Sound and Music|Sound and Music]]", "[[Subjects/Making Art|Making Art]]"]
 type: journal-fragment
 scan: scan_1997_p013
 ---

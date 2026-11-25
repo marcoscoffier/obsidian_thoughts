@@ -1,10 +1,10 @@
 ---
 date: 1999-06-15
 dated: estimated
-era: "[[Paris, Beaux-Arts]]"
+era: "[[Eras/Paris, Beaux-Arts|Paris, Beaux-Arts]]"
 people: [John Cage, Niels Bohr]
-themes: ["[[ambition]]", "[[epistemology]]", "[[sound]]", "[[illusion]]"]
-subjects: ["[[Self]]", "[[Mind, Science and Systems]]", "[[Sound and Music]]", "[[Perception and Space]]"]
+themes: ["[[Themes/ambition|ambition]]", "[[Themes/epistemology|epistemology]]", "[[Themes/sound|sound]]", "[[Themes/illusion|illusion]]"]
+subjects: ["[[Subjects/Self|Self]]", "[[Subjects/Mind, Science and Systems|Mind, Science and Systems]]", "[[Subjects/Sound and Music|Sound and Music]]", "[[Subjects/Perception and Space|Perception and Space]]"]
 type: journal-fragment
 scan: scan_1997_2_p074
 ---

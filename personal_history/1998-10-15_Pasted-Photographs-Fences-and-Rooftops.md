@@ -1,10 +1,10 @@
 ---
 date: 1998-10-15
 dated: estimated
-era: "[[Japan]]"
+era: "[[Eras/Japan|Japan]]"
 people: []
-themes: ["[[photography]]", "[[japan]]", "[[city]]", "[[collage]]"]
-subjects: ["[[Making Art]]", "[[Places and Cities]]"]
+themes: ["[[Themes/photography|photography]]", "[[Themes/japan|japan]]", "[[Themes/city|city]]", "[[Themes/collage|collage]]"]
+subjects: ["[[Subjects/Making Art|Making Art]]", "[[Subjects/Places and Cities|Places and Cities]]"]
 type: visual-record
 scan: [scan_1997_2_p019, scan_1997_2_p020, scan_1997_2_p021, scan_1997_2_p022]
 ---

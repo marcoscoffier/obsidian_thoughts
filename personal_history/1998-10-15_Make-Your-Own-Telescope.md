@@ -1,10 +1,10 @@
 ---
 date: 1998-10-15
 dated: estimated
-era: "[[Paris, Beaux-Arts]]"
+era: "[[Eras/Japan|Japan]]"
 people: []
-themes: ["[[sky]]", "[[project-list]]"]
-subjects: ["[[Perception and Space]]", "[[Making Art]]"]
+themes: ["[[Themes/sky|sky]]", "[[Themes/project-list|project-list]]"]
+subjects: ["[[Subjects/Perception and Space|Perception and Space]]", "[[Subjects/Making Art|Making Art]]"]
 type: journal-fragment
 scan: scan_1997_2_p007
 ---

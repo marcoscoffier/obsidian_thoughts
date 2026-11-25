@@ -1,9 +1,9 @@
 ---
 date: 1994-08-04
-era: "[[Summer 1994, Travel and Alps]]"
+era: "[[Eras/Summer 1994, Travel and Alps|Summer 1994, Travel and Alps]]"
 people: []
-themes: ["secrecy", "sexuality", "stolen-journal", "[[french]]", "self-reflection"]
-subjects: ["[[Love and Relationships]]", "[[Language and Literature]]", "[[Self]]"]
+themes: ["secrecy", "sexuality", "stolen-journal", "[[Themes/french|french]]", "self-reflection"]
+subjects: ["[[Subjects/Love and Relationships|Love and Relationships]]", "[[Subjects/Language and Literature|Language and Literature]]", "[[Subjects/Self|Self]]"]
 type: journal-fragment
 scan: scan_1994_2_p047
 ---

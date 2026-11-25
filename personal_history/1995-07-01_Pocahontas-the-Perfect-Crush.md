@@ -1,10 +1,10 @@
 ---
 date: 1995-07-01
 dated: estimated
-era: "[[DC, Post-College]]"
+era: "[[Eras/DC, Post-College|DC, Post-College]]"
 people: [Beethoven, O. J. Simpson]
-themes: ["[[poetry]]", "[[mass-culture]]", "[[technology]]"]
-subjects: ["[[Language and Literature]]", "[[Art Theory and the Art World]]", "[[Mind, Science and Systems]]"]
+themes: ["[[Themes/poetry|poetry]]", "[[Themes/mass-culture|mass-culture]]", "[[Themes/technology|technology]]"]
+subjects: ["[[Subjects/Language and Literature|Language and Literature]]", "[[Subjects/Art Theory and the Art World|Art Theory and the Art World]]", "[[Subjects/Mind, Science and Systems|Mind, Science and Systems]]"]
 type: journal-fragment
 scan: scan_1995_p085
 ---

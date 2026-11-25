@@ -1,9 +1,9 @@
 ---
 date: 1994-06-15
-era: "[[Yale, New Haven]]"
+era: "[[Eras/Yale, New Haven|Yale, New Haven]]"
 people: [Edo, Mom]
-themes: ["brotherhood", "[[yale-culture]]", "risk-taking", "individuation"]
-subjects: ["[[Family]]", "[[Places and Cities]]", "[[Self]]"]
+themes: ["brotherhood", "[[Themes/yale-culture|yale-culture]]", "risk-taking", "individuation"]
+subjects: ["[[Subjects/Family|Family]]", "[[Subjects/Places and Cities|Places and Cities]]", "[[Subjects/Self|Self]]"]
 type: journal-fragment
 notebook_page: 19
 scan: [scan_1994_1_p028, scan_1994_1_p029]

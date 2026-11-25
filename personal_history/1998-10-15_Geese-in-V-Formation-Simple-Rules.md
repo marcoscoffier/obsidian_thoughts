@@ -1,10 +1,10 @@
 ---
 date: 1998-10-15
 dated: estimated
-era: "[[Paris, Beaux-Arts]]"
+era: "[[Eras/Japan|Japan]]"
 people: []
-themes: ["[[systems]]", "[[nature]]", "[[cognition]]"]
-subjects: ["[[Mind, Science and Systems]]", "[[Places and Cities]]"]
+themes: ["[[Themes/systems|systems]]", "[[Themes/nature|nature]]", "[[Themes/cognition|cognition]]"]
+subjects: ["[[Subjects/Mind, Science and Systems|Mind, Science and Systems]]", "[[Subjects/Places and Cities|Places and Cities]]"]
 type: journal-fragment
 scan: scan_1997_2_p030
 ---

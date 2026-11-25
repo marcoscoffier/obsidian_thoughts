@@ -1,9 +1,9 @@
 ---
 date: 1994-08-05
-era: "[[Summer 1994, Travel and Alps]]"
+era: "[[Eras/Summer 1994, Travel and Alps|Summer 1994, Travel and Alps]]"
 people: []
-themes: ["palette-scrapings", "[[materiality]]", "alpine-painting"]
-subjects: ["[[Making Art]]"]
+themes: ["palette-scrapings", "[[Themes/materiality|materiality]]", "alpine-painting"]
+subjects: ["[[Subjects/Making Art|Making Art]]"]
 type: visual-record
 scan: photo-Screenshot_2026-11-18_at_10.29.00_AM
 ---

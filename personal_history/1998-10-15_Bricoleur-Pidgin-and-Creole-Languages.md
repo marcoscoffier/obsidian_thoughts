@@ -1,10 +1,10 @@
 ---
 date: 1998-10-15
 dated: estimated
-era: "[[Paris, Beaux-Arts]]"
+era: "[[Eras/Japan|Japan]]"
 people: []
-themes: ["[[language]]", "[[bricolage]]", "[[body]]"]
-subjects: ["[[Language and Literature]]", "[[Making Art]]", "[[Self]]"]
+themes: ["[[Themes/language|language]]", "[[Themes/bricolage|bricolage]]", "[[Themes/body|body]]"]
+subjects: ["[[Subjects/Language and Literature|Language and Literature]]", "[[Subjects/Making Art|Making Art]]", "[[Subjects/Self|Self]]"]
 type: journal-fragment
 scan: scan_1997_2_p023
 ---

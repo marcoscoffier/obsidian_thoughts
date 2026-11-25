@@ -1,10 +1,10 @@
 ---
 date: 1995-02-05
 dated: estimated
-era: "[[Final Semester Yale 1995]]"
+era: "[[Eras/Final Semester Yale 1995|Final Semester Yale 1995]]"
 people: [David Pease]
-themes: ["[[yale]]", "[[criticism]]"]
-subjects: ["[[Places and Cities]]", "[[Art Theory and the Art World]]"]
+themes: ["[[Themes/yale|yale]]", "[[Themes/criticism|criticism]]"]
+subjects: ["[[Subjects/Places and Cities|Places and Cities]]", "[[Subjects/Art Theory and the Art World|Art Theory and the Art World]]"]
 type: journal-fragment
 scan: scan_1995_p028
 ---

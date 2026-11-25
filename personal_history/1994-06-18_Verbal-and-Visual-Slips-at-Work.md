@@ -1,9 +1,9 @@
 ---
 date: 1994-06-18
-era: "[[Yale, New Haven]]"
+era: "[[Eras/Yale, New Haven|Yale, New Haven]]"
 people: [Katherine, Alison Henyey]
-themes: ["[[perception]]", "[[language]]", "sound-association", "[[memory]]"]
-subjects: ["[[Perception and Space]]", "[[Language and Literature]]", "[[Sound and Music]]", "[[Self]]"]
+themes: ["[[Themes/perception|perception]]", "[[Themes/language|language]]", "sound-association", "[[Themes/memory|memory]]"]
+subjects: ["[[Subjects/Perception and Space|Perception and Space]]", "[[Subjects/Language and Literature|Language and Literature]]", "[[Subjects/Sound and Music|Sound and Music]]", "[[Subjects/Self|Self]]"]
 type: journal-fragment
 notebook_page: 54
 scan: scan_1994_1_p092

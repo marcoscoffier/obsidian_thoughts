@@ -1,10 +1,10 @@
 ---
 date: 1995-03-12
 dated: estimated
-era: "[[Final Semester Yale 1995]]"
+era: "[[Eras/Final Semester Yale 1995|Final Semester Yale 1995]]"
 people: []
-themes: ["[[installation]]", "[[mirrors]]", "[[studio-practice]]", "[[project-list]]"]
-subjects: ["[[Making Art]]", "[[Perception and Space]]"]
+themes: ["[[Themes/installation|installation]]", "[[Themes/mirrors|mirrors]]", "[[Themes/studio-practice|studio-practice]]", "[[Themes/project-list|project-list]]"]
+subjects: ["[[Subjects/Making Art|Making Art]]", "[[Subjects/Perception and Space|Perception and Space]]"]
 type: journal-fragment
 scan: scan_1995_p054
 ---

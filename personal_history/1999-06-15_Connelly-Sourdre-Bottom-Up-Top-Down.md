@@ -1,10 +1,10 @@
 ---
 date: 1999-06-15
 dated: estimated
-era: "[[Paris, Beaux-Arts]]"
+era: "[[Eras/Paris, Beaux-Arts|Paris, Beaux-Arts]]"
 people: [Michael Connelly]
-themes: ["[[french]]", "[[reading]]", "[[memory]]", "[[systems]]"]
-subjects: ["[[Language and Literature]]", "[[Self]]", "[[Mind, Science and Systems]]"]
+themes: ["[[Themes/french|french]]", "[[Themes/reading|reading]]", "[[Themes/memory|memory]]", "[[Themes/systems|systems]]"]
+subjects: ["[[Subjects/Language and Literature|Language and Literature]]", "[[Subjects/Self|Self]]", "[[Subjects/Mind, Science and Systems|Mind, Science and Systems]]"]
 type: journal-fragment
 scan: scan_1997_2_p080
 ---

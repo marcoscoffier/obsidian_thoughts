@@ -1,10 +1,10 @@
 ---
 date: 1998-10-15
 dated: estimated
-era: "[[Paris, Beaux-Arts]]"
+era: "[[Eras/Japan|Japan]]"
 people: [John Cage, James Joyce, Peter Greenaway]
-themes: ["[[music]]", "[[sound-art]]", "[[finnegans-wake]]", "[[cognition]]"]
-subjects: ["[[Sound and Music]]", "[[Language and Literature]]", "[[Mind, Science and Systems]]"]
+themes: ["[[Themes/music|music]]", "[[Themes/sound-art|sound-art]]", "[[Themes/finnegans-wake|finnegans-wake]]", "[[Themes/cognition|cognition]]"]
+subjects: ["[[Subjects/Sound and Music|Sound and Music]]", "[[Subjects/Language and Literature|Language and Literature]]", "[[Subjects/Mind, Science and Systems|Mind, Science and Systems]]"]
 type: journal-fragment
 scan: scan_1997_2_p014
 ---

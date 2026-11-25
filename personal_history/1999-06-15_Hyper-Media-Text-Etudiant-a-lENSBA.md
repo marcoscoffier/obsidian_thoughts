@@ -1,10 +1,10 @@
 ---
 date: 1999-06-15
 dated: estimated
-era: "[[Paris, Beaux-Arts]]"
+era: "[[Eras/Paris, Beaux-Arts|Paris, Beaux-Arts]]"
 people: []
-themes: ["[[french]]", "[[internet]]", "[[technology]]", "[[music]]", "[[writing-process]]"]
-subjects: ["[[Language and Literature]]", "[[Mind, Science and Systems]]", "[[Sound and Music]]"]
+themes: ["[[Themes/french|french]]", "[[Themes/internet|internet]]", "[[Themes/technology|technology]]", "[[Themes/music|music]]", "[[Themes/writing-process|writing-process]]"]
+subjects: ["[[Subjects/Language and Literature|Language and Literature]]", "[[Subjects/Mind, Science and Systems|Mind, Science and Systems]]", "[[Subjects/Sound and Music|Sound and Music]]"]
 type: journal-fragment
 scan: scan_1997_2_p067
 ---

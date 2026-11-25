@@ -1,10 +1,10 @@
 ---
 date: 1999-06-15
 dated: estimated
-era: "[[Paris, Beaux-Arts]]"
+era: "[[Eras/Paris, Beaux-Arts|Paris, Beaux-Arts]]"
 people: []
-themes: ["[[french]]", "[[politics]]", "[[criticism]]"]
-subjects: ["[[Language and Literature]]", "[[Art Theory and the Art World]]"]
+themes: ["[[Themes/french|french]]", "[[Themes/politics|politics]]", "[[Themes/criticism|criticism]]"]
+subjects: ["[[Subjects/Language and Literature|Language and Literature]]", "[[Subjects/Art Theory and the Art World|Art Theory and the Art World]]"]
 type: journal-fragment
 scan: scan_1997_2_p067
 ---

@@ -1,9 +1,9 @@
 ---
 date: 1995-01-27
-era: "[[Final Semester Yale 1995]]"
+era: "[[Eras/Final Semester Yale 1995|Final Semester Yale 1995]]"
 people: [Jonathan Crary, Foucault, Benjamin, Kant, Bergson, Jameson]
-themes: ["[[perception]]", "[[coursework]]", "[[television]]", "[[technology]]"]
-subjects: ["[[Perception and Space]]", "[[Art Theory and the Art World]]", "[[Mind, Science and Systems]]"]
+themes: ["[[Themes/perception|perception]]", "[[Themes/coursework|coursework]]", "[[Themes/television|television]]", "[[Themes/technology|technology]]"]
+subjects: ["[[Subjects/Perception and Space|Perception and Space]]", "[[Subjects/Art Theory and the Art World|Art Theory and the Art World]]", "[[Subjects/Mind, Science and Systems|Mind, Science and Systems]]"]
 type: class-notes
 scan: [scan_1995_p024, scan_1995_p025]
 ---

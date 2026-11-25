@@ -1,9 +1,9 @@
 ---
 date: 1994-07-31
-era: "[[Summer 1994, Travel and Alps]]"
+era: "[[Eras/Summer 1994, Travel and Alps|Summer 1994, Travel and Alps]]"
 people: [Oncle Henri, Toussin Degeorges, Mom, Papa, Albert Camus, Fabien]
-themes: ["family-history", "[[french]]", "fathers-grave", "[[memory]]", "mental-maps"]
-subjects: ["[[Family]]", "[[Language and Literature]]", "[[Self]]", "[[Mind, Science and Systems]]"]
+themes: ["family-history", "[[Themes/french|french]]", "fathers-grave", "[[Themes/memory|memory]]", "mental-maps"]
+subjects: ["[[Subjects/Family|Family]]", "[[Subjects/Language and Literature|Language and Literature]]", "[[Subjects/Self|Self]]", "[[Subjects/Mind, Science and Systems|Mind, Science and Systems]]"]
 type: journal-fragment
 notebook_page: 94
 scan: scan_1994_2_p032

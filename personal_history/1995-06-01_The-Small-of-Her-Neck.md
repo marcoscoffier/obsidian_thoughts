@@ -1,10 +1,10 @@
 ---
 date: 1995-06-01
 dated: estimated
-era: "[[DC, Post-College]]"
+era: "[[Eras/DC, Post-College|DC, Post-College]]"
 people: []
-themes: ["[[intimacy]]", "[[writing-style]]"]
-subjects: ["[[Love and Relationships]]", "[[Language and Literature]]"]
+themes: ["[[Themes/intimacy|intimacy]]", "[[Themes/writing-style|writing-style]]"]
+subjects: ["[[Subjects/Love and Relationships|Love and Relationships]]", "[[Subjects/Language and Literature|Language and Literature]]"]
 type: journal-fragment
 scan: scan_1995_p073
 ---

@@ -1,9 +1,9 @@
 ---
 date: 1994-08-04
-era: "[[Summer 1994, Travel and Alps]]"
+era: "[[Eras/Summer 1994, Travel and Alps|Summer 1994, Travel and Alps]]"
 people: [Umberto Eco, James Joyce]
-themes: ["[[semiotics]]", "[[finnegans-wake]]", "metaphor-and-metonymy"]
-subjects: ["[[Language and Literature]]"]
+themes: ["[[Themes/semiotics|semiotics]]", "[[Themes/finnegans-wake|finnegans-wake]]", "metaphor-and-metonymy"]
+subjects: ["[[Subjects/Language and Literature|Language and Literature]]"]
 type: journal-fragment
 notebook_page: 104
 scan: photo-Screenshot_2026-11-18_at_10.27.46_AM

@@ -1,10 +1,10 @@
 ---
 date: 1998-10-15
 dated: estimated
-era: "[[Paris, Beaux-Arts]]"
+era: "[[Eras/Japan|Japan]]"
 people: [Jen Renzi]
-themes: ["[[memory]]", "[[place-attachment]]", "[[city]]"]
-subjects: ["[[Self]]", "[[Places and Cities]]"]
+themes: ["[[Themes/memory|memory]]", "[[Themes/place-attachment|place-attachment]]", "[[Themes/city|city]]"]
+subjects: ["[[Subjects/Self|Self]]", "[[Subjects/Places and Cities|Places and Cities]]"]
 type: journal-fragment
 scan: [scan_1997_2_p013, scan_1997_2_p014]
 ---

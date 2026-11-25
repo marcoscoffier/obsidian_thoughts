@@ -1,9 +1,9 @@
 ---
 date: 1994-08-10
-era: "[[Summer 1994, Travel and Alps]]"
+era: "[[Eras/Summer 1994, Travel and Alps|Summer 1994, Travel and Alps]]"
 people: [Katherine, Lucy, Sarah]
-themes: ["[[intimacy]]", "social-validation", "[[retrospective-self]]"]
-subjects: ["[[Love and Relationships]]", "[[Self]]"]
+themes: ["[[Themes/intimacy|intimacy]]", "social-validation", "[[Themes/retrospective-self|retrospective-self]]"]
+subjects: ["[[Subjects/Love and Relationships|Love and Relationships]]", "[[Subjects/Self|Self]]"]
 type: journal-fragment
 scan: scan_1994_1_p057
 ---

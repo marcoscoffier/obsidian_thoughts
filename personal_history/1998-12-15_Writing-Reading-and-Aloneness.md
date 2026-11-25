@@ -1,10 +1,10 @@
 ---
 date: 1998-12-15
 dated: estimated
-era: "[[Paris, Beaux-Arts]]"
+era: "[[Eras/Paris, Beaux-Arts|Paris, Beaux-Arts]]"
 people: []
-themes: ["[[language]]", "[[solitude]]", "[[poetry]]", "[[reading]]"]
-subjects: ["[[Language and Literature]]", "[[Self]]"]
+themes: ["[[Themes/language|language]]", "[[Themes/solitude|solitude]]", "[[Themes/poetry|poetry]]", "[[Themes/reading|reading]]"]
+subjects: ["[[Subjects/Language and Literature|Language and Literature]]", "[[Subjects/Self|Self]]"]
 type: journal-fragment
 scan: scan_1997_2_p057
 ---

@@ -1,10 +1,10 @@
 ---
 date: 1995-07-23
 dated: estimated
-era: "[[DC, Post-College]]"
+era: "[[Eras/DC, Post-College|DC, Post-College]]"
 people: [Picabia]
-themes: ["[[installation]]", "[[light]]"]
-subjects: ["[[Making Art]]", "[[Perception and Space]]"]
+themes: ["[[Themes/installation|installation]]", "[[Themes/light|light]]"]
+subjects: ["[[Subjects/Making Art|Making Art]]", "[[Subjects/Perception and Space|Perception and Space]]"]
 type: journal-fragment
 scan: scan_1995_p090
 ---

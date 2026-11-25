@@ -1,10 +1,10 @@
 ---
 date: 2005-03-21
 dated: estimated
-era: "[[New York 2005]]"
+era: "[[Eras/New York 2005|New York 2005]]"
 people: [Sofia Gubaidulina, Eugène Ysaÿe, Karl]
-themes: ["[[music]]", "[[address-book]]"]
-subjects: ["[[Sound and Music]]", "[[Love and Relationships]]"]
+themes: ["[[Themes/music|music]]", "[[Themes/address-book|address-book]]"]
+subjects: ["[[Subjects/Sound and Music|Sound and Music]]", "[[Subjects/Love and Relationships|Love and Relationships]]"]
 type: visual-record
 scan: scan_1997_2_p088
 ---

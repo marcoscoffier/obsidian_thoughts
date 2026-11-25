@@ -1,10 +1,10 @@
 ---
 date: 1998-12-15
 dated: estimated
-era: "[[Paris, Beaux-Arts]]"
+era: "[[Eras/Paris, Beaux-Arts|Paris, Beaux-Arts]]"
 people: []
-themes: ["[[dreams]]", "[[language]]", "[[stereotypes]]"]
-subjects: ["[[Self]]", "[[Language and Literature]]"]
+themes: ["[[Themes/dreams|dreams]]", "[[Themes/language|language]]", "[[Themes/stereotypes|stereotypes]]"]
+subjects: ["[[Subjects/Self|Self]]", "[[Subjects/Language and Literature|Language and Literature]]"]
 type: journal-fragment
 scan: scan_1997_2_p059
 ---

@@ -1,9 +1,9 @@
 ---
 date: 1994-08-03
-era: "[[Summer 1994, Travel and Alps]]"
+era: "[[Eras/Summer 1994, Travel and Alps|Summer 1994, Travel and Alps]]"
 people: [Rudolf Arnheim, Sigmund Freud, Wolfgang Köhler]
-themes: ["[[arnheim]]", "entropy", "freud", "activity", "music-composition", "[[gesture]]"]
-subjects: ["[[Perception and Space]]", "[[Mind, Science and Systems]]", "[[Self]]", "[[Sound and Music]]", "[[Making Art]]"]
+themes: ["[[Themes/arnheim|arnheim]]", "entropy", "freud", "activity", "music-composition", "[[Themes/gesture|gesture]]"]
+subjects: ["[[Subjects/Perception and Space|Perception and Space]]", "[[Subjects/Mind, Science and Systems|Mind, Science and Systems]]", "[[Subjects/Self|Self]]", "[[Subjects/Sound and Music|Sound and Music]]", "[[Subjects/Making Art|Making Art]]"]
 type: journal-fragment
 notebook_page: 101
 scan: [scan_1994_2_p040, scan_1994_2_p041]

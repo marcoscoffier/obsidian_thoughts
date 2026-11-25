@@ -1,9 +1,9 @@
 ---
 date: 1997
-era: "[[Paris, Beaux-Arts]]"
+era: "[[Eras/Paris, Beaux-Arts|Paris, Beaux-Arts]]"
 people: [William Gibson, Eugène Freyssinet, Nicolas Esquillan, Pier Luigi Nervi, Chuck Hoberman, Robert Le Ricolais, Rodrigo Moynihan]
-themes: ["[[engineering]]", "structures", "[[music]]", "[[internet]]", "[[reading-list]]"]
-subjects: ["[[Mind, Science and Systems]]", "[[Sound and Music]]", "[[Language and Literature]]"]
+themes: ["[[Themes/engineering|engineering]]", "structures", "[[Themes/music|music]]", "[[Themes/internet|internet]]", "[[Themes/reading-list|reading-list]]"]
+subjects: ["[[Subjects/Mind, Science and Systems|Mind, Science and Systems]]", "[[Subjects/Sound and Music|Sound and Music]]", "[[Subjects/Language and Literature|Language and Literature]]"]
 type: journal-fragment
 scan: scan_1997_p001
 ---

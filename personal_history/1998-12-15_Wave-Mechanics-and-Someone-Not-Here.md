@@ -1,10 +1,10 @@
 ---
 date: 1998-12-15
 dated: estimated
-era: "[[Paris, Beaux-Arts]]"
+era: "[[Eras/Paris, Beaux-Arts|Paris, Beaux-Arts]]"
 people: []
-themes: ["[[epistemology]]", "[[imagination]]", "[[memory]]"]
-subjects: ["[[Mind, Science and Systems]]", "[[Language and Literature]]", "[[Self]]"]
+themes: ["[[Themes/epistemology|epistemology]]", "[[Themes/imagination|imagination]]", "[[Themes/memory|memory]]"]
+subjects: ["[[Subjects/Mind, Science and Systems|Mind, Science and Systems]]", "[[Subjects/Language and Literature|Language and Literature]]", "[[Subjects/Self|Self]]"]
 type: journal-fragment
 scan: scan_1997_2_p057
 ---

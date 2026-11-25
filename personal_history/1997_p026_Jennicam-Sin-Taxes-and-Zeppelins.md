@@ -1,9 +1,9 @@
 ---
 date: 1997
-era: "[[Paris, Beaux-Arts]]"
+era: "[[Eras/Paris, Beaux-Arts|Paris, Beaux-Arts]]"
 people: [Jennifer Ringley, Rebecca Bournigault, Jacques Chirac, Lionel Jospin]
-themes: ["[[internet]]", "[[intimacy]]", "[[politics]]", "economics", "[[technology]]"]
-subjects: ["[[Mind, Science and Systems]]", "[[Love and Relationships]]", "[[Art Theory and the Art World]]"]
+themes: ["[[Themes/internet|internet]]", "[[Themes/intimacy|intimacy]]", "[[Themes/politics|politics]]", "economics", "[[Themes/technology|technology]]"]
+subjects: ["[[Subjects/Mind, Science and Systems|Mind, Science and Systems]]", "[[Subjects/Love and Relationships|Love and Relationships]]", "[[Subjects/Art Theory and the Art World|Art Theory and the Art World]]"]
 type: journal-fragment
 scan: scan_1997_p026
 ---

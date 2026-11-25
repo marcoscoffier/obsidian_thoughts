@@ -1,10 +1,10 @@
 ---
 date: 1998-12-15
 dated: estimated
-era: "[[Paris, Beaux-Arts]]"
+era: "[[Eras/Paris, Beaux-Arts|Paris, Beaux-Arts]]"
 people: [Jean Dubuffet, Matisse, Chagall, Klee]
-themes: ["[[reading]]", "[[drawing]]", "[[language]]"]
-subjects: ["[[Language and Literature]]", "[[Making Art]]"]
+themes: ["[[Themes/reading|reading]]", "[[Themes/drawing|drawing]]", "[[Themes/language|language]]"]
+subjects: ["[[Subjects/Language and Literature|Language and Literature]]", "[[Subjects/Making Art|Making Art]]"]
 type: journal-fragment
 scan: [scan_1997_2_p032, scan_1997_2_p033]
 ---

@@ -1,10 +1,10 @@
 ---
 date: 1995-09-01
 dated: estimated
-era: "[[DC, Post-College]]"
+era: "[[Eras/DC, Post-College|DC, Post-College]]"
 people: []
-themes: ["[[art-theory]]", "[[communication]]", "[[creativity]]"]
-subjects: ["[[Art Theory and the Art World]]", "[[Language and Literature]]", "[[Making Art]]"]
+themes: ["[[Themes/art-theory|art-theory]]", "[[Themes/communication|communication]]", "[[Themes/creativity|creativity]]"]
+subjects: ["[[Subjects/Art Theory and the Art World|Art Theory and the Art World]]", "[[Subjects/Language and Literature|Language and Literature]]", "[[Subjects/Making Art|Making Art]]"]
 type: journal-fragment
 scan: scan_1995_p095
 ---

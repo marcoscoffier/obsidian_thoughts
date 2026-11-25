@@ -1,10 +1,10 @@
 ---
 date: 1998-08-01
 dated: estimated
-era: "[[Paris, Beaux-Arts]]"
+era: "[[Eras/Paris, Beaux-Arts|Paris, Beaux-Arts]]"
 people: [Lévi-Strauss]
-themes: ["[[french]]", "[[bricolage]]", "[[reading]]", "[[art-theory]]"]
-subjects: ["[[Language and Literature]]", "[[Making Art]]", "[[Art Theory and the Art World]]"]
+themes: ["[[Themes/french|french]]", "[[Themes/bricolage|bricolage]]", "[[Themes/reading|reading]]", "[[Themes/art-theory|art-theory]]"]
+subjects: ["[[Subjects/Language and Literature|Language and Literature]]", "[[Subjects/Making Art|Making Art]]", "[[Subjects/Art Theory and the Art World|Art Theory and the Art World]]"]
 type: journal-fragment
 scan: [scan_1997_2_p002, scan_1997_2_p003]
 ---

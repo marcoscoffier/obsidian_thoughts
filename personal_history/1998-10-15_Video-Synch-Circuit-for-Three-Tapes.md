@@ -1,10 +1,10 @@
 ---
 date: 1998-10-15
 dated: estimated
-era: "[[Japan]]"
+era: "[[Eras/Japan|Japan]]"
 people: []
-themes: ["[[video]]", "[[technology]]", "[[engineering]]", "[[installation]]"]
-subjects: ["[[Making Art]]", "[[Mind, Science and Systems]]"]
+themes: ["[[Themes/video|video]]", "[[Themes/technology|technology]]", "[[Themes/engineering|engineering]]", "[[Themes/installation|installation]]"]
+subjects: ["[[Subjects/Making Art|Making Art]]", "[[Subjects/Mind, Science and Systems|Mind, Science and Systems]]"]
 type: journal-fragment
 scan: scan_1997_2_p018
 ---

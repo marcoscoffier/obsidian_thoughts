@@ -1,10 +1,10 @@
 ---
 date: 2005-03-21
 dated: estimated
-era: "[[New York 2005]]"
+era: "[[Eras/New York 2005|New York 2005]]"
 people: [Kerry, McCarren, Dion, Niblock, Josh, Eric B., Graham, Elodie]
-themes: ["[[project-list]]", "[[internet]]", "[[music]]"]
-subjects: ["[[Making Art]]", "[[Mind, Science and Systems]]", "[[Sound and Music]]"]
+themes: ["[[Themes/project-list|project-list]]", "[[Themes/internet|internet]]", "[[Themes/music|music]]"]
+subjects: ["[[Subjects/Making Art|Making Art]]", "[[Subjects/Mind, Science and Systems|Mind, Science and Systems]]", "[[Subjects/Sound and Music|Sound and Music]]"]
 type: journal-fragment
 scan: scan_1997_2_p087
 ---

@@ -1,9 +1,9 @@
 ---
 date: 1997
-era: "[[Paris, Beaux-Arts]]"
+era: "[[Eras/Paris, Beaux-Arts|Paris, Beaux-Arts]]"
 people: [Albert Camus]
-themes: ["[[installation]]", "[[endings]]", "rites-of-passage", "[[video]]", "[[language]]"]
-subjects: ["[[Making Art]]", "[[Love and Relationships]]", "[[Self]]", "[[Language and Literature]]"]
+themes: ["[[Themes/installation|installation]]", "[[Themes/endings|endings]]", "rites-of-passage", "[[Themes/video|video]]", "[[Themes/language|language]]"]
+subjects: ["[[Subjects/Making Art|Making Art]]", "[[Subjects/Love and Relationships|Love and Relationships]]", "[[Subjects/Self|Self]]", "[[Subjects/Language and Literature|Language and Literature]]"]
 type: journal-fragment
 scan: [scan_1997_p017, scan_1997_p018]
 ---

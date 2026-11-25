@@ -1,10 +1,10 @@
 ---
 date: 1995-03-12
 dated: estimated
-era: "[[Final Semester Yale 1995]]"
+era: "[[Eras/Final Semester Yale 1995|Final Semester Yale 1995]]"
 people: [Frank Stella]
-themes: ["[[yale-culture]]", "[[ego]]"]
-subjects: ["[[Places and Cities]]", "[[Self]]"]
+themes: ["[[Themes/yale-culture|yale-culture]]", "[[Themes/ego|ego]]"]
+subjects: ["[[Subjects/Places and Cities|Places and Cities]]", "[[Subjects/Self|Self]]"]
 type: journal-fragment
 scan: scan_1995_p064
 ---

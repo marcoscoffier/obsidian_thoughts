@@ -1,10 +1,10 @@
 ---
 date: 1998-10-15
 dated: estimated
-era: "[[Japan]]"
+era: "[[Eras/Japan|Japan]]"
 people: [Miki, Tanaka, Akemi]
-themes: ["[[public-space]]", "[[project-list]]", "[[japan]]", "[[technology]]", "[[sound-art]]"]
-subjects: ["[[Places and Cities]]", "[[Making Art]]", "[[Mind, Science and Systems]]", "[[Sound and Music]]"]
+themes: ["[[Themes/public-space|public-space]]", "[[Themes/project-list|project-list]]", "[[Themes/japan|japan]]", "[[Themes/technology|technology]]", "[[Themes/sound-art|sound-art]]"]
+subjects: ["[[Subjects/Places and Cities|Places and Cities]]", "[[Subjects/Making Art|Making Art]]", "[[Subjects/Mind, Science and Systems|Mind, Science and Systems]]", "[[Subjects/Sound and Music|Sound and Music]]"]
 type: journal-fragment
 scan: scan_1997_2_p016
 ---

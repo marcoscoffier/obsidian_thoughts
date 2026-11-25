@@ -1,9 +1,9 @@
 ---
 date: 1997
-era: "[[Paris, Beaux-Arts]]"
+era: "[[Eras/Paris, Beaux-Arts|Paris, Beaux-Arts]]"
 people: []
-themes: ["[[sculpture-ideas]]", "[[sound]]", "scientific-objects", "notebook"]
-subjects: ["[[Making Art]]", "[[Sound and Music]]", "[[Language and Literature]]"]
+themes: ["[[Themes/sculpture-ideas|sculpture-ideas]]", "[[Themes/sound|sound]]", "scientific-objects", "notebook"]
+subjects: ["[[Subjects/Making Art|Making Art]]", "[[Subjects/Sound and Music|Sound and Music]]", "[[Subjects/Language and Literature|Language and Literature]]"]
 type: visual-record
 scan: [scan_1997_p031, scan_1997_p032]
 ---

@@ -1,10 +1,10 @@
 ---
 date: 1998-10-15
 dated: estimated
-era: "[[Paris, Beaux-Arts]]"
+era: "[[Eras/Japan|Japan]]"
 people: [Akemi, John Cage]
-themes: ["[[music]]", "[[sound-art]]", "[[perception]]", "[[mass-culture]]"]
-subjects: ["[[Sound and Music]]", "[[Perception and Space]]", "[[Art Theory and the Art World]]"]
+themes: ["[[Themes/music|music]]", "[[Themes/sound-art|sound-art]]", "[[Themes/perception|perception]]", "[[Themes/mass-culture|mass-culture]]"]
+subjects: ["[[Subjects/Sound and Music|Sound and Music]]", "[[Subjects/Perception and Space|Perception and Space]]", "[[Subjects/Art Theory and the Art World|Art Theory and the Art World]]"]
 type: journal-fragment
 scan: scan_1997_2_p012
 ---

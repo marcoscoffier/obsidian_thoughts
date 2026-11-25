@@ -1,10 +1,10 @@
 ---
 date: 1998-12-15
 dated: estimated
-era: "[[Paris, Beaux-Arts]]"
+era: "[[Eras/Paris, Beaux-Arts|Paris, Beaux-Arts]]"
 people: [John Dewey, Wallace Stevens]
-themes: ["[[perspective]]", "[[drawing]]", "[[perception]]", "[[knowledge]]"]
-subjects: ["[[Perception and Space]]", "[[Making Art]]", "[[Mind, Science and Systems]]"]
+themes: ["[[Themes/perspective|perspective]]", "[[Themes/drawing|drawing]]", "[[Themes/perception|perception]]", "[[Themes/knowledge|knowledge]]"]
+subjects: ["[[Subjects/Perception and Space|Perception and Space]]", "[[Subjects/Making Art|Making Art]]", "[[Subjects/Mind, Science and Systems|Mind, Science and Systems]]"]
 type: journal-fragment
 scan: scan_1997_2_p053
 ---

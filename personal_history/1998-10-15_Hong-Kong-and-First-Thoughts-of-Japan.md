@@ -1,10 +1,10 @@
 ---
 date: 1998-10-15
 dated: estimated
-era: "[[Japan]]"
+era: "[[Eras/Japan|Japan]]"
 people: [Agus, Turrell, Miwa]
-themes: ["[[travel]]", "[[japan]]", "[[television]]", "[[turrell]]", "[[solitude]]"]
-subjects: ["[[Places and Cities]]", "[[Art Theory and the Art World]]", "[[Perception and Space]]", "[[Self]]"]
+themes: ["[[Themes/travel|travel]]", "[[Themes/japan|japan]]", "[[Themes/television|television]]", "[[Themes/turrell|turrell]]", "[[Themes/solitude|solitude]]"]
+subjects: ["[[Subjects/Places and Cities|Places and Cities]]", "[[Subjects/Art Theory and the Art World|Art Theory and the Art World]]", "[[Subjects/Perception and Space|Perception and Space]]", "[[Subjects/Self|Self]]"]
 type: journal-fragment
 scan: [scan_1997_2_p007, scan_1997_2_p008]
 ---

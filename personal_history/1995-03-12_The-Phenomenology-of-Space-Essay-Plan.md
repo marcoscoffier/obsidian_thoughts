@@ -1,10 +1,10 @@
 ---
 date: 1995-03-12
 dated: estimated
-era: "[[Final Semester Yale 1995]]"
+era: "[[Eras/Final Semester Yale 1995|Final Semester Yale 1995]]"
 people: [Camus, Merleau-Ponty, Bachelard]
-themes: ["[[writing-process]]", "[[space]]", "[[perception]]", "[[solitude]]"]
-subjects: ["[[Language and Literature]]", "[[Perception and Space]]", "[[Self]]"]
+themes: ["[[Themes/writing-process|writing-process]]", "[[Themes/space|space]]", "[[Themes/perception|perception]]", "[[Themes/solitude|solitude]]"]
+subjects: ["[[Subjects/Language and Literature|Language and Literature]]", "[[Subjects/Perception and Space|Perception and Space]]", "[[Subjects/Self|Self]]"]
 type: journal-fragment
 scan: scan_1995_p054
 ---

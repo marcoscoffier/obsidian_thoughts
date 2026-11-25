@@ -1,10 +1,10 @@
 ---
 date: 1995-02-12
 dated: estimated
-era: "[[Final Semester Yale 1995]]"
+era: "[[Eras/Final Semester Yale 1995|Final Semester Yale 1995]]"
 people: [Camus]
-themes: ["[[literature]]", "[[space]]", "[[project-list]]"]
-subjects: ["[[Language and Literature]]", "[[Perception and Space]]", "[[Making Art]]"]
+themes: ["[[Themes/literature|literature]]", "[[Themes/space|space]]", "[[Themes/project-list|project-list]]"]
+subjects: ["[[Subjects/Language and Literature|Language and Literature]]", "[[Subjects/Perception and Space|Perception and Space]]", "[[Subjects/Making Art|Making Art]]"]
 type: journal-fragment
 scan: scan_1995_p032
 ---

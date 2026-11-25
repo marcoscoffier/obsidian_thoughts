@@ -1,10 +1,10 @@
 ---
 date: 1998-10-15
 dated: estimated
-era: "[[Paris, Beaux-Arts]]"
+era: "[[Eras/Japan|Japan]]"
 people: [David Kirsh, Margaret Boden, Christopher G. Langton, Tommaso Toffoli, Norman Margolus]
-themes: ["[[reading]]", "[[systems]]", "[[cognition]]", "[[technology]]"]
-subjects: ["[[Language and Literature]]", "[[Mind, Science and Systems]]"]
+themes: ["[[Themes/reading|reading]]", "[[Themes/systems|systems]]", "[[Themes/cognition|cognition]]", "[[Themes/technology|technology]]"]
+subjects: ["[[Subjects/Language and Literature|Language and Literature]]", "[[Subjects/Mind, Science and Systems|Mind, Science and Systems]]"]
 type: journal-fragment
 scan: scan_1997_2_p029
 ---

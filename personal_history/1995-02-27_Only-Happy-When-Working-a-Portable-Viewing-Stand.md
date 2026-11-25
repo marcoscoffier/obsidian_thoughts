@@ -1,9 +1,9 @@
 ---
 date: 1995-02-27
-era: "[[Final Semester Yale 1995]]"
+era: "[[Eras/Final Semester Yale 1995|Final Semester Yale 1995]]"
 people: [Wordsworth]
-themes: ["[[studio-practice]]", "[[installation]]", "[[poetry]]"]
-subjects: ["[[Making Art]]", "[[Language and Literature]]"]
+themes: ["[[Themes/studio-practice|studio-practice]]", "[[Themes/installation|installation]]", "[[Themes/poetry|poetry]]"]
+subjects: ["[[Subjects/Making Art|Making Art]]", "[[Subjects/Language and Literature|Language and Literature]]"]
 type: journal-fragment
 scan: scan_1995_p039
 ---

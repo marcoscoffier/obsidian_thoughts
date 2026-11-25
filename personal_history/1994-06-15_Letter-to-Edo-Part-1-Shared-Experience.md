@@ -1,9 +1,9 @@
 ---
 date: 1994-06-15
-era: "[[Yale, New Haven]]"
+era: "[[Eras/Yale, New Haven|Yale, New Haven]]"
 people: [Edo, Mom, Richie]
-themes: ["brotherhood", "isolation", "shared-experience", "[[self-criticism]]", "[[family]]"]
-subjects: ["[[Family]]", "[[Self]]", "[[Love and Relationships]]"]
+themes: ["brotherhood", "isolation", "shared-experience", "[[Themes/self-criticism|self-criticism]]", "[[Themes/family|family]]"]
+subjects: ["[[Subjects/Family|Family]]", "[[Subjects/Self|Self]]", "[[Subjects/Love and Relationships|Love and Relationships]]"]
 type: journal-fragment
 notebook_page: 18
 scan: scan_1994_1_p027

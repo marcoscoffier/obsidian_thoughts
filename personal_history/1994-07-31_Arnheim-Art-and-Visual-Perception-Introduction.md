@@ -1,9 +1,9 @@
 ---
 date: 1994-07-31
-era: "[[Summer 1994, Travel and Alps]]"
+era: "[[Eras/Summer 1994, Travel and Alps|Summer 1994, Travel and Alps]]"
 people: [Rudolf Arnheim, Max Wertheimer, Wolfgang Köhler, Kurt Koffka, Rembrandt]
-themes: ["[[arnheim]]", "[[gestalt]]", "visual-perception", "language-vs-vision"]
-subjects: ["[[Perception and Space]]", "[[Language and Literature]]"]
+themes: ["[[Themes/arnheim|arnheim]]", "[[Themes/gestalt|gestalt]]", "visual-perception", "language-vs-vision"]
+subjects: ["[[Subjects/Perception and Space|Perception and Space]]", "[[Subjects/Language and Literature|Language and Literature]]"]
 type: journal-fragment
 notebook_page: 92
 scan: scan_1994_2_p028

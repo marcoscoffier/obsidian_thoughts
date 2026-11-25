@@ -1,9 +1,9 @@
 ---
 date: 1994-08-01
-era: "[[Summer 1994, Travel and Alps]]"
+era: "[[Eras/Summer 1994, Travel and Alps|Summer 1994, Travel and Alps]]"
 people: [James Turrell]
-themes: ["[[turrell]]", "[[installation]]", "water-reflections", "candle-shadows", "[[mirrors]]", "big-dipper", "[[optics]]"]
-subjects: ["[[Perception and Space]]", "[[Making Art]]"]
+themes: ["[[Themes/turrell|turrell]]", "[[Themes/installation|installation]]", "water-reflections", "candle-shadows", "[[Themes/mirrors|mirrors]]", "big-dipper", "[[Themes/optics|optics]]"]
+subjects: ["[[Subjects/Perception and Space|Perception and Space]]", "[[Subjects/Making Art|Making Art]]"]
 type: journal-fragment
 scan: [scan_1994_2_p036, scan_1994_2_p037]
 ---

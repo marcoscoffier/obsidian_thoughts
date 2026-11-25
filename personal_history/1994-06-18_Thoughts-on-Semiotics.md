@@ -1,9 +1,9 @@
 ---
 date: 1994-06-18
-era: "[[Yale, New Haven]]"
+era: "[[Eras/Yale, New Haven|Yale, New Haven]]"
 people: [Garth, Amy]
-themes: ["[[semiotics]]", "[[language]]"]
-subjects: ["[[Language and Literature]]"]
+themes: ["[[Themes/semiotics|semiotics]]", "[[Themes/language|language]]"]
+subjects: ["[[Subjects/Language and Literature|Language and Literature]]"]
 type: journal-fragment
 notebook_page: 38
 scan: [scan_1994_1_p061, scan_1994_1_p062]

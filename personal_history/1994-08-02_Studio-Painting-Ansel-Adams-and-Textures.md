@@ -1,9 +1,9 @@
 ---
 date: 1994-08-02
-era: "[[Summer 1994, Travel and Alps]]"
+era: "[[Eras/Summer 1994, Travel and Alps|Summer 1994, Travel and Alps]]"
 people: [Ansel Adams]
-themes: ["[[painting-technique]]", "[[photography]]", "textures", "[[studio-practice]]"]
-subjects: ["[[Making Art]]", "[[Perception and Space]]"]
+themes: ["[[Themes/painting-technique|painting-technique]]", "[[Themes/photography|photography]]", "textures", "[[Themes/studio-practice|studio-practice]]"]
+subjects: ["[[Subjects/Making Art|Making Art]]", "[[Subjects/Perception and Space|Perception and Space]]"]
 type: journal-fragment
 scan: scan_1994_1_p051
 ---

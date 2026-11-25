@@ -1,10 +1,10 @@
 ---
 date: 1995-03-12
 dated: estimated
-era: "[[Final Semester Yale 1995]]"
+era: "[[Eras/Final Semester Yale 1995|Final Semester Yale 1995]]"
 people: [Wallace Stevens]
-themes: ["[[installation]]", "[[poetry]]", "[[perspective]]", "[[light]]"]
-subjects: ["[[Making Art]]", "[[Language and Literature]]", "[[Perception and Space]]"]
+themes: ["[[Themes/installation|installation]]", "[[Themes/poetry|poetry]]", "[[Themes/perspective|perspective]]", "[[Themes/light|light]]"]
+subjects: ["[[Subjects/Making Art|Making Art]]", "[[Subjects/Language and Literature|Language and Literature]]", "[[Subjects/Perception and Space|Perception and Space]]"]
 type: journal-fragment
 scan: scan_1995_p057
 ---

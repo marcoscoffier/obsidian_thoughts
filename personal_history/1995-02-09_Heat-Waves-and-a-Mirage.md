@@ -1,9 +1,9 @@
 ---
 date: 1995-02-09
-era: "[[Final Semester Yale 1995]]"
+era: "[[Eras/Final Semester Yale 1995|Final Semester Yale 1995]]"
 people: [Nike]
-themes: ["[[installation]]", "[[sculpture-ideas]]", "[[sound]]", "[[light]]"]
-subjects: ["[[Making Art]]", "[[Sound and Music]]", "[[Perception and Space]]"]
+themes: ["[[Themes/installation|installation]]", "[[Themes/sculpture-ideas|sculpture-ideas]]", "[[Themes/sound|sound]]", "[[Themes/light|light]]"]
+subjects: ["[[Subjects/Making Art|Making Art]]", "[[Subjects/Sound and Music|Sound and Music]]", "[[Subjects/Perception and Space|Perception and Space]]"]
 type: visual-record
 scan: scan_1995_p030
 ---

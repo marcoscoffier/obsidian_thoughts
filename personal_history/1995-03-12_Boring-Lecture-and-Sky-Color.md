@@ -1,10 +1,10 @@
 ---
 date: 1995-03-12
 dated: estimated
-era: "[[Final Semester Yale 1995]]"
+era: "[[Eras/Final Semester Yale 1995|Final Semester Yale 1995]]"
 people: [Michael Rock]
-themes: ["[[light]]", "[[observation]]", "[[installation]]", "[[studio-practice]]"]
-subjects: ["[[Perception and Space]]", "[[Making Art]]"]
+themes: ["[[Themes/light|light]]", "[[Themes/observation|observation]]", "[[Themes/installation|installation]]", "[[Themes/studio-practice|studio-practice]]"]
+subjects: ["[[Subjects/Perception and Space|Perception and Space]]", "[[Subjects/Making Art|Making Art]]"]
 type: journal-fragment
 scan: scan_1995_p063
 ---

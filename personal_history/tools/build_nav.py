@@ -6,14 +6,17 @@
 
 For every note in the vault root it:
   - maps `era` onto one of the canonical eras below (old names are aliases) and
-    writes it as a link, e.g.  era: "[[Paris, Beaux-Arts]]";
+    writes it as a link by path, e.g.  era: "[[Eras/Paris, Beaux-Arts|Paris, Beaux-Arts]]"
+    (by path because some names repeat across folders: theme "japan", era "Japan");
   - writes each theme used by at least MIN_THEME notes as a link to its theme
     page (rarer themes stay plain text);
   - sets `subjects` (generated, don't edit by hand) from the themes, using
     FAMILIES and RULES below.
-Then it regenerates Themes/, Eras/ and Subjects/. Each page holds a Bases table
-of the notes that link to it, so clicking a theme, era or subject in a note's
-properties lists every note that shares it.
+Then it regenerates Themes/, Eras/ and Subjects/ as reading pages: every note in
+the theme, era or subject, in date order, with its transcription inline (images,
+the page-image section and crop captions left out; the transcription-notes callout
+folded). Each entry's title links to the note, and its scan pages are linked
+beside the date, so the pages can be read straight through.
 
 Only the `themes`, `era` and `subjects` lines of the frontmatter are rewritten;
 everything else in a note is left as it is.
@@ -147,7 +150,12 @@ def family_of(theme: str):
 def unlink(v) -> str:
     v = str(v).strip()
     m = re.fullmatch(r"\[\[([^\]|]+)(?:\|[^\]]*)?\]\]", v)
-    return m.group(1) if m else v
+    return m.group(1).split("/")[-1] if m else v
+
+
+def link(folder: str, name: str) -> str:
+    """A link by path, so "japan" (theme) and "Japan" (era) can't be confused."""
+    return f"[[{folder}/{name}|{name}]]"
 
 
 def as_list(v):
@@ -194,25 +202,72 @@ def set_keys(front: str, new: dict) -> str:
     return "\n".join(out)
 
 
-def base_block(columns, sort="date"):
-    cols = "\n".join(f"      - {c}" for c in columns)
-    return f"""```base
-filters:
-  and:
-    - file.hasLink(this.file)
-    - not:
-        - file.inFolder("Themes")
-        - file.inFolder("Eras")
-        - file.inFolder("Subjects")
-views:
-  - type: table
-    name: Notes
-    order:
-{cols}
-    sort:
-      - property: {sort}
-        direction: ASC
-```"""
+def body_text(rest: str) -> tuple[str, str]:
+    """The note's title and its transcription, without images, the page-image
+    section or crop captions. Headings are pushed down so they sit under the entry."""
+    body = rest[len("\n---\n"):] if rest.startswith("\n---\n") else rest
+    cut = re.search(r"\n---\s*\n+## Original Page", body)
+    if cut:
+        body = body[:cut.start()]
+    title, out = "", []
+    for line in body.strip("\n").split("\n"):
+        if not title and line.startswith("# "):
+            title = line[2:].strip()
+            continue
+        if re.fullmatch(r"\s*!\[\[[^\]]+\]\]\s*", line) or line.startswith("*Part of [["):
+            continue
+        if re.match(r"#{1,4} ", line):
+            line = "###" + line[line.index(" "):] if line.startswith("# ") else "#" * 2 + line
+        if re.match(r"> \[!\w+\](?!-)", line):
+            line = re.sub(r"> \[!(\w+)\]", r"> [!\1]-", line, count=1)
+        out.append(line)
+    return title, "\n".join(out).strip("\n")
+
+
+_IMAGES = None
+
+
+def image_path(stem: str):
+    """attachments/… path of the image with this name (any folder, any extension)."""
+    global _IMAGES
+    if _IMAGES is None:
+        _IMAGES = {}
+        for f in sorted((VAULT / "attachments").rglob("*")):
+            if f.suffix.lower() in (".jpg", ".jpeg", ".png", ".heic", ".webp"):
+                _IMAGES.setdefault(f.stem, f.relative_to(VAULT).as_posix())
+    return _IMAGES.get(stem)
+
+
+def page_links(meta) -> str:
+    links = []
+    for sc in as_list(meta.get("scan")):
+        sc = str(sc)
+        img = sc[len("photo-"):] if sc.startswith("photo-") else sc
+        m = re.search(r"_p0*(\d+)$", img)
+        label = f"p. {m.group(1)}" if m else img
+        path = image_path(img)
+        links.append(f"[[{path}|{label}]]" if path else label)
+    return ", ".join(links)
+
+
+def reading(sel, show_era: bool) -> str:
+    parts = []
+    for e in sel:
+        f, meta = e["file"], e["meta"]
+        title, text = body_text(e["body"])
+        info = [str(meta.get("date", ""))]
+        if meta.get("dated") == "estimated":
+            info[0] += " (estimated)"
+        if show_era and e["era"]:
+            info.append(e["era"])
+        if meta.get("notebook_page"):
+            info.append(f"notebook p. {meta['notebook_page']}")
+        pl = page_links(meta)
+        if pl:
+            info.append("scan " + pl)
+        parts.append(f"## [[{f.stem}|{title or f.stem}]]\n*" + " · ".join(i for i in info if i)
+                     + f"*\n\n{text}\n")
+    return "\n---\n\n".join(parts)
 
 
 # ------------------------------------------------------------------ main
@@ -236,6 +291,7 @@ def main():
 
     unknown_eras, unmapped, nosubject, changed = Counter(), Counter(), [], 0
     era_dates, subj_themes = defaultdict(list), defaultdict(set)
+    entries = []
     for f, (front, rest), meta in notes:
         themes = [unlink(t) for t in as_list(meta.get("themes"))]
         era = unlink(meta.get("era", "")) if meta.get("era") else ""
@@ -256,11 +312,13 @@ def main():
         if era in ERAS and meta.get("date"):
             era_dates[era].append(str(meta["date"]))
         new = {
-            "themes": "themes: [" + ", ".join(q(f"[[{t}]]") if t in linked else q(t) for t in themes) + "]"
+            "themes": "themes: [" + ", ".join(q(link("Themes", t)) if t in linked else q(t) for t in themes) + "]"
                       if themes else None,
-            "era": f"era: {q(f'[[{era}]]')}" if era in ERAS else (f"era: {era}" if era else None),
-            "subjects": "subjects: [" + ", ".join(q(f"[[{s}]]") for s in subjects) + "]" if subjects else None,
+            "era": f"era: {q(link('Eras', era))}" if era in ERAS else (f"era: {era}" if era else None),
+            "subjects": "subjects: [" + ", ".join(q(link("Subjects", s)) for s in subjects) + "]" if subjects else None,
         }
+        entries.append({"file": f, "meta": meta, "body": rest, "era": era if era in ERAS else "",
+                        "themes": [t for t in themes if t in linked], "subjects": subjects})
         new = {k: v for k, v in new.items() if v is not None or k == "subjects"}
         text = "---\n" + set_keys(front, new) + rest
         if text != f.read_text():
@@ -279,33 +337,45 @@ def main():
     if args.dry:
         return
 
-    cols = ["file.name", "date", "era", "themes", "people"]
     for folder in ("Themes", "Eras", "Subjects"):
         d = VAULT / folder
         d.mkdir(exist_ok=True)
         for old in d.glob("*.md"):  # regenerate from scratch
             old.unlink()
 
+    def order(e):  # by date; notes with the same date in notebook page order
+        scans = [str(x) for x in as_list(e["meta"].get("scan"))]
+        m = re.match(r"(.*)_p(\d+)", scans[0]) if scans else None
+        part = re.search(rf"{re.escape(scans[0])}_part(\d+)", e["body"]) if scans else None
+        return (str(e["meta"].get("date", "")), m.group(1) if m else "", int(m.group(2)) if m else 0,
+                int(part.group(1)) if part else 0, e["file"].name)
+
+    entries.sort(key=order)
+    intro = ("in date order. Each title opens the full note; the page links open the scanned "
+             "pages. Generated by `tools/build_nav.py`; don't edit by hand.")
+
     for t in sorted(linked):
         fam = family_of(t)
-        sub = f'subject: {q(f"[[{fam}]]")}\n' if fam else ""
+        sub = f'subject: {q(link("Subjects", fam))}\n' if fam else ""
+        sel = [e for e in entries if t in e["themes"]]
         (VAULT / "Themes" / f"{t}.md").write_text(
             f"---\ntags:\n  - theme\n{sub}---\n\n# {t}\n\n"
-            f"{counts[t]} notes. Generated by `tools/build_nav.py`; a note is listed here when its "
-            f"`themes` property links to this page.\n\n" + base_block(cols) + "\n")
+            f"{len(sel)} notes, {intro}\n\n" + reading(sel, show_era=True))
 
     for era, desc in ERAS.items():
-        ds = sorted(era_dates.get(era, []))
+        sel = [e for e in entries if e["era"] == era]
+        ds = sorted(str(e["meta"]["date"]) for e in sel if e["meta"].get("date"))
         span = "" if not ds else (f" {ds[0][:7]}." if ds[0][:7] == ds[-1][:7] else f" {ds[0][:7]} – {ds[-1][:7]}.")
         (VAULT / "Eras" / f"{era}.md").write_text(
-            f"---\ntags:\n  - era\n---\n\n# {era}\n\n{desc}{span} {len(ds)} notes.\n\n"
-            + base_block(["file.name", "date", "themes", "people"]) + "\n")
+            f"---\ntags:\n  - era\n---\n\n# {era}\n\n{desc}{span}\n\n"
+            f"{len(sel)} notes, {intro}\n\n" + reading(sel, show_era=False))
 
-    for s, desc in SUBJECTS.items():
-        ts = ", ".join(f"[[{t}]]" for t in sorted(subj_themes.get(s, [])))
-        (VAULT / "Subjects" / f"{s}.md").write_text(
-            f"---\ntags:\n  - subject\n---\n\n# {s}\n\n{desc}\n\nThemes: {ts}\n\n"
-            + base_block(cols) + "\n")
+    for s_, desc in SUBJECTS.items():
+        ts = ", ".join(link("Themes", t) for t in sorted(subj_themes.get(s_, [])))
+        sel = [e for e in entries if s_ in e["subjects"]]
+        (VAULT / "Subjects" / f"{s_}.md").write_text(
+            f"---\ntags:\n  - subject\n---\n\n# {s_}\n\n{desc}\n\nThemes: {ts}\n\n"
+            f"{len(sel)} notes, {intro}\n\n" + reading(sel, show_era=True))
     print("pages written: Themes/, Eras/, Subjects/")
 
 

@@ -1,9 +1,9 @@
 ---
 date: 1994-07-29
-era: "[[Summer 1994, Travel and Alps]]"
+era: "[[Eras/Summer 1994, Travel and Alps|Summer 1994, Travel and Alps]]"
 people: [René Thom, Paul Feyerabend, Bobby McFerrin]
-themes: ["[[semiotics]]", "mathematics", "symbols", "[[language]]", "flight-notes"]
-subjects: ["[[Language and Literature]]", "[[Mind, Science and Systems]]"]
+themes: ["[[Themes/semiotics|semiotics]]", "mathematics", "symbols", "[[Themes/language|language]]", "flight-notes"]
+subjects: ["[[Subjects/Language and Literature|Language and Literature]]", "[[Subjects/Mind, Science and Systems|Mind, Science and Systems]]"]
 type: journal-fragment
 scan: scan_1994_2_p017
 ---

@@ -1,10 +1,10 @@
 ---
 date: 1995-03-12
 dated: estimated
-era: "[[Final Semester Yale 1995]]"
+era: "[[Eras/Final Semester Yale 1995|Final Semester Yale 1995]]"
 people: [Elizabeth Bishop, Wordsworth]
-themes: ["[[poetry]]", "[[reading]]", "[[fear]]"]
-subjects: ["[[Language and Literature]]", "[[Self]]"]
+themes: ["[[Themes/poetry|poetry]]", "[[Themes/reading|reading]]", "[[Themes/fear|fear]]"]
+subjects: ["[[Subjects/Language and Literature|Language and Literature]]", "[[Subjects/Self|Self]]"]
 type: journal-fragment
 scan: scan_1995_p051
 ---

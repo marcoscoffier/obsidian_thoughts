@@ -1,9 +1,9 @@
 ---
 date: 1997
-era: "[[Paris, Beaux-Arts]]"
+era: "[[Eras/Paris, Beaux-Arts|Paris, Beaux-Arts]]"
 people: [Giovanni Gabrieli, John Chowning]
-themes: ["[[sound]]", "computer-music", "spatialisation", "[[french]]", "[[coursework]]"]
-subjects: ["[[Sound and Music]]", "[[Perception and Space]]", "[[Language and Literature]]", "[[Art Theory and the Art World]]"]
+themes: ["[[Themes/sound|sound]]", "computer-music", "spatialisation", "[[Themes/french|french]]", "[[Themes/coursework|coursework]]"]
+subjects: ["[[Subjects/Sound and Music|Sound and Music]]", "[[Subjects/Perception and Space|Perception and Space]]", "[[Subjects/Language and Literature|Language and Literature]]", "[[Subjects/Art Theory and the Art World|Art Theory and the Art World]]"]
 type: journal-fragment
 scan: [scan_1997_p019, scan_1997_p020]
 ---

@@ -1,10 +1,10 @@
 ---
 date: 1999-06-15
 dated: estimated
-era: "[[Paris, Beaux-Arts]]"
+era: "[[Eras/Paris, Beaux-Arts|Paris, Beaux-Arts]]"
 people: [Colin Rowe, Robert Venturi, Panerai]
-themes: ["[[french]]", "[[urbanism]]", "[[coursework]]", "[[bricolage]]", "[[architecture]]"]
-subjects: ["[[Language and Literature]]", "[[Places and Cities]]", "[[Art Theory and the Art World]]", "[[Making Art]]"]
+themes: ["[[Themes/french|french]]", "[[Themes/urbanism|urbanism]]", "[[Themes/coursework|coursework]]", "[[Themes/bricolage|bricolage]]", "[[Themes/architecture|architecture]]"]
+subjects: ["[[Subjects/Language and Literature|Language and Literature]]", "[[Subjects/Places and Cities|Places and Cities]]", "[[Subjects/Art Theory and the Art World|Art Theory and the Art World]]", "[[Subjects/Making Art|Making Art]]"]
 type: class-notes
 scan: scan_1997_2_p068
 ---

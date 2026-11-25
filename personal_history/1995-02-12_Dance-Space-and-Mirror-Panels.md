@@ -1,10 +1,10 @@
 ---
 date: 1995-02-12
 dated: estimated
-era: "[[Final Semester Yale 1995]]"
+era: "[[Eras/Final Semester Yale 1995|Final Semester Yale 1995]]"
 people: []
-themes: ["[[dance]]", "[[space]]", "[[mirrors]]", "[[body]]"]
-subjects: ["[[Making Art]]", "[[Perception and Space]]", "[[Self]]"]
+themes: ["[[Themes/dance|dance]]", "[[Themes/space|space]]", "[[Themes/mirrors|mirrors]]", "[[Themes/body|body]]"]
+subjects: ["[[Subjects/Making Art|Making Art]]", "[[Subjects/Perception and Space|Perception and Space]]", "[[Subjects/Self|Self]]"]
 type: journal-fragment
 scan: scan_1995_p036
 ---

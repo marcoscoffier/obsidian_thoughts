@@ -1,10 +1,10 @@
 ---
 date: 1998-10-15
 dated: estimated
-era: "[[Paris, Beaux-Arts]]"
+era: "[[Eras/Japan|Japan]]"
 people: [Marie, Bustamante, Miwa]
-themes: ["[[travel]]", "[[japan]]", "[[craft]]", "[[studio-critique]]"]
-subjects: ["[[Places and Cities]]", "[[Making Art]]", "[[Art Theory and the Art World]]"]
+themes: ["[[Themes/travel|travel]]", "[[Themes/japan|japan]]", "[[Themes/craft|craft]]", "[[Themes/studio-critique|studio-critique]]"]
+subjects: ["[[Subjects/Places and Cities|Places and Cities]]", "[[Subjects/Making Art|Making Art]]", "[[Subjects/Art Theory and the Art World|Art Theory and the Art World]]"]
 type: journal-fragment
 scan: scan_1997_2_p012
 ---

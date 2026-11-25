@@ -1,9 +1,9 @@
 ---
 date: 1994-06-15
-era: "[[Yale, New Haven]]"
+era: "[[Eras/Yale, New Haven|Yale, New Haven]]"
 people: [Katherine, Jan Groover, Richard Diebenkorn]
-themes: ["[[intimacy]]", "shared-imagination", "art-viewing", "[[retrospective-self]]"]
-subjects: ["[[Love and Relationships]]", "[[Perception and Space]]", "[[Self]]"]
+themes: ["[[Themes/intimacy|intimacy]]", "shared-imagination", "art-viewing", "[[Themes/retrospective-self|retrospective-self]]"]
+subjects: ["[[Subjects/Love and Relationships|Love and Relationships]]", "[[Subjects/Perception and Space|Perception and Space]]", "[[Subjects/Self|Self]]"]
 type: journal-fragment
 notebook_page: 20
 scan: scan_1994_1_p031

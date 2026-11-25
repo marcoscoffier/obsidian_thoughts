@@ -1,9 +1,9 @@
 ---
 date: 1994-07-30
-era: "[[Summer 1994, Travel and Alps]]"
+era: "[[Eras/Summer 1994, Travel and Alps|Summer 1994, Travel and Alps]]"
 people: [Gregory Bateson, Dia Moore, Antoine de Saint-Exupéry]
-themes: ["[[semiotics]]", "bateson", "[[play]]", "metacommunication", "[[framing]]", "perfume"]
-subjects: ["[[Language and Literature]]", "[[Mind, Science and Systems]]", "[[Perception and Space]]", "[[Self]]"]
+themes: ["[[Themes/semiotics|semiotics]]", "bateson", "[[Themes/play|play]]", "metacommunication", "[[Themes/framing|framing]]", "perfume"]
+subjects: ["[[Subjects/Language and Literature|Language and Literature]]", "[[Subjects/Mind, Science and Systems|Mind, Science and Systems]]", "[[Subjects/Perception and Space|Perception and Space]]", "[[Subjects/Self|Self]]"]
 type: journal-fragment
 notebook_page: 90
 scan: [scan_1994_2_p024, scan_1994_2_p025]

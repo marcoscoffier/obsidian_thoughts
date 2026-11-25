@@ -1,9 +1,9 @@
 ---
 date: 1995-01-08
-era: "[[Final Semester Yale 1995]]"
+era: "[[Eras/Final Semester Yale 1995|Final Semester Yale 1995]]"
 people: [Merleau-Ponty, Cézanne, Émile Bernard]
-themes: ["[[french]]", "[[reading]]", "[[painting-theory]]", "[[perception]]"]
-subjects: ["[[Language and Literature]]", "[[Art Theory and the Art World]]", "[[Perception and Space]]"]
+themes: ["[[Themes/french|french]]", "[[Themes/reading|reading]]", "[[Themes/painting-theory|painting-theory]]", "[[Themes/perception|perception]]"]
+subjects: ["[[Subjects/Language and Literature|Language and Literature]]", "[[Subjects/Art Theory and the Art World|Art Theory and the Art World]]", "[[Subjects/Perception and Space|Perception and Space]]"]
 type: journal-fragment
 scan: [scan_1995_p007, scan_1995_p008]
 ---

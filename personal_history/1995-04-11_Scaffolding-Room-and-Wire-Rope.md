@@ -1,10 +1,10 @@
 ---
 date: 1995-04-11
 dated: estimated
-era: "[[Final Semester Yale 1995]]"
+era: "[[Eras/Final Semester Yale 1995|Final Semester Yale 1995]]"
 people: [Kirk J. Schneider, Hitchcock]
-themes: ["[[installation]]", "[[sculpture-ideas]]", "[[reading-list]]"]
-subjects: ["[[Making Art]]", "[[Language and Literature]]"]
+themes: ["[[Themes/installation|installation]]", "[[Themes/sculpture-ideas|sculpture-ideas]]", "[[Themes/reading-list|reading-list]]"]
+subjects: ["[[Subjects/Making Art|Making Art]]", "[[Subjects/Language and Literature|Language and Literature]]"]
 type: visual-record
 scan: scan_1995_p066
 ---

@@ -1,9 +1,9 @@
 ---
 date: 1997
-era: "[[Paris, Beaux-Arts]]"
+era: "[[Eras/Paris, Beaux-Arts|Paris, Beaux-Arts]]"
 people: []
-themes: ["[[installation]]", "sensors", "interactivity", "[[sound]]", "immersion"]
-subjects: ["[[Making Art]]", "[[Mind, Science and Systems]]", "[[Self]]", "[[Sound and Music]]", "[[Perception and Space]]"]
+themes: ["[[Themes/installation|installation]]", "sensors", "interactivity", "[[Themes/sound|sound]]", "immersion"]
+subjects: ["[[Subjects/Making Art|Making Art]]", "[[Subjects/Mind, Science and Systems|Mind, Science and Systems]]", "[[Subjects/Self|Self]]", "[[Subjects/Sound and Music|Sound and Music]]", "[[Subjects/Perception and Space|Perception and Space]]"]
 type: journal-fragment
 scan: [scan_1997_p030, scan_1997_p031]
 ---

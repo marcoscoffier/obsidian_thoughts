@@ -1,10 +1,10 @@
 ---
 date: 1999-06-15
 dated: estimated
-era: "[[Paris, Beaux-Arts]]"
+era: "[[Eras/Paris, Beaux-Arts|Paris, Beaux-Arts]]"
 people: [Melvin Webber]
-themes: ["[[french]]", "[[urbanism]]", "[[craft]]", "[[bricolage]]"]
-subjects: ["[[Language and Literature]]", "[[Places and Cities]]", "[[Making Art]]"]
+themes: ["[[Themes/french|french]]", "[[Themes/urbanism|urbanism]]", "[[Themes/craft|craft]]", "[[Themes/bricolage|bricolage]]"]
+subjects: ["[[Subjects/Language and Literature|Language and Literature]]", "[[Subjects/Places and Cities|Places and Cities]]", "[[Subjects/Making Art|Making Art]]"]
 type: journal-fragment
 scan: scan_1997_2_p079
 ---

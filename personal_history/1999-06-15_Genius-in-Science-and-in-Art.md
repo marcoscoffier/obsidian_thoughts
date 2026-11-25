@@ -1,10 +1,10 @@
 ---
 date: 1999-06-15
 dated: estimated
-era: "[[Paris, Beaux-Arts]]"
+era: "[[Eras/Paris, Beaux-Arts|Paris, Beaux-Arts]]"
 people: []
-themes: ["[[art-vs-science]]", "[[criticism]]", "[[ego]]", "[[self-criticism]]"]
-subjects: ["[[Mind, Science and Systems]]", "[[Art Theory and the Art World]]", "[[Self]]"]
+themes: ["[[Themes/art-vs-science|art-vs-science]]", "[[Themes/criticism|criticism]]", "[[Themes/ego|ego]]", "[[Themes/self-criticism|self-criticism]]"]
+subjects: ["[[Subjects/Mind, Science and Systems|Mind, Science and Systems]]", "[[Subjects/Art Theory and the Art World|Art Theory and the Art World]]", "[[Subjects/Self|Self]]"]
 type: journal-fragment
 scan: scan_1997_2_p072
 ---

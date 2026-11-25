@@ -1,9 +1,9 @@
 ---
 date: 1997
-era: "[[Paris, Beaux-Arts]]"
+era: "[[Eras/Paris, Beaux-Arts|Paris, Beaux-Arts]]"
 people: [Geoffrey Chaucer]
-themes: ["[[language]]", "etymology", "[[literature]]"]
-subjects: ["[[Language and Literature]]"]
+themes: ["[[Themes/language|language]]", "etymology", "[[Themes/literature|literature]]"]
+subjects: ["[[Subjects/Language and Literature|Language and Literature]]"]
 type: journal-fragment
 scan: scan_1997_p027
 ---

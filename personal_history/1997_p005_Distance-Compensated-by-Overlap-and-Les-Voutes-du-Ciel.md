@@ -1,9 +1,9 @@
 ---
 date: 1997
-era: "[[Paris, Beaux-Arts]]"
+era: "[[Eras/Paris, Beaux-Arts|Paris, Beaux-Arts]]"
 people: []
-themes: ["[[sculpture-ideas]]", "[[sky]]", "[[optics]]", "notre-dame"]
-subjects: ["[[Making Art]]", "[[Perception and Space]]", "[[Places and Cities]]"]
+themes: ["[[Themes/sculpture-ideas|sculpture-ideas]]", "[[Themes/sky|sky]]", "[[Themes/optics|optics]]", "notre-dame"]
+subjects: ["[[Subjects/Making Art|Making Art]]", "[[Subjects/Perception and Space|Perception and Space]]", "[[Subjects/Places and Cities|Places and Cities]]"]
 type: visual-record
 scan: scan_1997_p005
 ---

@@ -1,9 +1,9 @@
 ---
 date: 1995-02-05
-era: "[[Final Semester Yale 1995]]"
+era: "[[Eras/Final Semester Yale 1995|Final Semester Yale 1995]]"
 people: [Henri Lefebvre, Lucretius, Dan Graham, Saint-Exupéry, Turrell, Lindsay, Megan]
-themes: ["[[space]]", "scale", "[[literature]]", "[[light]]", "[[observation]]"]
-subjects: ["[[Perception and Space]]", "[[Language and Literature]]"]
+themes: ["[[Themes/space|space]]", "scale", "[[Themes/literature|literature]]", "[[Themes/light|light]]", "[[Themes/observation|observation]]"]
+subjects: ["[[Subjects/Perception and Space|Perception and Space]]", "[[Subjects/Language and Literature|Language and Literature]]"]
 type: journal-fragment
 scan: [scan_1995_p028, scan_1995_p029]
 ---

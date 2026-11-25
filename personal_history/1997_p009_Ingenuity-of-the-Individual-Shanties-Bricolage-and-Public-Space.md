@@ -1,9 +1,9 @@
 ---
 date: 1997
-era: "[[Paris, Beaux-Arts]]"
+era: "[[Eras/Paris, Beaux-Arts|Paris, Beaux-Arts]]"
 people: [Andrea Palladio, Robinson Crusoe]
-themes: ["[[public-space]]", "[[urbanism]]", "[[bricolage]]", "[[architecture]]", "individuality"]
-subjects: ["[[Places and Cities]]", "[[Making Art]]", "[[Self]]"]
+themes: ["[[Themes/public-space|public-space]]", "[[Themes/urbanism|urbanism]]", "[[Themes/bricolage|bricolage]]", "[[Themes/architecture|architecture]]", "individuality"]
+subjects: ["[[Subjects/Places and Cities|Places and Cities]]", "[[Subjects/Making Art|Making Art]]", "[[Subjects/Self|Self]]"]
 type: journal-fragment
 scan: [scan_1997_p009, scan_1997_p010, scan_1997_p011]
 ---

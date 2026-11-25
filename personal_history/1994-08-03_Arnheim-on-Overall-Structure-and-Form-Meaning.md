@@ -1,9 +1,9 @@
 ---
 date: 1994-08-03
-era: "[[Summer 1994, Travel and Alps]]"
+era: "[[Eras/Summer 1994, Travel and Alps|Summer 1994, Travel and Alps]]"
 people: [Rudolf Arnheim, Michelangelo, Eduardo Torroja]
-themes: ["[[arnheim]]", "[[gestalt]]", "simplicity", "form-and-meaning", "[[writing-style]]"]
-subjects: ["[[Perception and Space]]", "[[Mind, Science and Systems]]", "[[Art Theory and the Art World]]", "[[Language and Literature]]"]
+themes: ["[[Themes/arnheim|arnheim]]", "[[Themes/gestalt|gestalt]]", "simplicity", "form-and-meaning", "[[Themes/writing-style|writing-style]]"]
+subjects: ["[[Subjects/Perception and Space|Perception and Space]]", "[[Subjects/Mind, Science and Systems|Mind, Science and Systems]]", "[[Subjects/Art Theory and the Art World|Art Theory and the Art World]]", "[[Subjects/Language and Literature|Language and Literature]]"]
 type: journal-fragment
 notebook_page: 101
 scan: [scan_1994_2_p041, scan_1994_2_p042]

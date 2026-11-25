@@ -1,10 +1,10 @@
 ---
 date: 1998-12-15
 dated: estimated
-era: "[[Paris, Beaux-Arts]]"
+era: "[[Eras/Paris, Beaux-Arts|Paris, Beaux-Arts]]"
 people: []
-themes: ["[[french]]", "emotional-distance"]
-subjects: ["[[Language and Literature]]", "[[Love and Relationships]]"]
+themes: ["[[Themes/french|french]]", "emotional-distance"]
+subjects: ["[[Subjects/Language and Literature|Language and Literature]]", "[[Subjects/Love and Relationships|Love and Relationships]]"]
 type: journal-fragment
 scan: scan_1997_2_p066
 ---

@@ -1,9 +1,9 @@
 ---
 date: 1994-07-28
-era: "[[Yale, New Haven]]"
+era: "[[Eras/Yale, New Haven|Yale, New Haven]]"
 people: [Benoit Mandelbrot]
-themes: ["fractals", "[[semiotics]]", "notation", "typography"]
-subjects: ["[[Mind, Science and Systems]]", "[[Language and Literature]]", "[[Sound and Music]]"]
+themes: ["fractals", "[[Themes/semiotics|semiotics]]", "notation", "typography"]
+subjects: ["[[Subjects/Mind, Science and Systems|Mind, Science and Systems]]", "[[Subjects/Language and Literature|Language and Literature]]", "[[Subjects/Sound and Music|Sound and Music]]"]
 type: journal-fragment
 scan: scan_1994_2_p010
 ---

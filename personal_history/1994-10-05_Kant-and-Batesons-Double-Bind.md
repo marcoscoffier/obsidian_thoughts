@@ -1,9 +1,9 @@
 ---
 date: 1994-10-05
-era: "[[Yale, New Haven]]"
+era: "[[Eras/Yale, New Haven|Yale, New Haven]]"
 people: [Immanuel Kant, Gregory Bateson, Carl Jung, Stanislav Grof]
-themes: ["[[epistemology]]", "double-bind", "[[perception]]"]
-subjects: ["[[Mind, Science and Systems]]", "[[Love and Relationships]]", "[[Perception and Space]]"]
+themes: ["[[Themes/epistemology|epistemology]]", "double-bind", "[[Themes/perception|perception]]"]
+subjects: ["[[Subjects/Mind, Science and Systems|Mind, Science and Systems]]", "[[Subjects/Love and Relationships|Love and Relationships]]", "[[Subjects/Perception and Space|Perception and Space]]"]
 type: journal-fragment
 notebook_page: 10
 scan: [scan_1994_1_p015, scan_1994_1_p016]

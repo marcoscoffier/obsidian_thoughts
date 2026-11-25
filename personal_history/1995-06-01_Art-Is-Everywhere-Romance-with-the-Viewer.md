@@ -1,10 +1,10 @@
 ---
 date: 1995-06-01
 dated: estimated
-era: "[[DC, Post-College]]"
+era: "[[Eras/DC, Post-College|DC, Post-College]]"
 people: [Wordsworth, Ruskin, Cage]
-themes: ["[[art-theory]]", "[[mirrors]]", "[[writing-process]]"]
-subjects: ["[[Art Theory and the Art World]]", "[[Perception and Space]]", "[[Language and Literature]]"]
+themes: ["[[Themes/art-theory|art-theory]]", "[[Themes/mirrors|mirrors]]", "[[Themes/writing-process|writing-process]]"]
+subjects: ["[[Subjects/Art Theory and the Art World|Art Theory and the Art World]]", "[[Subjects/Perception and Space|Perception and Space]]", "[[Subjects/Language and Literature|Language and Literature]]"]
 type: journal-fragment
 scan: scan_1995_p073
 ---

@@ -1,9 +1,9 @@
 ---
 date: 1994-08-10
-era: "[[Summer 1994, Travel and Alps]]"
+era: "[[Eras/Summer 1994, Travel and Alps|Summer 1994, Travel and Alps]]"
 people: [Katherine]
-themes: ["[[gender]]", "athleticism", "body-image"]
-subjects: ["[[Self]]"]
+themes: ["[[Themes/gender|gender]]", "athleticism", "body-image"]
+subjects: ["[[Subjects/Self|Self]]"]
 type: journal-fragment
 scan: [scan_1994_1_p053, scan_1994_1_p055]
 ---

@@ -1,9 +1,9 @@
 ---
 date: 1994-07-28
-era: "[[Yale, New Haven]]"
+era: "[[Eras/Yale, New Haven|Yale, New Haven]]"
 people: []
-themes: ["[[vocation]]", "[[art-vs-science]]", "[[solitude]]", "community", "[[identity]]"]
-subjects: ["[[Self]]", "[[Mind, Science and Systems]]", "[[Love and Relationships]]"]
+themes: ["[[Themes/vocation|vocation]]", "[[Themes/art-vs-science|art-vs-science]]", "[[Themes/solitude|solitude]]", "community", "[[Themes/identity|identity]]"]
+subjects: ["[[Subjects/Self|Self]]", "[[Subjects/Mind, Science and Systems|Mind, Science and Systems]]", "[[Subjects/Love and Relationships|Love and Relationships]]"]
 type: journal-fragment
 notebook_page: 85
 scan: [scan_1994_2_p014, scan_1994_2_p015]

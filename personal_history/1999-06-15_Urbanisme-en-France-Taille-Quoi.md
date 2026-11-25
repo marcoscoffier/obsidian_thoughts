@@ -1,10 +1,10 @@
 ---
 date: 1999-06-15
 dated: estimated
-era: "[[Paris, Beaux-Arts]]"
+era: "[[Eras/Paris, Beaux-Arts|Paris, Beaux-Arts]]"
 people: [Jean Dubuffet]
-themes: ["[[french]]", "[[urbanism]]", "[[city]]", "[[nature]]"]
-subjects: ["[[Language and Literature]]", "[[Places and Cities]]"]
+themes: ["[[Themes/french|french]]", "[[Themes/urbanism|urbanism]]", "[[Themes/city|city]]", "[[Themes/nature|nature]]"]
+subjects: ["[[Subjects/Language and Literature|Language and Literature]]", "[[Subjects/Places and Cities|Places and Cities]]"]
 type: journal-fragment
 scan: scan_1997_2_p069
 ---

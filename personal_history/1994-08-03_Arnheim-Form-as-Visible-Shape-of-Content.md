@@ -1,9 +1,9 @@
 ---
 date: 1994-08-03
-era: "[[Summer 1994, Travel and Alps]]"
+era: "[[Eras/Summer 1994, Travel and Alps|Summer 1994, Travel and Alps]]"
 people: [Rudolf Arnheim, Ben Shahn, Ludwig Wittgenstein, Ron Jones, Albrecht Dürer, Johann Wolfgang von Goethe]
-themes: ["[[arnheim]]", "form-and-content", "[[illusion]]", "film-vs-still", "[[sculpture]]", "[[installation]]"]
-subjects: ["[[Perception and Space]]", "[[Art Theory and the Art World]]", "[[Making Art]]"]
+themes: ["[[Themes/arnheim|arnheim]]", "form-and-content", "[[Themes/illusion|illusion]]", "film-vs-still", "[[Themes/sculpture|sculpture]]", "[[Themes/installation|installation]]"]
+subjects: ["[[Subjects/Perception and Space|Perception and Space]]", "[[Subjects/Art Theory and the Art World|Art Theory and the Art World]]", "[[Subjects/Making Art|Making Art]]"]
 type: journal-fragment
 notebook_page: 102
 scan: [scan_1994_2_p043, scan_1994_2_p044]

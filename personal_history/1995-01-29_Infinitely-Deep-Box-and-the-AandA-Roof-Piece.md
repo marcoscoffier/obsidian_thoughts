@@ -1,10 +1,10 @@
 ---
 date: 1995-01-29
 dated: estimated
-era: "[[Final Semester Yale 1995]]"
+era: "[[Eras/Final Semester Yale 1995|Final Semester Yale 1995]]"
 people: [Turrell, Amy, Katherine]
-themes: ["[[installation]]", "[[sculpture-ideas]]", "[[mirrors]]", "[[sky]]", "[[turrell]]"]
-subjects: ["[[Making Art]]", "[[Perception and Space]]"]
+themes: ["[[Themes/installation|installation]]", "[[Themes/sculpture-ideas|sculpture-ideas]]", "[[Themes/mirrors|mirrors]]", "[[Themes/sky|sky]]", "[[Themes/turrell|turrell]]"]
+subjects: ["[[Subjects/Making Art|Making Art]]", "[[Subjects/Perception and Space|Perception and Space]]"]
 type: journal-fragment
 scan: scan_1995_p027
 ---

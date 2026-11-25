@@ -1,9 +1,9 @@
 ---
 date: 1997
-era: "[[Paris, Beaux-Arts]]"
+era: "[[Eras/Paris, Beaux-Arts|Paris, Beaux-Arts]]"
 people: []
-themes: ["signals", "[[perception]]", "[[body]]", "woodworking"]
-subjects: ["[[Mind, Science and Systems]]", "[[Perception and Space]]", "[[Self]]", "[[Making Art]]"]
+themes: ["signals", "[[Themes/perception|perception]]", "[[Themes/body|body]]", "woodworking"]
+subjects: ["[[Subjects/Mind, Science and Systems|Mind, Science and Systems]]", "[[Subjects/Perception and Space|Perception and Space]]", "[[Subjects/Self|Self]]", "[[Subjects/Making Art|Making Art]]"]
 type: visual-record
 scan: scan_1997_p034
 ---

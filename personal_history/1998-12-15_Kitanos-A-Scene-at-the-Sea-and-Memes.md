@@ -1,10 +1,10 @@
 ---
 date: 1998-12-15
 dated: estimated
-era: "[[Paris, Beaux-Arts]]"
+era: "[[Eras/Paris, Beaux-Arts|Paris, Beaux-Arts]]"
 people: [Takeshi Kitano]
-themes: ["[[film]]", "[[perception]]", "[[mass-culture]]"]
-subjects: ["[[Art Theory and the Art World]]", "[[Perception and Space]]"]
+themes: ["[[Themes/film|film]]", "[[Themes/perception|perception]]", "[[Themes/mass-culture|mass-culture]]"]
+subjects: ["[[Subjects/Art Theory and the Art World|Art Theory and the Art World]]", "[[Subjects/Perception and Space|Perception and Space]]"]
 type: journal-fragment
 scan: [scan_1997_2_p051, scan_1997_2_p053]
 ---

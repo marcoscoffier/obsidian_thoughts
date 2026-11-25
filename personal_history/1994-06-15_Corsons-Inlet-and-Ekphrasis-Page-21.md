@@ -1,9 +1,9 @@
 ---
 date: 1994-06-15
-era: "[[Yale, New Haven]]"
+era: "[[Eras/Yale, New Haven|Yale, New Haven]]"
 people: [A.R. Ammons, Immanuel Kant]
-themes: ["[[ekphrasis]]", "painting-terms", "naming-vs-generalizing", "mirror-vs-window"]
-subjects: ["[[Language and Literature]]", "[[Making Art]]", "[[Perception and Space]]"]
+themes: ["[[Themes/ekphrasis|ekphrasis]]", "painting-terms", "naming-vs-generalizing", "mirror-vs-window"]
+subjects: ["[[Subjects/Language and Literature|Language and Literature]]", "[[Subjects/Making Art|Making Art]]", "[[Subjects/Perception and Space|Perception and Space]]"]
 type: journal-fragment
 notebook_page: 21
 scan: scan_1994_1_p033

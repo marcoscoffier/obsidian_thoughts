@@ -1,10 +1,10 @@
 ---
 date: 1998-10-15
 dated: estimated
-era: "[[Paris, Beaux-Arts]]"
+era: "[[Eras/Japan|Japan]]"
 people: []
-themes: ["[[sound-art]]", "[[sculpture-ideas]]", "[[technology]]"]
-subjects: ["[[Sound and Music]]", "[[Making Art]]", "[[Mind, Science and Systems]]"]
+themes: ["[[Themes/sound-art|sound-art]]", "[[Themes/sculpture-ideas|sculpture-ideas]]", "[[Themes/technology|technology]]"]
+subjects: ["[[Subjects/Sound and Music|Sound and Music]]", "[[Subjects/Making Art|Making Art]]", "[[Subjects/Mind, Science and Systems|Mind, Science and Systems]]"]
 type: visual-record
 scan: scan_1997_2_p028
 ---

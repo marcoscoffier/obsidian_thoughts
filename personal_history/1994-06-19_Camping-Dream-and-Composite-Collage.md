@@ -1,9 +1,9 @@
 ---
 date: 1994-06-19
-era: "[[Yale, New Haven]]"
+era: "[[Eras/Yale, New Haven|Yale, New Haven]]"
 people: [Katherine, Hull]
-themes: ["[[dreams]]", "[[collage]]", "art-making"]
-subjects: ["[[Self]]", "[[Making Art]]"]
+themes: ["[[Themes/dreams|dreams]]", "[[Themes/collage|collage]]", "art-making"]
+subjects: ["[[Subjects/Self|Self]]", "[[Subjects/Making Art|Making Art]]"]
 type: journal-fragment
 notebook_page: 39
 scan: scan_1994_1_p064

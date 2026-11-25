@@ -1,9 +1,9 @@
 ---
 date: 1995-09-24
-era: "[[DC, Post-College]]"
+era: "[[Eras/DC, Post-College|DC, Post-College]]"
 people: [Richie, Coach Markoff]
-themes: ["[[memory]]", "[[childhood-memory]]", "[[place-attachment]]"]
-subjects: ["[[Self]]", "[[Family]]", "[[Places and Cities]]"]
+themes: ["[[Themes/memory|memory]]", "[[Themes/childhood-memory|childhood-memory]]", "[[Themes/place-attachment|place-attachment]]"]
+subjects: ["[[Subjects/Self|Self]]", "[[Subjects/Family|Family]]", "[[Subjects/Places and Cities|Places and Cities]]"]
 type: journal-fragment
 scan: scan_1995_p098
 ---

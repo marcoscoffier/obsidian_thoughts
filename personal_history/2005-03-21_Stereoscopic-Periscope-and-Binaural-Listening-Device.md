@@ -1,10 +1,10 @@
 ---
 date: 2005-03-21
 dated: estimated
-era: "[[New York 2005]]"
+era: "[[Eras/New York 2005|New York 2005]]"
 people: []
-themes: ["[[perception]]", "[[sound]]", "[[optics]]", "[[sculpture-ideas]]"]
-subjects: ["[[Perception and Space]]", "[[Sound and Music]]", "[[Making Art]]"]
+themes: ["[[Themes/perception|perception]]", "[[Themes/sound|sound]]", "[[Themes/optics|optics]]", "[[Themes/sculpture-ideas|sculpture-ideas]]"]
+subjects: ["[[Subjects/Perception and Space|Perception and Space]]", "[[Subjects/Sound and Music|Sound and Music]]", "[[Subjects/Making Art|Making Art]]"]
 type: journal-fragment
 scan: scan_1997_2_p095
 ---

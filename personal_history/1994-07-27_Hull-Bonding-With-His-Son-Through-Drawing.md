@@ -1,9 +1,9 @@
 ---
 date: 1994-07-27
-era: "[[Yale, New Haven]]"
+era: "[[Eras/Yale, New Haven|Yale, New Haven]]"
 people: [John Hull, Mom]
-themes: ["mentorship", "father-son", "[[family]]", "[[childhood-memory]]", "[[painting-technique]]"]
-subjects: ["[[Love and Relationships]]", "[[Family]]", "[[Making Art]]"]
+themes: ["mentorship", "father-son", "[[Themes/family|family]]", "[[Themes/childhood-memory|childhood-memory]]", "[[Themes/painting-technique|painting-technique]]"]
+subjects: ["[[Subjects/Love and Relationships|Love and Relationships]]", "[[Subjects/Family|Family]]", "[[Subjects/Making Art|Making Art]]"]
 type: journal-fragment
 notebook_page: 81
 scan: scan_1994_2_p007

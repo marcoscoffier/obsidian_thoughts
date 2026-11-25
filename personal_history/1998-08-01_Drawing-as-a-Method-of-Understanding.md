@@ -1,10 +1,10 @@
 ---
 date: 1998-08-01
 dated: estimated
-era: "[[Paris, Beaux-Arts]]"
+era: "[[Eras/Paris, Beaux-Arts|Paris, Beaux-Arts]]"
 people: []
-themes: ["[[drawing]]", "[[sound]]", "[[observation]]"]
-subjects: ["[[Making Art]]", "[[Sound and Music]]", "[[Perception and Space]]"]
+themes: ["[[Themes/drawing|drawing]]", "[[Themes/sound|sound]]", "[[Themes/observation|observation]]"]
+subjects: ["[[Subjects/Making Art|Making Art]]", "[[Subjects/Sound and Music|Sound and Music]]", "[[Subjects/Perception and Space|Perception and Space]]"]
 type: journal-fragment
 scan: scan_1997_2_p001
 ---

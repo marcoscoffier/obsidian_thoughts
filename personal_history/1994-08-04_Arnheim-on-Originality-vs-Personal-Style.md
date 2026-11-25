@@ -1,9 +1,9 @@
 ---
 date: 1994-08-04
-era: "[[Summer 1994, Travel and Alps]]"
+era: "[[Eras/Summer 1994, Travel and Alps|Summer 1994, Travel and Alps]]"
 people: [Rudolf Arnheim]
-themes: ["originality", "necessity-vs-style", "[[art-theory]]"]
-subjects: ["[[Mind, Science and Systems]]", "[[Art Theory and the Art World]]"]
+themes: ["originality", "necessity-vs-style", "[[Themes/art-theory|art-theory]]"]
+subjects: ["[[Subjects/Mind, Science and Systems|Mind, Science and Systems]]", "[[Subjects/Art Theory and the Art World|Art Theory and the Art World]]"]
 type: journal-fragment
 notebook_page: 104
 scan: photo-Screenshot_2026-11-18_at_10.27.46_AM

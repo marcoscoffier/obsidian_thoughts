@@ -1,10 +1,10 @@
 ---
 date: 1998-10-15
 dated: estimated
-era: "[[Paris, Beaux-Arts]]"
+era: "[[Eras/Japan|Japan]]"
 people: [Zeno]
-themes: ["[[dreams]]", "[[play]]"]
-subjects: ["[[Self]]", "[[Mind, Science and Systems]]"]
+themes: ["[[Themes/dreams|dreams]]", "[[Themes/play|play]]"]
+subjects: ["[[Subjects/Self|Self]]", "[[Subjects/Mind, Science and Systems|Mind, Science and Systems]]"]
 type: journal-fragment
 scan: [scan_1997_2_p009, scan_1997_2_p010]
 ---

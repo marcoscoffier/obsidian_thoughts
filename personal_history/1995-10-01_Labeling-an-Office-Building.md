@@ -1,10 +1,10 @@
 ---
 date: 1995-10-01
 dated: estimated
-era: "[[DC, Post-College]]"
+era: "[[Eras/DC, Post-College|DC, Post-College]]"
 people: []
-themes: ["[[installation]]", "signs", "[[observation]]"]
-subjects: ["[[Making Art]]", "[[Language and Literature]]", "[[Perception and Space]]"]
+themes: ["[[Themes/installation|installation]]", "signs", "[[Themes/observation|observation]]"]
+subjects: ["[[Subjects/Making Art|Making Art]]", "[[Subjects/Language and Literature|Language and Literature]]", "[[Subjects/Perception and Space|Perception and Space]]"]
 type: journal-fragment
 scan: scan_1995_p035
 ---

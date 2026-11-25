@@ -1,10 +1,10 @@
 ---
 date: 1995-04-11
 dated: estimated
-era: "[[Final Semester Yale 1995]]"
+era: "[[Eras/Final Semester Yale 1995|Final Semester Yale 1995]]"
 people: [Merleau-Ponty, Cézanne, Bachelard, Proust, Saint-Exupéry, Breton]
-themes: ["[[space]]", "[[writing-process]]", "[[painting-theory]]", "[[language]]", "[[memory]]"]
-subjects: ["[[Perception and Space]]", "[[Language and Literature]]", "[[Art Theory and the Art World]]", "[[Self]]"]
+themes: ["[[Themes/space|space]]", "[[Themes/writing-process|writing-process]]", "[[Themes/painting-theory|painting-theory]]", "[[Themes/language|language]]", "[[Themes/memory|memory]]"]
+subjects: ["[[Subjects/Perception and Space|Perception and Space]]", "[[Subjects/Language and Literature|Language and Literature]]", "[[Subjects/Art Theory and the Art World|Art Theory and the Art World]]", "[[Subjects/Self|Self]]"]
 type: journal-fragment
 scan: scan_1995_p065
 ---

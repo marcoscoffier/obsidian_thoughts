@@ -1,9 +1,9 @@
 ---
 date: 1994-08-12
-era: "[[Summer 1994, Travel and Alps]]"
+era: "[[Eras/Summer 1994, Travel and Alps|Summer 1994, Travel and Alps]]"
 people: [Dad, Laurent, Julien, Raymond Fiolle]
-themes: ["mountaineering", "[[flight]]", "[[perspective]]"]
-subjects: ["[[Self]]", "[[Places and Cities]]", "[[Perception and Space]]"]
+themes: ["mountaineering", "[[Themes/flight|flight]]", "[[Themes/perspective|perspective]]"]
+subjects: ["[[Subjects/Self|Self]]", "[[Subjects/Places and Cities|Places and Cities]]", "[[Subjects/Perception and Space|Perception and Space]]"]
 type: journal-fragment
 notebook_page: 69
 scan: [scan_1994_1_p115, scan_1994_1_p116]

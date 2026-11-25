@@ -1,10 +1,10 @@
 ---
 date: 1998-12-15
 dated: estimated
-era: "[[Paris, Beaux-Arts]]"
+era: "[[Eras/Paris, Beaux-Arts|Paris, Beaux-Arts]]"
 people: [Howard Gardner, Descartes, Plato, Locke, Kant, Steven Pinker, Bertrand Russell, Alfred North Whitehead, Wittgenstein, W. V. O. Quine]
-themes: ["[[reading]]", "[[cognition]]", "[[epistemology]]", "[[language]]", "[[play]]"]
-subjects: ["[[Language and Literature]]", "[[Mind, Science and Systems]]"]
+themes: ["[[Themes/reading|reading]]", "[[Themes/cognition|cognition]]", "[[Themes/epistemology|epistemology]]", "[[Themes/language|language]]", "[[Themes/play|play]]"]
+subjects: ["[[Subjects/Language and Literature|Language and Literature]]", "[[Subjects/Mind, Science and Systems|Mind, Science and Systems]]"]
 type: journal-fragment
 scan: [scan_1997_2_p063, scan_1997_2_p064, scan_1997_2_p065]
 ---

@@ -1,10 +1,10 @@
 ---
 date: 1998-08-01
 dated: estimated
-era: "[[Paris, Beaux-Arts]]"
+era: "[[Eras/Paris, Beaux-Arts|Paris, Beaux-Arts]]"
 people: [Douglas Hofstadter]
-themes: ["[[cognition]]", "[[systems]]", "[[reading]]"]
-subjects: ["[[Mind, Science and Systems]]", "[[Language and Literature]]"]
+themes: ["[[Themes/cognition|cognition]]", "[[Themes/systems|systems]]", "[[Themes/reading|reading]]"]
+subjects: ["[[Subjects/Mind, Science and Systems|Mind, Science and Systems]]", "[[Subjects/Language and Literature|Language and Literature]]"]
 type: journal-fragment
 scan: scan_1997_2_p004
 ---

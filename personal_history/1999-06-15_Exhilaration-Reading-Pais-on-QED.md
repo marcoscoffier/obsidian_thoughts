@@ -1,10 +1,10 @@
 ---
 date: 1999-06-15
 dated: estimated
-era: "[[Paris, Beaux-Arts]]"
+era: "[[Eras/Paris, Beaux-Arts|Paris, Beaux-Arts]]"
 people: [Abraham Pais, Paul Dirac]
-themes: ["[[epistemology]]", "[[reading]]", "[[knowledge]]", "privilege"]
-subjects: ["[[Mind, Science and Systems]]", "[[Language and Literature]]", "[[Self]]"]
+themes: ["[[Themes/epistemology|epistemology]]", "[[Themes/reading|reading]]", "[[Themes/knowledge|knowledge]]", "privilege"]
+subjects: ["[[Subjects/Mind, Science and Systems|Mind, Science and Systems]]", "[[Subjects/Language and Literature|Language and Literature]]", "[[Subjects/Self|Self]]"]
 type: journal-fragment
 scan: scan_1997_2_p075
 ---

@@ -1,9 +1,9 @@
 ---
 date: 1994-08-04
-era: "[[Summer 1994, Travel and Alps]]"
+era: "[[Eras/Summer 1994, Travel and Alps|Summer 1994, Travel and Alps]]"
 people: [Giovanni Boccaccio, Giotto, Zeuxis, Pliny, Rudolf Arnheim, Pablo Picasso, Hans Holbein]
-themes: ["[[arnheim]]", "picasso", "[[illusion]]", "anamorphosis", "personality", "signs"]
-subjects: ["[[Perception and Space]]", "[[Art Theory and the Art World]]", "[[Self]]", "[[Language and Literature]]"]
+themes: ["[[Themes/arnheim|arnheim]]", "picasso", "[[Themes/illusion|illusion]]", "anamorphosis", "personality", "signs"]
+subjects: ["[[Subjects/Perception and Space|Perception and Space]]", "[[Subjects/Art Theory and the Art World|Art Theory and the Art World]]", "[[Subjects/Self|Self]]", "[[Subjects/Language and Literature|Language and Literature]]"]
 type: journal-fragment
 scan: scan_1994_2_p046
 ---

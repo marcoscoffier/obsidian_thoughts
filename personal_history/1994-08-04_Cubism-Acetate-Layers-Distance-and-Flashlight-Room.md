@@ -1,9 +1,9 @@
 ---
 date: 1994-08-04
-era: "[[Summer 1994, Travel and Alps]]"
+era: "[[Eras/Summer 1994, Travel and Alps|Summer 1994, Travel and Alps]]"
 people: [Rudolf Arnheim, Mary, Julien, Katrine, Childe Hassam]
-themes: ["cubism", "transparency", "depth-perception", "flashlight-room", "[[mirrors]]", "[[sculpture-ideas]]"]
-subjects: ["[[Making Art]]", "[[Perception and Space]]"]
+themes: ["cubism", "transparency", "depth-perception", "flashlight-room", "[[Themes/mirrors|mirrors]]", "[[Themes/sculpture-ideas|sculpture-ideas]]"]
+subjects: ["[[Subjects/Making Art|Making Art]]", "[[Subjects/Perception and Space|Perception and Space]]"]
 type: journal-fragment
 notebook_page: 103
 scan: [scan_1994_2_p045, scan_1994_2_p046]

@@ -1,9 +1,9 @@
 ---
 date: 1994-07-29
-era: "[[Summer 1994, Travel and Alps]]"
+era: "[[Eras/Summer 1994, Travel and Alps|Summer 1994, Travel and Alps]]"
 people: [Amy, Virginia Woolf, Joseph Conrad]
-themes: ["[[friendship]]", "sea", "[[literature]]", "[[memory]]", "[[ekphrasis]]"]
-subjects: ["[[Love and Relationships]]", "[[Perception and Space]]", "[[Language and Literature]]", "[[Self]]"]
+themes: ["[[Themes/friendship|friendship]]", "sea", "[[Themes/literature|literature]]", "[[Themes/memory|memory]]", "[[Themes/ekphrasis|ekphrasis]]"]
+subjects: ["[[Subjects/Love and Relationships|Love and Relationships]]", "[[Subjects/Perception and Space|Perception and Space]]", "[[Subjects/Language and Literature|Language and Literature]]", "[[Subjects/Self|Self]]"]
 type: journal-fragment
 notebook_page: 89
 scan: scan_1994_2_p018

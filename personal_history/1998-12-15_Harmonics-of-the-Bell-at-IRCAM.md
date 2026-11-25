@@ -1,10 +1,10 @@
 ---
 date: 1998-12-15
 dated: estimated
-era: "[[Paris, Beaux-Arts]]"
+era: "[[Eras/Paris, Beaux-Arts|Paris, Beaux-Arts]]"
 people: [Groves]
-themes: ["[[music]]", "[[sound-art]]", "[[project-list]]"]
-subjects: ["[[Sound and Music]]", "[[Making Art]]"]
+themes: ["[[Themes/music|music]]", "[[Themes/sound-art|sound-art]]", "[[Themes/project-list|project-list]]"]
+subjects: ["[[Subjects/Sound and Music|Sound and Music]]", "[[Subjects/Making Art|Making Art]]"]
 type: journal-fragment
 scan: scan_1997_2_p057
 ---

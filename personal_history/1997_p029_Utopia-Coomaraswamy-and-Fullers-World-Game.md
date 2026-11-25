@@ -1,9 +1,9 @@
 ---
 date: 1997
-era: "[[Paris, Beaux-Arts]]"
+era: "[[Eras/Paris, Beaux-Arts|Paris, Beaux-Arts]]"
 people: [Thomas More, Ananda K. Coomaraswamy, Ludwig Wittgenstein, Buckminster Fuller]
-themes: ["utopia", "[[nature]]", "[[systems]]", "[[language]]", "[[reading-list]]"]
-subjects: ["[[Places and Cities]]", "[[Mind, Science and Systems]]", "[[Language and Literature]]"]
+themes: ["utopia", "[[Themes/nature|nature]]", "[[Themes/systems|systems]]", "[[Themes/language|language]]", "[[Themes/reading-list|reading-list]]"]
+subjects: ["[[Subjects/Places and Cities|Places and Cities]]", "[[Subjects/Mind, Science and Systems|Mind, Science and Systems]]", "[[Subjects/Language and Literature|Language and Literature]]"]
 type: journal-fragment
 scan: scan_1997_p029
 ---

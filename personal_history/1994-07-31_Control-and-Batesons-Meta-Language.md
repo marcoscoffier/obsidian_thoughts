@@ -1,9 +1,9 @@
 ---
 date: 1994-07-31
-era: "[[Yale, New Haven]]"
+era: "[[Eras/Yale, New Haven|Yale, New Haven]]"
 people: [Gregory Bateson]
 themes: ["vulnerability", "control", "meta-language"]
-subjects: ["[[Self]]", "[[Language and Literature]]"]
+subjects: ["[[Subjects/Self|Self]]", "[[Subjects/Language and Literature|Language and Literature]]"]
 type: journal-fragment
 scan: scan_1994_1_p047
 ---

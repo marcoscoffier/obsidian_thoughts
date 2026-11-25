@@ -1,9 +1,9 @@
 ---
 date: 1994-06-26
-era: "[[Yale, New Haven]]"
+era: "[[Eras/Yale, New Haven|Yale, New Haven]]"
 people: []
-themes: ["[[collage]]", "[[studio-practice]]", "[[self-awareness]]", "creative-flow"]
-subjects: ["[[Making Art]]", "[[Self]]"]
+themes: ["[[Themes/collage|collage]]", "[[Themes/studio-practice|studio-practice]]", "[[Themes/self-awareness|self-awareness]]", "creative-flow"]
+subjects: ["[[Subjects/Making Art|Making Art]]", "[[Subjects/Self|Self]]"]
 type: visual-record
 notebook_page: 27
 scan: scan_1994_1_p045

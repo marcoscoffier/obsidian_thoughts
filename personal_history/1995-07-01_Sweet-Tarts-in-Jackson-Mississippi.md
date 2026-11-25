@@ -1,10 +1,10 @@
 ---
 date: 1995-07-01
 dated: estimated
-era: "[[DC, Post-College]]"
+era: "[[Eras/DC, Post-College|DC, Post-College]]"
 people: []
-themes: ["[[poetry]]", "[[travel]]"]
-subjects: ["[[Language and Literature]]", "[[Places and Cities]]"]
+themes: ["[[Themes/poetry|poetry]]", "[[Themes/travel|travel]]"]
+subjects: ["[[Subjects/Language and Literature|Language and Literature]]", "[[Subjects/Places and Cities|Places and Cities]]"]
 type: journal-fragment
 scan: scan_1995_p084
 ---

@@ -1,9 +1,9 @@
 ---
 date: 1994-08-05
-era: "[[Summer 1994, Travel and Alps]]"
+era: "[[Eras/Summer 1994, Travel and Alps|Summer 1994, Travel and Alps]]"
 people: []
-themes: ["alpine-painting", "[[landscape]]"]
-subjects: ["[[Making Art]]", "[[Places and Cities]]"]
+themes: ["alpine-painting", "[[Themes/landscape|landscape]]"]
+subjects: ["[[Subjects/Making Art|Making Art]]", "[[Subjects/Places and Cities|Places and Cities]]"]
 type: visual-record
 scan: photo-Screenshot_2026-11-18_at_10.29.19_AM
 ---

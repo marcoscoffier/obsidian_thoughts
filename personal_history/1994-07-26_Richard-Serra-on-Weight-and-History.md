@@ -1,9 +1,9 @@
 ---
 date: 1994-07-26
-era: "[[Yale, New Haven]]"
+era: "[[Eras/Yale, New Haven|Yale, New Haven]]"
 people: [Richard Serra]
-themes: ["[[sculpture]]", "weight", "gravity", "[[materiality]]", "[[history]]"]
-subjects: ["[[Making Art]]", "[[Perception and Space]]", "[[Art Theory and the Art World]]"]
+themes: ["[[Themes/sculpture|sculpture]]", "weight", "gravity", "[[Themes/materiality|materiality]]", "[[Themes/history|history]]"]
+subjects: ["[[Subjects/Making Art|Making Art]]", "[[Subjects/Perception and Space|Perception and Space]]", "[[Subjects/Art Theory and the Art World|Art Theory and the Art World]]"]
 type: visual-record
 scan: scan_1994_2_p001
 ---

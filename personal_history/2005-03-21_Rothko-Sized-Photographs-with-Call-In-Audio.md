@@ -1,10 +1,10 @@
 ---
 date: 2005-03-21
 dated: estimated
-era: "[[New York 2005]]"
+era: "[[Eras/New York 2005|New York 2005]]"
 people: [Mark Rothko, Robert Whitman]
-themes: ["[[photography]]", "[[installation]]", "[[communication]]", "[[project-list]]"]
-subjects: ["[[Making Art]]", "[[Language and Literature]]"]
+themes: ["[[Themes/photography|photography]]", "[[Themes/installation|installation]]", "[[Themes/communication|communication]]", "[[Themes/project-list|project-list]]"]
+subjects: ["[[Subjects/Making Art|Making Art]]", "[[Subjects/Language and Literature|Language and Literature]]"]
 type: journal-fragment
 scan: scan_1997_2_p089
 ---

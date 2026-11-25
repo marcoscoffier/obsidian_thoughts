@@ -1,9 +1,9 @@
 ---
 date: 1994-08-01
-era: "[[Summer 1994, Travel and Alps]]"
+era: "[[Eras/Summer 1994, Travel and Alps|Summer 1994, Travel and Alps]]"
 people: [Katherine, Mrs. C. Kamegaya]
-themes: ["[[poetry]]", "[[alps]]", "hiking", "[[drawing]]", "shadow", "tactile"]
-subjects: ["[[Language and Literature]]", "[[Places and Cities]]", "[[Self]]", "[[Making Art]]", "[[Perception and Space]]"]
+themes: ["[[Themes/poetry|poetry]]", "[[Themes/alps|alps]]", "hiking", "[[Themes/drawing|drawing]]", "shadow", "tactile"]
+subjects: ["[[Subjects/Language and Literature|Language and Literature]]", "[[Subjects/Places and Cities|Places and Cities]]", "[[Subjects/Self|Self]]", "[[Subjects/Making Art|Making Art]]", "[[Subjects/Perception and Space|Perception and Space]]"]
 type: journal-fragment
 notebook_page: 97
 scan: [scan_1994_2_p034, scan_1994_2_p035]

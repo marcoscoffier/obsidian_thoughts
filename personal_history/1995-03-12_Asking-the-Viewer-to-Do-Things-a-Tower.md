@@ -1,10 +1,10 @@
 ---
 date: 1995-03-12
 dated: estimated
-era: "[[Final Semester Yale 1995]]"
+era: "[[Eras/Final Semester Yale 1995|Final Semester Yale 1995]]"
 people: [Wordsworth, Emerson]
-themes: ["[[installation]]", "[[sculpture-ideas]]", "[[video]]", "[[nature]]"]
-subjects: ["[[Making Art]]", "[[Places and Cities]]"]
+themes: ["[[Themes/installation|installation]]", "[[Themes/sculpture-ideas|sculpture-ideas]]", "[[Themes/video|video]]", "[[Themes/nature|nature]]"]
+subjects: ["[[Subjects/Making Art|Making Art]]", "[[Subjects/Places and Cities|Places and Cities]]"]
 type: journal-fragment
 scan: scan_1995_p052
 ---

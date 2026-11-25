@@ -1,10 +1,10 @@
 ---
 date: 1999-06-15
 dated: estimated
-era: "[[Paris, Beaux-Arts]]"
+era: "[[Eras/Paris, Beaux-Arts|Paris, Beaux-Arts]]"
 people: []
-themes: ["[[drawing]]", "[[photography]]", "[[project-list]]", "[[tignes]]", "[[technology]]"]
-subjects: ["[[Making Art]]", "[[Places and Cities]]", "[[Mind, Science and Systems]]"]
+themes: ["[[Themes/drawing|drawing]]", "[[Themes/photography|photography]]", "[[Themes/project-list|project-list]]", "[[Themes/tignes|tignes]]", "[[Themes/technology|technology]]"]
+subjects: ["[[Subjects/Making Art|Making Art]]", "[[Subjects/Places and Cities|Places and Cities]]", "[[Subjects/Mind, Science and Systems|Mind, Science and Systems]]"]
 type: journal-fragment
 scan: scan_1997_2_p077
 ---

@@ -1,9 +1,9 @@
 ---
 date: 1994-07-19
-era: "[[Yale, New Haven]]"
+era: "[[Eras/Yale, New Haven|Yale, New Haven]]"
 people: []
-themes: ["chinese-painting", "brushwork", "negative-space", "[[nature]]"]
-subjects: ["[[Making Art]]", "[[Perception and Space]]", "[[Places and Cities]]"]
+themes: ["chinese-painting", "brushwork", "negative-space", "[[Themes/nature|nature]]"]
+subjects: ["[[Subjects/Making Art|Making Art]]", "[[Subjects/Perception and Space|Perception and Space]]", "[[Subjects/Places and Cities|Places and Cities]]"]
 type: journal-fragment
 scan: scan_1994_1_p117
 ---

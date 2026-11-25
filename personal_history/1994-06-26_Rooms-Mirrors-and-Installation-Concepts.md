@@ -1,9 +1,9 @@
 ---
 date: 1994-06-26
-era: "[[Yale, New Haven]]"
+era: "[[Eras/Yale, New Haven|Yale, New Haven]]"
 people: [Nelson Goodman]
-themes: ["[[sculpture]]", "[[installation]]", "[[perception]]", "[[mirrors]]", "[[space]]"]
-subjects: ["[[Making Art]]", "[[Perception and Space]]"]
+themes: ["[[Themes/sculpture|sculpture]]", "[[Themes/installation|installation]]", "[[Themes/perception|perception]]", "[[Themes/mirrors|mirrors]]", "[[Themes/space|space]]"]
+subjects: ["[[Subjects/Making Art|Making Art]]", "[[Subjects/Perception and Space|Perception and Space]]"]
 type: journal-fragment
 notebook_page: 48
 scan: scan_1994_1_p080

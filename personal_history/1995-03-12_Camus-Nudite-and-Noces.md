@@ -1,10 +1,10 @@
 ---
 date: 1995-03-12
 dated: estimated
-era: "[[Final Semester Yale 1995]]"
+era: "[[Eras/Final Semester Yale 1995|Final Semester Yale 1995]]"
 people: [Camus, Edward Weston, Turrell]
-themes: ["[[literature]]", "[[body]]", "[[photography]]", "[[french]]", "[[flight]]"]
-subjects: ["[[Language and Literature]]", "[[Self]]", "[[Making Art]]", "[[Places and Cities]]"]
+themes: ["[[Themes/literature|literature]]", "[[Themes/body|body]]", "[[Themes/photography|photography]]", "[[Themes/french|french]]", "[[Themes/flight|flight]]"]
+subjects: ["[[Subjects/Language and Literature|Language and Literature]]", "[[Subjects/Self|Self]]", "[[Subjects/Making Art|Making Art]]", "[[Subjects/Places and Cities|Places and Cities]]"]
 type: journal-fragment
 scan: [scan_1995_p052, scan_1995_p053]
 ---

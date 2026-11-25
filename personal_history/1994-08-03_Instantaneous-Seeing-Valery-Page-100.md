@@ -1,9 +1,9 @@
 ---
 date: 1994-08-03
-era: "[[Summer 1994, Travel and Alps]]"
+era: "[[Eras/Summer 1994, Travel and Alps|Summer 1994, Travel and Alps]]"
 people: [Katherine, Jacques-Louis David, Frank Auerbach, Paul Valéry]
-themes: ["museum-walks", "visual-perception", "[[gesture]]", "[[place-attachment]]", "travel-scars"]
-subjects: ["[[Places and Cities]]", "[[Perception and Space]]", "[[Making Art]]", "[[Self]]"]
+themes: ["museum-walks", "visual-perception", "[[Themes/gesture|gesture]]", "[[Themes/place-attachment|place-attachment]]", "travel-scars"]
+subjects: ["[[Subjects/Places and Cities|Places and Cities]]", "[[Subjects/Perception and Space|Perception and Space]]", "[[Subjects/Making Art|Making Art]]", "[[Subjects/Self|Self]]"]
 type: journal-fragment
 notebook_page: 100
 scan: [scan_1994_2_p039, scan_1994_2_p040]

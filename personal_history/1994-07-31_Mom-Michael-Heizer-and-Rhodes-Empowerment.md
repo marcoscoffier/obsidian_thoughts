@@ -1,9 +1,9 @@
 ---
 date: 1994-07-31
-era: "[[Summer 1994, Travel and Alps]]"
+era: "[[Eras/Summer 1994, Travel and Alps|Summer 1994, Travel and Alps]]"
 people: [Mom, Michael Heizer]
-themes: ["[[family]]", "validation", "rhodes-scholarship", "confidence", "passion"]
-subjects: ["[[Family]]", "[[Self]]", "[[Love and Relationships]]"]
+themes: ["[[Themes/family|family]]", "validation", "rhodes-scholarship", "confidence", "passion"]
+subjects: ["[[Subjects/Family|Family]]", "[[Subjects/Self|Self]]", "[[Subjects/Love and Relationships|Love and Relationships]]"]
 type: journal-fragment
 notebook_page: 91
 scan: scan_1994_2_p026

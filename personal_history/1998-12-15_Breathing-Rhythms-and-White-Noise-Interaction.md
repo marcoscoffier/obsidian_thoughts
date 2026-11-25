@@ -1,10 +1,10 @@
 ---
 date: 1998-12-15
 dated: estimated
-era: "[[Paris, Beaux-Arts]]"
+era: "[[Eras/Paris, Beaux-Arts|Paris, Beaux-Arts]]"
 people: [Antoine Brumel, Pérotin]
-themes: ["[[music]]", "[[sound-art]]", "[[systems]]"]
-subjects: ["[[Sound and Music]]", "[[Mind, Science and Systems]]"]
+themes: ["[[Themes/music|music]]", "[[Themes/sound-art|sound-art]]", "[[Themes/systems|systems]]"]
+subjects: ["[[Subjects/Sound and Music|Sound and Music]]", "[[Subjects/Mind, Science and Systems|Mind, Science and Systems]]"]
 type: journal-fragment
 scan: scan_1997_2_p043
 ---

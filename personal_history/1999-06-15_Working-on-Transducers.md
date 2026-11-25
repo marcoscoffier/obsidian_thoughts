@@ -1,10 +1,10 @@
 ---
 date: 1999-06-15
 dated: estimated
-era: "[[Paris, Beaux-Arts]]"
+era: "[[Eras/Paris, Beaux-Arts|Paris, Beaux-Arts]]"
 people: []
-themes: ["[[sound]]", "[[technology]]", "[[engineering]]"]
-subjects: ["[[Sound and Music]]", "[[Mind, Science and Systems]]"]
+themes: ["[[Themes/sound|sound]]", "[[Themes/technology|technology]]", "[[Themes/engineering|engineering]]"]
+subjects: ["[[Subjects/Sound and Music|Sound and Music]]", "[[Subjects/Mind, Science and Systems|Mind, Science and Systems]]"]
 type: journal-fragment
 scan: scan_1997_2_p074
 ---

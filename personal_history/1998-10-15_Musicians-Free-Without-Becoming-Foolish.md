@@ -1,10 +1,10 @@
 ---
 date: 1998-10-15
 dated: estimated
-era: "[[Paris, Beaux-Arts]]"
+era: "[[Eras/Japan|Japan]]"
 people: [Graham]
-themes: ["[[music]]", "[[sound]]", "[[sound-art]]", "[[japan]]"]
-subjects: ["[[Sound and Music]]", "[[Places and Cities]]"]
+themes: ["[[Themes/music|music]]", "[[Themes/sound|sound]]", "[[Themes/sound-art|sound-art]]", "[[Themes/japan|japan]]"]
+subjects: ["[[Subjects/Sound and Music|Sound and Music]]", "[[Subjects/Places and Cities|Places and Cities]]"]
 type: journal-fragment
 scan: scan_1997_2_p011
 ---

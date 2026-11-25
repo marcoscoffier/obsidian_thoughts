@@ -1,9 +1,9 @@
 ---
 date: 1994-06-25
-era: "[[Yale, New Haven]]"
+era: "[[Eras/Yale, New Haven|Yale, New Haven]]"
 people: [Nelson Goodman, Ernst Gombrich]
-themes: ["innocent-eye", "[[representation]]", "sculpture-concepts", "[[perception]]"]
-subjects: ["[[Perception and Space]]", "[[Art Theory and the Art World]]", "[[Making Art]]"]
+themes: ["innocent-eye", "[[Themes/representation|representation]]", "sculpture-concepts", "[[Themes/perception|perception]]"]
+subjects: ["[[Subjects/Perception and Space|Perception and Space]]", "[[Subjects/Art Theory and the Art World|Art Theory and the Art World]]", "[[Subjects/Making Art|Making Art]]"]
 type: journal-fragment
 scan: scan_1994_1_p081
 ---

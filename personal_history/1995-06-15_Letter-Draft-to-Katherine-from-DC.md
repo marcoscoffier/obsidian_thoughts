@@ -1,10 +1,10 @@
 ---
 date: 1995-06-15
 dated: estimated
-era: "[[DC, Post-College]]"
+era: "[[Eras/DC, Post-College|DC, Post-College]]"
 people: [Katherine]
-themes: ["[[katherine]]", "[[letters]]", "[[endings]]", "job-search"]
-subjects: ["[[Love and Relationships]]", "[[Self]]"]
+themes: ["[[Themes/katherine|katherine]]", "[[Themes/letters|letters]]", "[[Themes/endings|endings]]", "job-search"]
+subjects: ["[[Subjects/Love and Relationships|Love and Relationships]]", "[[Subjects/Self|Self]]"]
 type: journal-fragment
 scan: [scan_1995_p082, scan_1995_p083]
 ---

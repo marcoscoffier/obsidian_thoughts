@@ -1,10 +1,10 @@
 ---
 date: 1999-06-15
 dated: estimated
-era: "[[Paris, Beaux-Arts]]"
+era: "[[Eras/Paris, Beaux-Arts|Paris, Beaux-Arts]]"
 people: []
-themes: ["[[epistemology]]", "simplicity"]
-subjects: ["[[Mind, Science and Systems]]"]
+themes: ["[[Themes/epistemology|epistemology]]", "simplicity"]
+subjects: ["[[Subjects/Mind, Science and Systems|Mind, Science and Systems]]"]
 type: journal-fragment
 scan: scan_1997_2_p073
 ---

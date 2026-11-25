@@ -1,10 +1,10 @@
 ---
 date: 1998-12-15
 dated: estimated
-era: "[[Paris, Beaux-Arts]]"
+era: "[[Eras/Paris, Beaux-Arts|Paris, Beaux-Arts]]"
 people: [Ian Watt, Hal Foster, Frank Stella]
-themes: ["[[reading]]", "[[art-theory]]", "[[semiotics]]", "[[solitude]]"]
-subjects: ["[[Language and Literature]]", "[[Art Theory and the Art World]]", "[[Self]]"]
+themes: ["[[Themes/reading|reading]]", "[[Themes/art-theory|art-theory]]", "[[Themes/semiotics|semiotics]]", "[[Themes/solitude|solitude]]"]
+subjects: ["[[Subjects/Language and Literature|Language and Literature]]", "[[Subjects/Art Theory and the Art World|Art Theory and the Art World]]", "[[Subjects/Self|Self]]"]
 type: journal-fragment
 scan: scan_1997_2_p050
 ---

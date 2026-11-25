@@ -1,9 +1,9 @@
 ---
 date: 1995-02-27
-era: "[[Final Semester Yale 1995]]"
+era: "[[Eras/Final Semester Yale 1995|Final Semester Yale 1995]]"
 people: [Ron Jones, Arthur Danto, Rembrandt, Aristotle, Gerhard Richter, Jeff Koons, Frank Stella, Raphael]
-themes: ["[[art-theory]]", "[[coursework]]", "[[modernism]]", "[[representation]]"]
-subjects: ["[[Art Theory and the Art World]]"]
+themes: ["[[Themes/art-theory|art-theory]]", "[[Themes/coursework|coursework]]", "[[Themes/modernism|modernism]]", "[[Themes/representation|representation]]"]
+subjects: ["[[Subjects/Art Theory and the Art World|Art Theory and the Art World]]"]
 type: class-notes
 scan: scan_1995_p041
 ---

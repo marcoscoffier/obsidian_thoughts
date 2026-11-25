@@ -1,10 +1,10 @@
 ---
 date: 1998-10-15
 dated: estimated
-era: "[[Paris, Beaux-Arts]]"
+era: "[[Eras/Japan|Japan]]"
 people: []
-themes: ["[[self-criticism]]", "france", "[[ambition]]"]
-subjects: ["[[Self]]", "[[Places and Cities]]"]
+themes: ["[[Themes/self-criticism|self-criticism]]", "france", "[[Themes/ambition|ambition]]"]
+subjects: ["[[Subjects/Self|Self]]", "[[Subjects/Places and Cities|Places and Cities]]"]
 type: journal-fragment
 scan: scan_1997_2_p013
 ---

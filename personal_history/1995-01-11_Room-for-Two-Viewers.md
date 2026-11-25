@@ -1,10 +1,10 @@
 ---
 date: 1995-01-11
 dated: estimated
-era: "[[Final Semester Yale 1995]]"
+era: "[[Eras/Final Semester Yale 1995|Final Semester Yale 1995]]"
 people: []
-themes: ["[[installation]]", "[[sculpture-ideas]]", "[[intimacy]]"]
-subjects: ["[[Making Art]]", "[[Love and Relationships]]"]
+themes: ["[[Themes/installation|installation]]", "[[Themes/sculpture-ideas|sculpture-ideas]]", "[[Themes/intimacy|intimacy]]"]
+subjects: ["[[Subjects/Making Art|Making Art]]", "[[Subjects/Love and Relationships|Love and Relationships]]"]
 type: visual-record
 scan: scan_1995_p012
 ---

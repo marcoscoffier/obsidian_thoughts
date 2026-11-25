@@ -1,10 +1,10 @@
 ---
 date: 1998-12-15
 dated: estimated
-era: "[[Paris, Beaux-Arts]]"
+era: "[[Eras/Paris, Beaux-Arts|Paris, Beaux-Arts]]"
 people: []
-themes: ["[[photography]]", "[[light]]", "[[writing-process]]", "[[identity]]"]
-subjects: ["[[Making Art]]", "[[Perception and Space]]", "[[Language and Literature]]", "[[Self]]"]
+themes: ["[[Themes/photography|photography]]", "[[Themes/light|light]]", "[[Themes/writing-process|writing-process]]", "[[Themes/identity|identity]]"]
+subjects: ["[[Subjects/Making Art|Making Art]]", "[[Subjects/Perception and Space|Perception and Space]]", "[[Subjects/Language and Literature|Language and Literature]]", "[[Subjects/Self|Self]]"]
 type: journal-fragment
 scan: scan_1997_2_p046
 ---

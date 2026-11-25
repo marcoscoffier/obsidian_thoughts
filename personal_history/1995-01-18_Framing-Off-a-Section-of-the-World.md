@@ -1,9 +1,9 @@
 ---
 date: 1995-01-18
-era: "[[Final Semester Yale 1995]]"
+era: "[[Eras/Final Semester Yale 1995|Final Semester Yale 1995]]"
 people: [Garth, Graham, Turrell]
-themes: ["[[framing]]", "[[dreams]]", "[[social-alienation]]", "[[turrell]]"]
-subjects: ["[[Perception and Space]]", "[[Self]]"]
+themes: ["[[Themes/framing|framing]]", "[[Themes/dreams|dreams]]", "[[Themes/social-alienation|social-alienation]]", "[[Themes/turrell|turrell]]"]
+subjects: ["[[Subjects/Perception and Space|Perception and Space]]", "[[Subjects/Self|Self]]"]
 type: journal-fragment
 scan: [scan_1995_p017, scan_1995_p018]
 ---

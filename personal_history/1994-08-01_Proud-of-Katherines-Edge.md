@@ -1,9 +1,9 @@
 ---
 date: 1994-08-01
-era: "[[Summer 1994, Travel and Alps]]"
+era: "[[Eras/Summer 1994, Travel and Alps|Summer 1994, Travel and Alps]]"
 people: [Katherine]
-themes: ["[[katherine]]", "romance", "pride", "individuality"]
-subjects: ["[[Love and Relationships]]", "[[Self]]"]
+themes: ["[[Themes/katherine|katherine]]", "romance", "pride", "individuality"]
+subjects: ["[[Subjects/Love and Relationships|Love and Relationships]]", "[[Subjects/Self|Self]]"]
 type: journal-fragment
 scan: scan_1994_2_p038
 ---

@@ -1,10 +1,10 @@
 ---
 date: 1998-12-15
 dated: estimated
-era: "[[Paris, Beaux-Arts]]"
+era: "[[Eras/Paris, Beaux-Arts|Paris, Beaux-Arts]]"
 people: []
-themes: ["[[painting-process]]", "[[materiality]]"]
-subjects: ["[[Making Art]]"]
+themes: ["[[Themes/painting-process|painting-process]]", "[[Themes/materiality|materiality]]"]
+subjects: ["[[Subjects/Making Art|Making Art]]"]
 type: journal-fragment
 scan: scan_1997_2_p051
 ---

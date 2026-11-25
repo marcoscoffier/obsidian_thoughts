@@ -1,10 +1,10 @@
 ---
 date: 1998-10-15
 dated: estimated
-era: "[[Japan]]"
+era: "[[Eras/Japan|Japan]]"
 people: []
-themes: ["[[sound-art]]", "[[music]]", "[[video]]", "[[technology]]", "[[japan]]"]
-subjects: ["[[Sound and Music]]", "[[Making Art]]", "[[Mind, Science and Systems]]", "[[Places and Cities]]"]
+themes: ["[[Themes/sound-art|sound-art]]", "[[Themes/music|music]]", "[[Themes/video|video]]", "[[Themes/technology|technology]]", "[[Themes/japan|japan]]"]
+subjects: ["[[Subjects/Sound and Music|Sound and Music]]", "[[Subjects/Making Art|Making Art]]", "[[Subjects/Mind, Science and Systems|Mind, Science and Systems]]", "[[Subjects/Places and Cities|Places and Cities]]"]
 type: journal-fragment
 scan: scan_1997_2_p026
 ---

@@ -1,10 +1,10 @@
 ---
 date: 1998-10-15
 dated: estimated
-era: "[[Paris, Beaux-Arts]]"
+era: "[[Eras/Japan|Japan]]"
 people: [Tony Hiss, Ron Jones]
-themes: ["[[ambition]]", "[[technology]]", "[[public-space]]", "[[project-list]]"]
-subjects: ["[[Self]]", "[[Mind, Science and Systems]]", "[[Places and Cities]]", "[[Making Art]]"]
+themes: ["[[Themes/ambition|ambition]]", "[[Themes/technology|technology]]", "[[Themes/public-space|public-space]]", "[[Themes/project-list|project-list]]"]
+subjects: ["[[Subjects/Self|Self]]", "[[Subjects/Mind, Science and Systems|Mind, Science and Systems]]", "[[Subjects/Places and Cities|Places and Cities]]", "[[Subjects/Making Art|Making Art]]"]
 type: journal-fragment
 scan: scan_1997_2_p015
 ---

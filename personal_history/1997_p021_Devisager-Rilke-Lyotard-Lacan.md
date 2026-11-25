@@ -1,9 +1,9 @@
 ---
 date: 1997
-era: "[[Paris, Beaux-Arts]]"
+era: "[[Eras/Paris, Beaux-Arts|Paris, Beaux-Arts]]"
 people: [Rainer Maria Rilke, Jean-François Lyotard, Jacques Lacan, Serge Doubrovsky]
-themes: ["the-face", "[[reading-list]]", "[[mirrors]]", "autofiction", "[[french]]"]
-subjects: ["[[Perception and Space]]", "[[Language and Literature]]"]
+themes: ["the-face", "[[Themes/reading-list|reading-list]]", "[[Themes/mirrors|mirrors]]", "autofiction", "[[Themes/french|french]]"]
+subjects: ["[[Subjects/Perception and Space|Perception and Space]]", "[[Subjects/Language and Literature|Language and Literature]]"]
 type: journal-fragment
 scan: scan_1997_p021
 ---

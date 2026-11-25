@@ -1,9 +1,9 @@
 ---
 date: 1994-06-27
-era: "[[Yale, New Haven]]"
+era: "[[Eras/Yale, New Haven|Yale, New Haven]]"
 people: [Khalil Gibran, Cara]
-themes: ["[[perspective]]", "quoting", "[[maps]]"]
-subjects: ["[[Perception and Space]]", "[[Language and Literature]]", "[[Places and Cities]]"]
+themes: ["[[Themes/perspective|perspective]]", "quoting", "[[Themes/maps|maps]]"]
+subjects: ["[[Subjects/Perception and Space|Perception and Space]]", "[[Subjects/Language and Literature|Language and Literature]]", "[[Subjects/Places and Cities|Places and Cities]]"]
 type: journal-fragment
 scan: scan_1994_1_p044
 ---

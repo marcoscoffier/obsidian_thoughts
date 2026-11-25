@@ -1,10 +1,10 @@
 ---
 date: 1998-12-15
 dated: estimated
-era: "[[Paris, Beaux-Arts]]"
+era: "[[Eras/Paris, Beaux-Arts|Paris, Beaux-Arts]]"
 people: []
-themes: ["[[photography]]", "[[memory]]", "[[solitude]]", "[[city]]"]
-subjects: ["[[Making Art]]", "[[Self]]", "[[Places and Cities]]"]
+themes: ["[[Themes/photography|photography]]", "[[Themes/memory|memory]]", "[[Themes/solitude|solitude]]", "[[Themes/city|city]]"]
+subjects: ["[[Subjects/Making Art|Making Art]]", "[[Subjects/Self|Self]]", "[[Subjects/Places and Cities|Places and Cities]]"]
 type: journal-fragment
 scan: scan_1997_2_p054
 ---

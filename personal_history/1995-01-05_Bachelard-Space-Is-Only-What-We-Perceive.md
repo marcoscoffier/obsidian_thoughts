@@ -1,9 +1,9 @@
 ---
 date: 1995-01-05
-era: "[[Final Semester Yale 1995]]"
+era: "[[Eras/Final Semester Yale 1995|Final Semester Yale 1995]]"
 people: [Bachelard, Wordsworth, Merleau-Ponty, Husserl]
-themes: ["[[space]]", "[[perception]]", "[[poetry]]", "space-vs-time"]
-subjects: ["[[Perception and Space]]", "[[Language and Literature]]"]
+themes: ["[[Themes/space|space]]", "[[Themes/perception|perception]]", "[[Themes/poetry|poetry]]", "space-vs-time"]
+subjects: ["[[Subjects/Perception and Space|Perception and Space]]", "[[Subjects/Language and Literature|Language and Literature]]"]
 type: journal-fragment
 scan: scan_1995_p004
 ---

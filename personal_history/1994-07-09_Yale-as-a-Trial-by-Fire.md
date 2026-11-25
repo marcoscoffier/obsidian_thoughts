@@ -1,9 +1,9 @@
 ---
 date: 1994-07-09
-era: "[[Yale, New Haven]]"
+era: "[[Eras/Yale, New Haven|Yale, New Haven]]"
 people: [Ken Mayer]
-themes: ["[[yale-culture]]", "[[fear]]", "[[criticism]]"]
-subjects: ["[[Places and Cities]]", "[[Self]]", "[[Art Theory and the Art World]]"]
+themes: ["[[Themes/yale-culture|yale-culture]]", "[[Themes/fear|fear]]", "[[Themes/criticism|criticism]]"]
+subjects: ["[[Subjects/Places and Cities|Places and Cities]]", "[[Subjects/Self|Self]]", "[[Subjects/Art Theory and the Art World|Art Theory and the Art World]]"]
 type: journal-fragment
 notebook_page: 59
 scan: scan_1994_1_p102

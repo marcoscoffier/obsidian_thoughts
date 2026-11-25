@@ -1,9 +1,9 @@
 ---
 date: 1997
-era: "[[Paris, Beaux-Arts]]"
+era: "[[Eras/Paris, Beaux-Arts|Paris, Beaux-Arts]]"
 people: []
-themes: ["[[photography]]", "pinhole-camera", "[[studio-practice]]"]
-subjects: ["[[Making Art]]"]
+themes: ["[[Themes/photography|photography]]", "pinhole-camera", "[[Themes/studio-practice|studio-practice]]"]
+subjects: ["[[Subjects/Making Art|Making Art]]"]
 type: journal-fragment
 scan: [scan_1997_p021, scan_1997_p022]
 ---

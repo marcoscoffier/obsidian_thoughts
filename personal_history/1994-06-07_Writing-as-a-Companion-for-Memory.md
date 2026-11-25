@@ -1,9 +1,9 @@
 ---
 date: 1994-06-07
-era: "[[Yale, New Haven]]"
+era: "[[Eras/Yale, New Haven|Yale, New Haven]]"
 people: [Umberto Eco, Paul Valéry]
-themes: ["[[memory]]", "[[writing-process]]"]
-subjects: ["[[Self]]", "[[Language and Literature]]"]
+themes: ["[[Themes/memory|memory]]", "[[Themes/writing-process|writing-process]]"]
+subjects: ["[[Subjects/Self|Self]]", "[[Subjects/Language and Literature|Language and Literature]]"]
 type: journal-fragment
 notebook_page: 30
 scan: [scan_1994_1_p049, scan_1994_1_p050]
